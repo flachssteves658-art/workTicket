@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>工地管理</title>
+    <link rel="stylesheet" href="/css/styles.css">
+    <script src="/runtime-config.js"></script>
+    <script src="/js/sites.js" type="module" defer></script>
+</head>
+<body>
+    <h1>工地管理</h1>
+    <div class="page-container">
+        <section class="site-form">
+            <input id="site-name" type="text" placeholder="新工地名称">
+            <button id="create-site-button">新增工地</button>
+            <div id="site-form-error" class="error-text"></div>
+        </section>
+        <section id="site-list" class="site-list"></section>
+    </div>
+</body>
+</html>

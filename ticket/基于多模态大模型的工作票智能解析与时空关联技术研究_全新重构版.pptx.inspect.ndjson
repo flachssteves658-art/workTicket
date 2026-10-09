@@ -1,0 +1,292 @@
+{"kind":"deck","id":"pr/ux4xie","name":"Deck"}
+{"kind":"layout","layoutId":"/ppt/slideMasters/slideMaster1.xml","name":"","type":"master","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式 | 第二级 | 第三级 | 第四级 | 第五级"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout1.xml","name":"1_标题幻灯片","placeholders":[{"name":"body","type":"body"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout2.xml","name":"2_标题幻灯片","placeholders":[{"name":"body","type":"body"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout3.xml","name":"自定义版式","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout4.xml","name":"标题幻灯片","type":"title","placeholders":[{"name":"title","type":"title","textPreview":"单击此处添加标题"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"},{"name":"subtitle","type":"subtitle","textPreview":"单击此处添加副标题"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout5.xml","name":"标题和内容","type":"obj","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"2","textPreview":"单击此处编辑母版文本样式 | 第二级 | 第三级 | 第四级 | 第五级"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout6.xml","name":"节标题","type":"secHead","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout7.xml","name":"两栏内容","type":"twoObj","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"2","textPreview":"单击此处编辑母版文本样式 | 第二级 | 第三级 | 第四级 | 第五级"},{"name":"3","textPreview":"单击此处编辑母版文本样式 | 第二级 | 第三级 | 第四级 | 第五级"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout8.xml","name":"比较","type":"twoTxTwoObj","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式"},{"name":"3","textPreview":"单击此处编辑母版文本样式 | 第二级 | 第三级 | 第四级 | 第五级"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式"},{"name":"5","textPreview":"单击此处编辑母版文本样式 | 第二级 | 第三级 | 第四级 | 第五级"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout9.xml","name":"仅标题","type":"titleOnly","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout10.xml","name":"空白","type":"blank","placeholders":[{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout11.xml","name":"图片与标题","type":"picTx","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑标题"},{"name":"picture","type":"picture"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout12.xml","name":"竖排标题与文本","type":"vertTitleAndTx","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式 | 第二级 | 第三级 | 第四级 | 第五级"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout13.xml","name":"内容","placeholders":[{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"},{"name":"6","textPreview":"单击此处编辑母版文本样式 | 第二级 | 第三级 | 第四级 | 第五级"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout14.xml","name":"1_自定义版式","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"slide","id":"sl/rgcdr0","slide":1,"title":"基于多模态大模型的工作票智能解析与时空关联技术研究","textShapes":4}
+{"kind":"textbox","id":"sh/x4nml0vu","slide":1,"text":"基于多模态大模型的工作票智能解析与时空关联技术研究","textPreview":"基于多模态大模型的工作票智能解析与时空关联技术研究","textChars":25,"textLines":1,"bbox":[101.3,127.5,757.5,72]}
+{"kind":"textbox","id":"sh/y5w3e5wf","slide":1,"text":"阶段性研究分报告","textPreview":"阶段性研究分报告","textChars":8,"textLines":1,"bbox":[187.5,214.5,585,36]}
+{"kind":"textbox","id":"sh/j654nad0","slide":1,"text":"华东分部生技部、武汉南瑞","textPreview":"华东分部生技部、武汉南瑞","textChars":12,"textLines":1,"bbox":[232.5,420,495,25.5]}
+{"kind":"textbox","id":"sh/k7elgfe5","slide":1,"text":"2026年8月","textPreview":"2026年8月","textChars":7,"textLines":1,"bbox":[232.5,461.3,495,21]}
+{"kind":"image","id":"im/gzi58r6l","slide":1,"name":"图片 1","bbox":[0.69,103.68,956.97,264.6]}
+{"kind":"image","id":"im/fy94fmp0","slide":1,"name":"Picture 2","bbox":[729.48,1.97,230.52,73.67]}
+{"kind":"notes","id":"nt/rgcdr0","slide":1,"text":"介绍报告主题与汇报范围。\n\n[Sources]\n\n[/Sources]"}
+{"kind":"slide","id":"sl/t5t6vz","slide":2,"title":"CONTENTS","textShapes":10}
+{"kind":"shape","id":"sh/1s7y5cvi","slide":2,"bbox":[39,60,176.3,420]}
+{"kind":"textbox","id":"sh/gryxw7ux","slide":2,"text":"CONTENTS","textPreview":"CONTENTS","textChars":8,"textLines":1,"bbox":[61.5,176.3,131.3,33.8]}
+{"kind":"textbox","id":"sh/fqpg32dc","slide":2,"text":"目 录","textPreview":"目 录","textChars":3,"textLines":1,"bbox":[61.5,217.5,131.3,37.5]}
+{"kind":"shape","id":"sh/epgfuxcr","slide":2,"bbox":[266.3,120,547.5,48]}
+{"kind":"textbox","id":"sh/tone1sv6","slide":2,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[285,132,52.5,21]}
+{"kind":"textbox","id":"sh/snexsnul","slide":2,"text":"研究背景与阶段进展","textPreview":"研究背景与阶段进展","textChars":9,"textLines":1,"bbox":[352.5,130.5,420,24]}
+{"kind":"shape","id":"sh/rm5wzidg","slide":2,"bbox":[266.3,204,547.5,48]}
+{"kind":"textbox","id":"sh/6lwfqdcv","slide":2,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[285,216,52.5,21]}
+{"kind":"textbox","id":"sh/dkrydwbq","slide":2,"text":"总体方案与工作票解析","textPreview":"总体方案与工作票解析","textChars":10,"textLines":1,"bbox":[352.5,214.5,420,24]}
+{"kind":"shape","id":"sh/cjix4ru5","slide":2,"bbox":[266.3,288,547.5,48]}
+{"kind":"textbox","id":"sh/wnqh0v21","slide":2,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[285,300,52.5,21]}
+{"kind":"textbox","id":"sh/xozi90jm","slide":2,"text":"监控视频与时空关联","textPreview":"监控视频与时空关联","textChars":9,"textLines":1,"bbox":[352.5,298.5,420,24]}
+{"kind":"shape","id":"sh/al8zylkb","slide":2,"bbox":[266.3,372,547.5,48]}
+{"kind":"textbox","id":"sh/vmh07q1w","slide":2,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[285,384,52.5,21]}
+{"kind":"textbox","id":"sh/8z6hwb25","slide":2,"text":"成果产出与后续计划","textPreview":"成果产出与后续计划","textChars":9,"textLines":1,"bbox":[352.5,382.5,420,24]}
+{"kind":"image","id":"im/47mhs7mx","slide":2,"name":"Picture 2","bbox":[729.48,1.97,230.52,73.67]}
+{"kind":"notes","id":"nt/t5t6vz","slide":2,"text":"四部分依次回答为什么做、怎样做、如何关联以及形成哪些成果。\n\n[Sources]\n\n[/Sources]"}
+{"kind":"slide","id":"sl/ay200x","slide":3,"title":"一、研究背景与阶段进展","textShapes":13}
+{"kind":"textbox","id":"sh/gri9wzi1","slide":3,"text":"一、研究背景与阶段进展","textPreview":"一、研究背景与阶段进展","textChars":11,"textLines":1,"bbox":[31.5,18.8,225,22.5]}
+{"kind":"textbox","id":"sh/hsrq54zm","slide":3,"text":"■ 工作票与监控视频相互独立，现场核查仍依赖人工","textPreview":"■ 工作票与监控视频相互独立，现场核查仍依赖人工","textChars":24,"textLines":1,"bbox":[31.5,51,667.5,31.5]}
+{"kind":"shape","id":"sh/up07u90v","slide":3,"bbox":[45,123.8,262.5,225]}
+{"kind":"textbox","id":"sh/vq983ehg","slide":3,"text":"工作票难直接利用","textPreview":"工作票难直接利用","textChars":8,"textLines":1,"bbox":[66,146.3,220.5,27]}
+{"kind":"textbox","id":"sh/8nipszi5","slide":3,"text":"票面含文本、表格和版面结构，字段表达不统一","textPreview":"票面含文本、表格和版面结构，字段表达不统一","textChars":21,"textLines":1,"bbox":[73.5,202.5,205.5,82.5]}
+{"kind":"textbox","id":"sh/9orq14za","slide":3,"text":"文本/表格","textPreview":"文本/表格","textChars":5,"textLines":1,"bbox":[142.5,305.3,67.5,22.5]}
+{"kind":"shape","id":"sh/m1g7qp0z","slide":3,"bbox":[348.8,123.8,262.5,225]}
+{"kind":"textbox","id":"sh/7mp8zuhk","slide":3,"text":"监控视频检索成本高","textPreview":"监控视频检索成本高","textChars":9,"textLines":1,"bbox":[369.8,146.3,220.5,27]}
+{"kind":"textbox","id":"sh/kzypofit","slide":3,"text":"录像时间长、点位多，人工回放效率低","textPreview":"录像时间长、点位多，人工回放效率低","textChars":17,"textLines":1,"bbox":[377.3,202.5,205.5,82.5]}
+{"kind":"textbox","id":"sh/l07qxkze","slide":3,"text":"长视频","textPreview":"长视频","textChars":3,"textLines":1,"bbox":[446.3,305.3,67.5,22.5]}
+{"kind":"shape","id":"sh/1gz61gb2","slide":3,"bbox":[652.5,123.8,262.5,225]}
+{"kind":"textbox","id":"sh/0fq5sbah","slide":3,"text":"票面与现场缺少关联","textPreview":"票面与现场缺少关联","textChars":9,"textLines":1,"bbox":[673.5,146.3,220.5,27]}
+{"kind":"textbox","id":"sh/zuhoz6tc","slide":3,"text":"仅凭时间或点位，难确认视频是否对应具体任务","textPreview":"仅凭时间或点位，难确认视频是否对应具体任务","textChars":21,"textLines":1,"bbox":[681,202.5,205.5,82.5]}
+{"kind":"textbox","id":"sh/et8nq1sr","slide":3,"text":"多模态","textPreview":"多模态","textChars":3,"textLines":1,"bbox":[750,305.3,67.5,22.5]}
+{"kind":"shape","id":"sh/dsz6xwb6","slide":3,"bbox":[48,474,864,36]}
+{"kind":"textbox","id":"sh/crq5obal","slide":3,"text":"需要建立“工作票智能解析—视频检索—内容关联—证据追溯”的统一技术链路。","textPreview":"需要建立“工作票智能解析—视频检索—内容关联—证据追溯”的统一技术链路。","textChars":36,"textLines":1,"bbox":[61.5,483.8,837,18]}
+{"kind":"textbox","id":"sh/rqxov6t0","slide":3,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[850.5,512.3,60,13.5]}
+{"kind":"image","id":"im/vuhwbid4","slide":3,"name":"Picture 2","bbox":[729.48,1.97,230.52,73.67]}
+{"kind":"notes","id":"nt/ay200x","slide":3,"text":"说明研究的业务必要性。\n\n[Sources]\n\n[/Sources]"}
+{"kind":"slide","id":"sl/tw6eku","slide":4,"title":"一、研究背景与阶段进展","textShapes":16}
+{"kind":"textbox","id":"sh/szq107y5","slide":4,"text":"一、研究背景与阶段进展","textPreview":"一、研究背景与阶段进展","textChars":11,"textLines":1,"bbox":[31.5,18.8,225,22.5]}
+{"kind":"textbox","id":"sh/t0z2tcfq","slide":4,"text":"■ 研究目标是形成从票面理解到现场证据的完整闭环","textPreview":"■ 研究目标是形成从票面理解到现场证据的完整闭环","textChars":24,"textLines":1,"bbox":[31.5,51,667.5,31.5]}
+{"kind":"shape","id":"sh/6x8jyxgf","slide":4,"bbox":[41.3,142.5,198.8,217.5]}
+{"kind":"textbox","id":"sh/7yhkr2xk","slide":4,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[116.3,165,48.8,48.8]}
+{"kind":"textbox","id":"sh/kv61w7y9","slide":4,"text":"信息解析","textPreview":"信息解析","textChars":4,"textLines":1,"bbox":[59.3,236.3,162.8,25.5]}
+{"kind":"textbox","id":"sh/5wf2psfu","slide":4,"text":"提取时间、地点、设备、任务、人员和安全措施","textPreview":"提取时间、地点、设备、任务、人员和安全措施","textChars":21,"textLines":1,"bbox":[63.8,277.5,153.8,58.5]}
+{"kind":"shape","id":"sh/itojuxg3","slide":4,"bbox":[267.8,142.5,198.8,217.5]}
+{"kind":"textbox","id":"sh/juxkn2xo","slide":4,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[342.8,165,48.8,48.8]}
+{"kind":"textbox","id":"sh/wr61snyx","slide":4,"text":"时空定位","textPreview":"时空定位","textChars":4,"textLines":1,"bbox":[285.8,236.3,162.8,25.5]}
+{"kind":"textbox","id":"sh/xsfilsfi","slide":4,"text":"根据作业时间和设备位置筛选摄像机及录像","textPreview":"根据作业时间和设备位置筛选摄像机及录像","textChars":19,"textLines":1,"bbox":[290.3,277.5,153.8,58.5]}
+{"kind":"shape","id":"sh/dcnq9k3a","slide":4,"bbox":[494.3,142.5,198.8,217.5]}
+{"kind":"textbox","id":"sh/cbe90fmp","slide":4,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[569.3,165,48.8,48.8]}
+{"kind":"textbox","id":"sh/ba587al4","slide":4,"text":"内容关联","textPreview":"内容关联","textChars":4,"textLines":1,"bbox":[512.3,236.3,162.8,25.5]}
+{"kind":"textbox","id":"sh/q9w7y54j","slide":4,"text":"判断视频内容与工作票任务是否语义一致","textPreview":"判断视频内容与工作票任务是否语义一致","textChars":18,"textLines":1,"bbox":[516.8,277.5,153.8,58.5]}
+{"kind":"shape","id":"sh/p8nq5k3y","slide":4,"bbox":[720.8,142.5,198.8,217.5]}
+{"kind":"textbox","id":"sh/o7upwfmd","slide":4,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[795.8,165,48.8,48.8]}
+{"kind":"textbox","id":"sh/3ml83al8","slide":4,"text":"证据输出","textPreview":"证据输出","textChars":4,"textLines":1,"bbox":[738.8,236.3,162.8,25.5]}
+{"kind":"textbox","id":"sh/2lc7u54n","slide":4,"text":"输出视频片段、关键帧及关联依据","textPreview":"输出视频片段、关键帧及关联依据","textChars":15,"textLines":1,"bbox":[743.3,277.5,153.8,58.5]}
+{"kind":"shape","id":"sh/947qh43i","slide":4,"bbox":[48,474,864,36]}
+{"kind":"textbox","id":"sh/83y98zmx","slide":4,"text":"核心输出不是“整段录像”，而是与具体工作任务相对应、可复核的视频证据。","textPreview":"核心输出不是“整段录像”，而是与具体工作任务相对应、可复核的视频证据。","textChars":35,"textLines":1,"bbox":[61.5,483.8,837,18]}
+{"kind":"textbox","id":"sh/6psn21kf","slide":4,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[850.5,512.3,60,13.5]}
+{"kind":"image","id":"im/rm10fu1w","slide":4,"name":"Picture 2","bbox":[729.48,1.97,230.52,73.67]}
+{"kind":"notes","id":"nt/tw6eku","slide":4,"text":"四级目标由解析逐步走向业务闭环。\n\n[Sources]\n\n[/Sources]"}
+{"kind":"slide","id":"sl/0ur0ua","slide":5,"title":"一、研究背景与阶段进展","textShapes":18}
+{"kind":"textbox","id":"sh/3qt4ze10","slide":5,"text":"一、研究背景与阶段进展","textPreview":"一、研究背景与阶段进展","textChars":11,"textLines":1,"bbox":[31.5,18.8,225,22.5]}
+{"kind":"textbox","id":"sh/2pknq90f","slide":5,"text":"■ 两项核心技术已完成，课题进入集成验证阶段","textPreview":"■ 两项核心技术已完成，课题进入集成验证阶段","textChars":22,"textLines":1,"bbox":[31.5,51,667.5,31.5]}
+{"kind":"shape","id":"sh/psbm1oj6","slide":5,"bbox":[52.5,127.5,390,221.3]}
+{"kind":"textbox","id":"sh/or25sjil","slide":5,"text":"工作票关键信息抽取技术","textPreview":"工作票关键信息抽取技术","textChars":11,"textLines":1,"bbox":[75,153.8,345,30]}
+{"kind":"textbox","id":"sh/but43ehc","slide":5,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[86.3,210,16.5,21]}
+{"kind":"textbox","id":"sh/qtknut0r","slide":5,"text":"完成多模态工作票解析流程","textPreview":"完成多模态工作票解析流程","textChars":12,"textLines":1,"bbox":[107.3,210,294,34.5]}
+{"kind":"textbox","id":"sh/dwbm5oz2","slide":5,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[86.3,255,16.5,21]}
+{"kind":"textbox","id":"sh/cv25wjix","slide":5,"text":"形成文本、表格、版面融合抽取能力","textPreview":"形成文本、表格、版面融合抽取能力","textChars":16,"textLines":1,"bbox":[107.3,255,294,34.5]}
+{"kind":"textbox","id":"sh/ry94ru1s","slide":5,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[86.3,300,16.5,21]}
+{"kind":"textbox","id":"sh/6xg3ip0n","slide":5,"text":"支持结构化结果与中间证据留存","textPreview":"支持结构化结果与中间证据留存","textChars":14,"textLines":1,"bbox":[107.3,300,294,34.5]}
+{"kind":"shape","id":"sh/up8zm1o7","slide":5,"bbox":[517.5,127.5,390,221.3]}
+{"kind":"textbox","id":"sh/vqhgfmps","slide":5,"text":"监控视频内容关联技术","textPreview":"监控视频内容关联技术","textChars":10,"textLines":1,"bbox":[540,153.8,345,30]}
+{"kind":"textbox","id":"sh/grqhor6d","slide":5,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[551.3,210,16.5,21]}
+{"kind":"textbox","id":"sh/hszyhwny","slide":5,"text":"完成融合多模态语义理解的实现","textPreview":"完成融合多模态语义理解的实现","textChars":14,"textLines":1,"bbox":[572.3,210,294,34.5]}
+{"kind":"textbox","id":"sh/61ofihob","slide":5,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[551.3,255,16.5,21]}
+{"kind":"textbox","id":"sh/72hgbmpw","slide":5,"text":"形成候选视频筛选与内容匹配链路","textPreview":"形成候选视频筛选与内容匹配链路","textChars":15,"textLines":1,"bbox":[572.3,255,294,34.5]}
+{"kind":"textbox","id":"sh/83qhkr61","slide":5,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[551.3,300,16.5,21]}
+{"kind":"textbox","id":"sh/t4zydw7m","slide":5,"text":"支持关键片段和关联依据输出","textPreview":"支持关键片段和关联依据输出","textChars":13,"textLines":1,"bbox":[572.3,300,294,34.5]}
+{"kind":"shape","id":"sh/yxofexoz","slide":5,"bbox":[180,390,600,54]}
+{"kind":"textbox","id":"sh/jyxg72pk","slide":5,"text":"当前重点：真实样本批量验证与票—设备—摄像机—视频闭环演示","textPreview":"当前重点：真实样本批量验证与票—设备—摄像机—视频闭环演示","textChars":29,"textLines":1,"bbox":[202.5,406.5,555,21]}
+{"kind":"textbox","id":"sh/1sn2dk72","slide":5,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[850.5,512.3,60,13.5]}
+{"kind":"image","id":"im/q903mpkv","slide":5,"name":"Picture 2","bbox":[729.48,1.97,230.52,73.67]}
+{"kind":"notes","id":"nt/0ur0ua","slide":5,"text":"明确已完成的两项核心任务和当前阶段。\n\n[Sources]\n\n[/Sources]"}
+{"kind":"slide","id":"sl/ecqchf","slide":6,"title":"二、总体方案与工作票解析","textShapes":3}
+{"kind":"textbox","id":"sh/iloj6lcr","slide":6,"text":"二、总体方案与工作票解析","textPreview":"二、总体方案与工作票解析","textChars":12,"textLines":1,"bbox":[31.5,18.8,225,22.5]}
+{"kind":"textbox","id":"sh/3mxkfqdc","slide":6,"text":"■ 总体方案贯通多源输入、智能解析、关联判断与业务输出","textPreview":"■ 总体方案贯通多源输入、智能解析、关联判断与业务输出","textChars":27,"textLines":1,"bbox":[31.5,51,667.5,31.5]}
+{"kind":"textbox","id":"sh/5of2h0v2","slide":6,"text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[850.5,512.3,60,13.5]}
+{"kind":"image","id":"im/pwrehsvm","slide":6,"name":"Picture 2","bbox":[729.48,1.97,230.52,73.67]}
+{"kind":"image","id":"im/vqp4fqp4","slide":6,"name":"","geometry":"roundRect","alt":"总体技术架构图","bbox":[36,86.3,888.8,405]}
+{"kind":"notes","id":"nt/ecqchf","slide":6,"text":"总体架构以蓝色工作票流和绿色视频流为核心。\n\n[Sources]\n- D:/工作票项目文件/项目demo/项目demo/ticket/分报告图片素材/01-overall-architecture.svg\n[/Sources]"}
+{"kind":"slide","id":"sl/jk8zf2","slide":7,"title":"二、总体方案与工作票解析","textShapes":16}
+{"kind":"textbox","id":"sh/hofql4nu","slide":7,"text":"二、总体方案与工作票解析","textPreview":"二、总体方案与工作票解析","textChars":12,"textLines":1,"bbox":[31.5,18.8,225,22.5]}
+{"kind":"textbox","id":"sh/gn6psz69","slide":7,"text":"■ 关键信息体系覆盖时间、空间、设备、任务、人员与安全措施","textPreview":"■ 关键信息体系覆盖时间、空间、设备、任务、人员与安全措施","textChars":29,"textLines":1,"bbox":[31.5,51,667.5,31.5]}
+{"kind":"shape","id":"sh/ulo7qpoj","slide":7,"bbox":[352.5,112.5,243.8,78.8]}
+{"kind":"textbox","id":"sh/tkfqhk7y","slide":7,"text":"时间信息","textPreview":"时间信息","textChars":4,"textLines":1,"bbox":[366,125.3,216.8,21]}
+{"kind":"textbox","id":"sh/sj6pof6d","slide":7,"text":"计划开始/结束、许可与终结","textPreview":"计划开始/结束、许可与终结","textChars":13,"textLines":1,"bbox":[371.3,155.3,206.3,21]}
+{"kind":"shape","id":"sh/7id8faps","slide":7,"bbox":[630,112.5,243.8,78.8]}
+{"kind":"textbox","id":"sh/6h47m5o7","slide":7,"text":"空间信息","textPreview":"空间信息","textChars":4,"textLines":1,"bbox":[643.5,125.3,216.8,21]}
+{"kind":"textbox","id":"sh/dgzqton2","slide":7,"text":"站点、线路、间隔、作业区域","textPreview":"站点、线路、间隔、作业区域","textChars":13,"textLines":1,"bbox":[648.8,155.3,206.3,21]}
+{"kind":"shape","id":"sh/cfq90j6h","slide":7,"bbox":[352.5,221.3,243.8,78.8]}
+{"kind":"textbox","id":"sh/cjytwnet","slide":7,"text":"设备信息","textPreview":"设备信息","textChars":4,"textLines":1,"bbox":[366,234,216.8,21]}
+{"kind":"textbox","id":"sh/xk7a5sve","slide":7,"text":"设备名称、编号、电压等级","textPreview":"设备名称、编号、电压等级","textChars":12,"textLines":1,"bbox":[371.3,264,206.3,21]}
+{"kind":"shape","id":"sh/axgbudwn","slide":7,"bbox":[630,221.3,243.8,78.8]}
+{"kind":"textbox","id":"sh/bips3id8","slide":7,"text":"作业信息","textPreview":"作业信息","textChars":4,"textLines":1,"bbox":[643.5,234,216.8,21]}
+{"kind":"textbox","id":"sh/ovy9s3eh","slide":7,"text":"工作内容、班组、作业类型","textPreview":"工作内容、班组、作业类型","textChars":12,"textLines":1,"bbox":[648.8,264,206.3,21]}
+{"kind":"shape","id":"sh/pw7a18v2","slide":7,"bbox":[352.5,330,243.8,78.8]}
+{"kind":"textbox","id":"sh/2twrqdwr","slide":7,"text":"人员信息","textPreview":"人员信息","textChars":4,"textLines":1,"bbox":[366,342.8,216.8,21]}
+{"kind":"textbox","id":"sh/nupszidw","slide":7,"text":"负责人、班成员、许可人","textPreview":"负责人、班成员、许可人","textChars":11,"textLines":1,"bbox":[371.3,372.8,206.3,21]}
+{"kind":"shape","id":"sh/0re9o3el","slide":7,"bbox":[630,330,243.8,78.8]}
+{"kind":"textbox","id":"sh/1snax8v6","slide":7,"text":"安全信息","textPreview":"安全信息","textChars":4,"textLines":1,"bbox":[643.5,342.8,216.8,21]}
+{"kind":"textbox","id":"sh/3mls7yhs","slide":7,"text":"安全措施、危险点、注意事项","textPreview":"安全措施、危险点、注意事项","textChars":13,"textLines":1,"bbox":[648.8,372.8,206.3,21]}
+{"kind":"shape","id":"sh/ilcbytg7","slide":7,"bbox":[48,474,864,36]}
+{"kind":"textbox","id":"sh/5onu98zy","slide":7,"text":"抽取结果将作为设备实体对齐、摄像机定位和视频语义检索的统一入口。","textPreview":"抽取结果将作为设备实体对齐、摄像机定位和视频语义检索的统一入口。","textChars":32,"textLines":1,"bbox":[61.5,483.8,837,18]}
+{"kind":"textbox","id":"sh/4net03yd","slide":7,"text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[850.5,512.3,60,13.5]}
+{"kind":"image","id":"im/4bmpwfq5","slide":7,"name":"Picture 2","bbox":[729.48,1.97,230.52,73.67]}
+{"kind":"image","id":"im/8rqlwbex","slide":7,"name":"","geometry":"roundRect","alt":"真实工作票样本","bbox":[52.5,108.8,247.5,341.3]}
+{"kind":"notes","id":"nt/jk8zf2","slide":7,"text":"真实工作票样本用于说明字段体系。\n\n[Sources]\n- C:/Users/xueyuan/AppData/Local/Temp/codex-clipboard-6b76dfbb-3b51-44a2-8e4d-569b0e884f9a.png\n[/Sources]"}
+{"kind":"slide","id":"sl/ep10qc","slide":8,"title":"二、总体方案与工作票解析","textShapes":3}
+{"kind":"textbox","id":"sh/kvud07m1","slide":8,"text":"二、总体方案与工作票解析","textPreview":"二、总体方案与工作票解析","textChars":12,"textLines":1,"bbox":[31.5,18.8,225,22.5]}
+{"kind":"textbox","id":"sh/5wnutcn6","slide":8,"text":"■ 多模态解析融合文本、表格、版面与视觉信息","textPreview":"■ 多模态解析融合文本、表格、版面与视觉信息","textChars":22,"textLines":1,"bbox":[31.5,51,667.5,31.5]}
+{"kind":"textbox","id":"sh/julcr25g","slide":8,"text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[850.5,512.3,60,13.5]}
+{"kind":"image","id":"im/ryhgjud0","slide":8,"name":"Picture 2","bbox":[729.48,1.97,230.52,73.67]}
+{"kind":"image","id":"im/hcj2lg3a","slide":8,"name":"","geometry":"roundRect","alt":"工作票抽取流程图","bbox":[33.8,88.5,892.5,408.8]}
+{"kind":"notes","id":"nt/ep10qc","slide":8,"text":"流程强调多模态特征融合和结果可追溯。\n\n[Sources]\n- D:/工作票项目文件/项目demo/项目demo/ticket/分报告图片素材/02-ticket-extraction.svg\n[/Sources]"}
+{"kind":"slide","id":"sl/oe6scl","slide":9,"title":"二、总体方案与工作票解析","textShapes":7}
+{"kind":"textbox","id":"sh/43y183mh","slide":9,"text":"二、总体方案与工作票解析","textPreview":"二、总体方案与工作票解析","textChars":12,"textLines":1,"bbox":[31.5,18.8,225,22.5]}
+{"kind":"textbox","id":"sh/p4ri1832","slide":9,"text":"■ 真实样例验证了“原始票据—可读文本—结构化结果”链路","textPreview":"■ 真实样例验证了“原始票据—可读文本—结构化结果”链路","textChars":28,"textLines":1,"bbox":[31.5,51,667.5,31.5]}
+{"kind":"textbox","id":"sh/h07ixonq","slide":9,"text":"原始工作票","textPreview":"原始工作票","textChars":5,"textLines":1,"bbox":[67.5,397.5,187.5,22.5]}
+{"kind":"textbox","id":"sh/udgz2t4f","slide":9,"text":"OCR / Markdown结果","textPreview":"OCR / Markdown结果","textChars":16,"textLines":1,"bbox":[348.8,397.5,187.5,22.5]}
+{"kind":"textbox","id":"sh/fep0by50","slide":9,"text":"JSON / 区块结果","textPreview":"JSON / 区块结果","textChars":11,"textLines":1,"bbox":[690,397.5,187.5,22.5]}
+{"kind":"shape","id":"sh/0vi1gnmp","slide":9,"bbox":[48,474,864,36]}
+{"kind":"textbox","id":"sh/lwbi9s3a","slide":9,"text":"原文件、文本、表格、区块坐标及结构化结果同步留存，为人工复核和错误定位提供证据。","textPreview":"原文件、文本、表格、区块坐标及结构化结果同步留存，为人工复核和错误定位提供证据。","textChars":40,"textLines":1,"bbox":[61.5,483.8,837,18]}
+{"kind":"textbox","id":"sh/9gnador2","slide":9,"text":"09","textPreview":"09","textChars":2,"textLines":1,"bbox":[850.5,512.3,60,13.5]}
+{"kind":"image","id":"im/bmpgrapw","slide":9,"name":"Picture 2","bbox":[729.48,1.97,230.52,73.67]}
+{"kind":"image","id":"im/hw3ux0fe","slide":9,"name":"","geometry":"roundRect","alt":"原始工作票","bbox":[33.8,116.3,202.5,307.5]}
+{"kind":"image","id":"im/gvudovyt","slide":9,"name":"","geometry":"roundRect","alt":"Markdown文本结果","bbox":[262.5,135,330,225]}
+{"kind":"image","id":"im/7qlcrqxw","slide":9,"name":"","geometry":"roundRect","alt":"JSON解析结果","bbox":[622.5,135,303.8,225]}
+{"kind":"notes","id":"nt/oe6scl","slide":9,"text":"展示项目真实解析中间结果。\n\n[Sources]\n- C:/Users/xueyuan/AppData/Local/Temp/codex-clipboard-6b76dfbb-3b51-44a2-8e4d-569b0e884f9a.png\n- C:/Users/xueyuan/AppData/Local/Temp/codex-clipboard-89b2cecb-5fb9-484d-99b4-93547701582f.png\n- C:/Users/xueyuan/AppData/Local/Temp/codex-clipboard-2142003d-228e-4045-bde4-2d46d3b6c997.png\n[/Sources]"}
+{"kind":"slide","id":"sl/oshnnj","slide":10,"title":"二、总体方案与工作票解析","textShapes":15}
+{"kind":"textbox","id":"sh/wza90r6h","slide":10,"text":"二、总体方案与工作票解析","textPreview":"二、总体方案与工作票解析","textChars":12,"textLines":1,"bbox":[31.5,18.8,225,22.5]}
+{"kind":"textbox","id":"sh/h0jatcn2","slide":10,"text":"■ 大模型负责语义抽取，领域规则负责标准化与一致性校验","textPreview":"■ 大模型负责语义抽取，领域规则负责标准化与一致性校验","textChars":27,"textLines":1,"bbox":[31.5,51,667.5,31.5]}
+{"kind":"shape","id":"sh/uxsryhob","slide":10,"bbox":[56.3,153.8,172.5,210]}
+{"kind":"textbox","id":"sh/vy1srm5w","slide":10,"text":"多模态输入","textPreview":"多模态输入","textChars":5,"textLines":1,"bbox":[71.3,176.3,142.5,24]}
+{"kind":"textbox","id":"sh/4nut4r6d","slide":10,"text":"OCR文本\n版面位置\n表格结构","textPreview":"OCR文本 | 版面位置 | 表格结构","textChars":15,"textLines":3,"bbox":[75,232.5,135,82.5]}
+{"kind":"textbox","id":"sh/5o3axwny","slide":10,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[232.5,232.5,33.8,30]}
+{"kind":"shape","id":"sh/ilsr2ho7","slide":10,"bbox":[266.3,153.8,172.5,210]}
+{"kind":"textbox","id":"sh/jm1svm5s","slide":10,"text":"大模型理解","textPreview":"大模型理解","textChars":5,"textLines":1,"bbox":[281.3,176.3,142.5,24]}
+{"kind":"textbox","id":"sh/krq9s769","slide":10,"text":"实体抽取\n关系抽取\n固定Schema","textPreview":"实体抽取 | 关系抽取 | 固定Schema","textChars":18,"textLines":3,"bbox":[285,232.5,135,82.5]}
+{"kind":"textbox","id":"sh/lszals7u","slide":10,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[442.5,232.5,33.8,30]}
+{"kind":"shape","id":"sh/1c7y94v6","slide":10,"bbox":[476.3,153.8,172.5,210]}
+{"kind":"textbox","id":"sh/gbyh0zul","slide":10,"text":"规则与知识校验","textPreview":"规则与知识校验","textChars":7,"textLines":1,"bbox":[491.3,176.3,142.5,24]}
+{"kind":"textbox","id":"sh/fapg7ud0","slide":10,"text":"字段格式\n设备编码\n时间逻辑","textPreview":"字段格式 | 设备编码 | 时间逻辑","textChars":14,"textLines":3,"bbox":[495,232.5,135,82.5]}
+{"kind":"textbox","id":"sh/e9gzypcv","slide":10,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[652.5,232.5,33.8,30]}
+{"kind":"shape","id":"sh/pgryd4vi","slide":10,"bbox":[686.3,153.8,172.5,210]}
+{"kind":"textbox","id":"sh/ofih4zux","slide":10,"text":"可追溯输出","textPreview":"可追溯输出","textChars":5,"textLines":1,"bbox":[701.3,176.3,142.5,24]}
+{"kind":"textbox","id":"sh/3e9gbudc","slide":10,"text":"字段值\n原文证据\n可信状态","textPreview":"字段值 | 原文证据 | 可信状态","textChars":13,"textLines":3,"bbox":[705,232.5,135,82.5]}
+{"kind":"shape","id":"sh/2dgz29cr","slide":10,"bbox":[48,474,864,36]}
+{"kind":"textbox","id":"sh/d4rihove","slide":10,"text":"避免将“调用大模型”直接等同于可信结果：模型输出必须经过领域约束、标准化和证据回指。","textPreview":"避免将“调用大模型”直接等同于可信结果：模型输出必须经过领域约束、标准化和证据回指。","textChars":42,"textLines":1,"bbox":[61.5,483.8,837,18]}
+{"kind":"textbox","id":"sh/c3ih8jut","slide":10,"text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[850.5,512.3,60,13.5]}
+{"kind":"image","id":"im/b69sva1s","slide":10,"name":"Picture 2","bbox":[729.48,1.97,230.52,73.67]}
+{"kind":"notes","id":"nt/oshnnj","slide":10,"text":"解释算法责任边界，不虚构自主训练的新网络。\n\n[Sources]\n\n[/Sources]"}
+{"kind":"slide","id":"sl/z0lpsp","slide":11,"title":"三、监控视频与时空关联","textShapes":3}
+{"kind":"textbox","id":"sh/907yh43i","slide":11,"text":"三、监控视频与时空关联","textPreview":"三、监控视频与时空关联","textChars":11,"textLines":1,"bbox":[31.5,18.8,225,22.5]}
+{"kind":"textbox","id":"sh/8zeh8z2d","slide":11,"text":"■ 先以时空条件缩小范围，再以视频语义确认内容相关性","textPreview":"■ 先以时空条件缩小范围，再以视频语义确认内容相关性","textChars":26,"textLines":1,"bbox":[31.5,51,667.5,31.5]}
+{"kind":"textbox","id":"sh/mxwz6pk7","slide":11,"text":"11","textPreview":"11","textChars":2,"textLines":1,"bbox":[850.5,512.3,60,13.5]}
+{"kind":"image","id":"im/sr6t8f2x","slide":11,"name":"Picture 2","bbox":[729.48,1.97,230.52,73.67]}
+{"kind":"image","id":"im/s7elkbyh","slide":11,"name":"","geometry":"roundRect","alt":"视频内容关联流程图","bbox":[33.8,88.5,892.5,408.8]}
+{"kind":"notes","id":"nt/z0lpsp","slide":11,"text":"展示视频切片、视觉理解和跨模态匹配流程。\n\n[Sources]\n- D:/工作票项目文件/项目demo/项目demo/ticket/分报告图片素材/03-video-association.svg\n[/Sources]"}
+{"kind":"slide","id":"sl/5u61sj","slide":12,"title":"三、监控视频与时空关联","textShapes":15}
+{"kind":"textbox","id":"sh/il4nehon","slide":12,"text":"三、监控视频与时空关联","textPreview":"三、监控视频与时空关联","textChars":11,"textLines":1,"bbox":[31.5,18.8,225,22.5]}
+{"kind":"textbox","id":"sh/3mdonm58","slide":12,"text":"■ 真实监控画面提供人员、设备、场景和空间关系证据","textPreview":"■ 真实监控画面提供人员、设备、场景和空间关系证据","textChars":25,"textLines":1,"bbox":[31.5,51,667.5,31.5]}
+{"kind":"shape","id":"sh/5of6pwne","slide":12,"bbox":[648.8,116.3,255,300]}
+{"kind":"textbox","id":"sh/qpo7ihoz","slide":12,"text":"可提取的关联信息","textPreview":"可提取的关联信息","textChars":8,"textLines":1,"bbox":[671.3,135,210,24]}
+{"kind":"textbox","id":"sh/rqxorm5k","slide":12,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[671.3,183.8,16.5,21]}
+{"kind":"textbox","id":"sh/cr6pkr65","slide":12,"text":"场景：室外设备区","textPreview":"场景：室外设备区","textChars":8,"textLines":1,"bbox":[692.3,183.8,189,34.5]}
+{"kind":"textbox","id":"sh/dsf6twna","slide":12,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[671.3,225,16.5,21]}
+{"kind":"textbox","id":"sh/6tkn6xov","slide":12,"text":"对象：人员、设备、围栏","textPreview":"对象：人员、设备、围栏","textChars":11,"textLines":1,"bbox":[692.3,225,189,34.5]}
+{"kind":"textbox","id":"sh/7utof2p0","slide":12,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[671.3,266.3,16.5,21]}
+{"kind":"textbox","id":"sh/by9knyls","slide":12,"text":"空间：人员位置与覆盖区域","textPreview":"空间：人员位置与覆盖区域","textChars":12,"textLines":1,"bbox":[692.3,266.3,189,34.5]}
+{"kind":"textbox","id":"sh/ax03et47","slide":12,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[671.3,307.5,16.5,21]}
+{"kind":"textbox","id":"sh/x0rmp83y","slide":12,"text":"行为：进入、停留、作业过程","textPreview":"行为：进入、停留、作业过程","textChars":13,"textLines":1,"bbox":[692.3,307.5,189,34.5]}
+{"kind":"textbox","id":"sh/wzilg3md","slide":12,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[671.3,348.8,16.5,21]}
+{"kind":"textbox","id":"sh/napkje5w","slide":12,"text":"校验：时间、地点、任务一致性","textPreview":"校验：时间、地点、任务一致性","textChars":14,"textLines":1,"bbox":[692.3,348.8,189,34.5]}
+{"kind":"textbox","id":"sh/m9g3a94b","slide":12,"text":"单张画面仅作为内容理解证据，不直接判定是否违章。","textPreview":"单张画面仅作为内容理解证据，不直接判定是否违章。","textChars":24,"textLines":1,"bbox":[56.3,459.8,825,18]}
+{"kind":"textbox","id":"sh/9w72lon2","slide":12,"text":"12","textPreview":"12","textChars":2,"textLines":1,"bbox":[850.5,512.3,60,13.5]}
+{"kind":"image","id":"im/l8feloja","slide":12,"name":"Picture 2","bbox":[729.48,1.97,230.52,73.67]}
+{"kind":"image","id":"im/32xkfu1k","slide":12,"name":"","geometry":"roundRect","alt":"变电站真实监控场景","bbox":[33.8,105,585,341.3]}
+{"kind":"notes","id":"nt/5u61sj","slide":12,"text":"真实监控画面与工作票字段进行联合核验。\n\n[Sources]\n- C:/Users/xueyuan/AppData/Local/Temp/codex-clipboard-ec67e8da-b9c7-4039-9939-2555fc4351fa.png\n[/Sources]"}
+{"kind":"slide","id":"sl/yd3bra","slide":13,"title":"三、监控视频与时空关联","textShapes":3}
+{"kind":"textbox","id":"sh/donup83y","slide":13,"text":"三、监控视频与时空关联","textPreview":"三、监控视频与时空关联","textChars":11,"textLines":1,"bbox":[31.5,18.8,225,22.5]}
+{"kind":"textbox","id":"sh/cnedgnmd","slide":13,"text":"■ 时间、空间与语义三类证据共同决定关联结果","textPreview":"■ 时间、空间与语义三类证据共同决定关联结果","textChars":22,"textLines":1,"bbox":[31.5,51,667.5,31.5]}
+{"kind":"textbox","id":"sh/qlwved47","slide":13,"text":"13","textPreview":"13","textChars":2,"textLines":1,"bbox":[850.5,512.3,60,13.5]}
+{"kind":"image","id":"im/kz21cr25","slide":13,"name":"Picture 2","bbox":[729.48,1.97,230.52,73.67]}
+{"kind":"image","id":"im/sje98zih","slide":13,"name":"","geometry":"roundRect","alt":"时空语义关联模型","bbox":[37.5,86.3,885,412.5]}
+{"kind":"notes","id":"nt/yd3bra","slide":13,"text":"不在缺少正式实验依据时设定固定权重。\n\n[Sources]\n- D:/工作票项目文件/项目demo/项目demo/ticket/分报告图片素材/04-spatiotemporal-semantic-model.svg\n[/Sources]"}
+{"kind":"slide","id":"sl/lmms63","slide":14,"title":"三、监控视频与时空关联","textShapes":3}
+{"kind":"textbox","id":"sh/4n6xw7u5","slide":14,"text":"三、监控视频与时空关联","textPreview":"三、监控视频与时空关联","textChars":11,"textLines":1,"bbox":[31.5,18.8,225,22.5]}
+{"kind":"textbox","id":"sh/pofy5cvq","slide":14,"text":"■ 工作票、设备、作业点、摄像机和视频形成统一检索链路","textPreview":"■ 工作票、设备、作业点、摄像机和视频形成统一检索链路","textChars":27,"textLines":1,"bbox":[31.5,51,667.5,31.5]}
+{"kind":"textbox","id":"sh/3mxg32dk","slide":14,"text":"14","textPreview":"14","textChars":2,"textLines":1,"bbox":[850.5,512.3,60,13.5]}
+{"kind":"image","id":"im/7ytgrqp0","slide":14,"name":"Picture 2","bbox":[729.48,1.97,230.52,73.67]}
+{"kind":"image","id":"im/9kze5wbq","slide":14,"name":"","geometry":"roundRect","alt":"工作票与监控视频智能关联流程","bbox":[56.3,97.5,847.5,393.8]}
+{"kind":"notes","id":"nt/lmms63","slide":14,"text":"展示票视频智能关联的完整业务流程。\n\n[Sources]\n- C:/Users/xueyuan/AppData/Local/Temp/codex-clipboard-56c6277b-57ca-4296-8981-c5e0b1b0eff0.png\n[/Sources]"}
+{"kind":"slide","id":"sl/fe0b3j","slide":15,"title":"三、监控视频与时空关联","textShapes":3}
+{"kind":"textbox","id":"sh/2lof2do7","slide":15,"text":"三、监控视频与时空关联","textPreview":"三、监控视频与时空关联","textChars":11,"textLines":1,"bbox":[31.5,18.8,225,22.5]}
+{"kind":"textbox","id":"sh/n6hwvips","slide":15,"text":"■ 端到端链路形成从票据到关键视频片段的证据闭环","textPreview":"■ 端到端链路形成从票据到关键视频片段的证据闭环","textChars":24,"textLines":1,"bbox":[31.5,51,667.5,31.5]}
+{"kind":"textbox","id":"sh/p8zex87i","slide":15,"text":"15","textPreview":"15","textChars":2,"textLines":1,"bbox":[850.5,512.3,60,13.5]}
+{"kind":"image","id":"im/t07q5ovu","slide":15,"name":"Picture 2","bbox":[729.48,1.97,230.52,73.67]}
+{"kind":"image","id":"im/r69gfy5o","slide":15,"name":"","geometry":"roundRect","alt":"端到端票视频关联示例","bbox":[33.8,86.3,892.5,408.8]}
+{"kind":"notes","id":"nt/fe0b3j","slide":15,"text":"页面为版式示例，正式验证时替换为真实脱敏字段、点位和录像时间。\n\n[Sources]\n- D:/工作票项目文件/项目demo/项目demo/ticket/分报告图片素材/05-end-to-end-case.svg\n[/Sources]"}
+{"kind":"slide","id":"sl/fpqf0t","slide":16,"title":"四、成果产出与后续计划","textShapes":16}
+{"kind":"textbox","id":"sh/tcb6hg3q","slide":16,"text":"四、成果产出与后续计划","textPreview":"四、成果产出与后续计划","textChars":11,"textLines":1,"bbox":[31.5,18.8,225,22.5]}
+{"kind":"textbox","id":"sh/sb25obm5","slide":16,"text":"■ 已形成两项技术成果，并推进专利与论文产出","textPreview":"■ 已形成两项技术成果，并推进专利与论文产出","textChars":22,"textLines":1,"bbox":[31.5,51,667.5,31.5]}
+{"kind":"shape","id":"sh/ratof6lk","slide":16,"bbox":[71.3,127.5,375,127.5]}
+{"kind":"textbox","id":"sh/69knm14z","slide":16,"text":"技术成果 01","textPreview":"技术成果 01","textChars":7,"textLines":1,"bbox":[92.3,142.5,333,18.8]}
+{"kind":"textbox","id":"sh/10v6lg3m","slide":16,"text":"基于多模态大模型的\n工作票关键信息抽取技术","textPreview":"基于多模态大模型的 | 工作票关键信息抽取技术","textChars":21,"textLines":2,"bbox":[97.5,176.3,322.5,41.3]}
+{"kind":"textbox","id":"sh/gzm5sbm1","slide":16,"text":"已完成","textPreview":"已完成","textChars":3,"textLines":1,"bbox":[183.8,223.5,150,18]}
+{"kind":"shape","id":"sh/fedoj6lg","slide":16,"bbox":[502.5,127.5,375,127.5]}
+{"kind":"textbox","id":"sh/ed4nq14v","slide":16,"text":"技术成果 02","textPreview":"技术成果 02","textChars":7,"textLines":1,"bbox":[523.5,142.5,333,18.8]}
+{"kind":"textbox","id":"sh/x4rm9w3i","slide":16,"text":"融合多模态语义理解的\n监控视频内容关联技术","textPreview":"融合多模态语义理解的 | 监控视频内容关联技术","textChars":21,"textLines":2,"bbox":[528.8,176.3,322.5,41.3]}
+{"kind":"textbox","id":"sh/w3i5grmx","slide":16,"text":"已完成","textPreview":"已完成","textChars":3,"textLines":1,"bbox":[615,223.5,150,18]}
+{"kind":"shape","id":"sh/onm5wrut","slide":16,"bbox":[71.3,292.5,375,127.5]}
+{"kind":"textbox","id":"sh/9ov65wbe","slide":16,"text":"知识产权","textPreview":"知识产权","textChars":4,"textLines":1,"bbox":[92.3,307.5,333,18.8]}
+{"kind":"textbox","id":"sh/ml4nuhcn","slide":16,"text":"发明专利 1 项","textPreview":"发明专利 1 项","textChars":8,"textLines":1,"bbox":[97.5,341.3,322.5,41.3]}
+{"kind":"textbox","id":"sh/nmdo3mt8","slide":16,"text":"已申请并受理","textPreview":"已申请并受理","textChars":6,"textLines":1,"bbox":[183.8,388.5,150,18]}
+{"kind":"shape","id":"sh/wr650rup","slide":16,"bbox":[502.5,292.5,375,127.5]}
+{"kind":"textbox","id":"sh/xsf69wba","slide":16,"text":"论文成果","textPreview":"论文成果","textChars":4,"textLines":1,"bbox":[523.5,307.5,333,18.8]}
+{"kind":"textbox","id":"sh/ap4ny1cj","slide":16,"text":"三大检索论文 1 篇","textPreview":"三大检索论文 1 篇","textChars":10,"textLines":1,"bbox":[528.8,341.3,322.5,41.3]}
+{"kind":"textbox","id":"sh/bqdo7mt4","slide":16,"text":"审稿中","textPreview":"审稿中","textChars":3,"textLines":1,"bbox":[615,388.5,150,18]}
+{"kind":"shape","id":"sh/kf654bu1","slide":16,"bbox":[48,474,864,36]}
+{"kind":"textbox","id":"sh/5gf6dgb6","slide":16,"text":"专利名称、申请号、论文题目及投稿信息可在材料脱敏确认后补入正式成果页。","textPreview":"专利名称、申请号、论文题目及投稿信息可在材料脱敏确认后补入正式成果页。","textChars":35,"textLines":1,"bbox":[61.5,483.8,837,18]}
+{"kind":"textbox","id":"sh/fm10juhk","slide":16,"text":"16","textPreview":"16","textChars":2,"textLines":1,"bbox":[850.5,512.3,60,13.5]}
+{"kind":"image","id":"im/w76lwbyp","slide":16,"name":"Picture 2","bbox":[729.48,1.97,230.52,73.67]}
+{"kind":"notes","id":"nt/fpqf0t","slide":16,"text":"准确区分已完成、已受理和审稿中状态。\n\n[Sources]\n\n[/Sources]"}
+{"kind":"slide","id":"sl/8ajjhx","slide":17,"title":"四、成果产出与后续计划","textShapes":19}
+{"kind":"textbox","id":"sh/bap0bmlw","slide":17,"text":"四、成果产出与后续计划","textPreview":"四、成果产出与后续计划","textChars":11,"textLines":1,"bbox":[31.5,18.8,225,22.5]}
+{"kind":"textbox","id":"sh/q9gjih4b","slide":17,"text":"■ 下一阶段以批量验证、真实闭环与系统集成为主线","textPreview":"■ 下一阶段以批量验证、真实闭环与系统集成为主线","textChars":24,"textLines":1,"bbox":[31.5,51,667.5,31.5]}
+{"kind":"textbox","id":"sh/dc7idw32","slide":17,"text":"阶段一","textPreview":"阶段一","textChars":3,"textLines":1,"bbox":[105,112.5,105,18.8]}
+{"kind":"shape","id":"sh/cby1krmh","slide":17,"bbox":[45,146.3,195,225]}
+{"kind":"textbox","id":"sh/zy90fmls","slide":17,"text":"样本与评价","textPreview":"样本与评价","textChars":5,"textLines":1,"bbox":[63.8,168.8,157.5,22.5]}
+{"kind":"textbox","id":"sh/ydgjmh47","slide":17,"text":"扩充不同票种和复杂版式样本\n统一字段、关联和证据评价口径","textPreview":"扩充不同票种和复杂版式样本 | 统一字段、关联和证据评价口径","textChars":28,"textLines":2,"bbox":[63.8,225,157.5,82.5]}
+{"kind":"textbox","id":"sh/l0r2hw3y","slide":17,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[240,232.5,30,30]}
+{"kind":"textbox","id":"sh/0zi1ormd","slide":17,"text":"阶段二","textPreview":"阶段二","textChars":3,"textLines":1,"bbox":[330,112.5,105,18.8]}
+{"kind":"shape","id":"sh/f25032lo","slide":17,"bbox":[270,146.3,195,225]}
+{"kind":"textbox","id":"sh/ehwjax43","slide":17,"text":"算法优化","textPreview":"算法优化","textChars":4,"textLines":1,"bbox":[288.8,168.8,157.5,22.5]}
+{"kind":"textbox","id":"sh/ixk3i5or","slide":17,"text":"补齐字段置信度和原文坐标映射\n优化设备标准化与视频片段定位","textPreview":"补齐字段置信度和原文坐标映射 | 优化设备标准化与视频片段定位","textChars":29,"textLines":2,"bbox":[288.8,225,157.5,82.5]}
+{"kind":"textbox","id":"sh/jyd4ba5c","slide":17,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[465,232.5,30,30]}
+{"kind":"textbox","id":"sh/kzmlkf6x","slide":17,"text":"阶段三","textPreview":"阶段三","textChars":3,"textLines":1,"bbox":[555,112.5,105,18.8]}
+{"kind":"shape","id":"sh/50vmd0n2","slide":17,"bbox":[495,146.3,195,225]}
+{"kind":"textbox","id":"sh/atk3elof","slide":17,"text":"真实闭环","textPreview":"真实闭环","textChars":4,"textLines":1,"bbox":[513.8,168.8,157.5,22.5]}
+{"kind":"textbox","id":"sh/vut47q50","slide":17,"text":"开展票—设备—摄像机—视频单票演示\n验证时空和语义关联效果","textPreview":"开展票—设备—摄像机—视频单票演示 | 验证时空和语义关联效果","textChars":29,"textLines":2,"bbox":[513.8,225,157.5,82.5]}
+{"kind":"textbox","id":"sh/wv2lgv6l","slide":17,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[690,232.5,30,30]}
+{"kind":"textbox","id":"sh/xwbm90n6","slide":17,"text":"阶段四","textPreview":"阶段四","textChars":3,"textLines":1,"bbox":[780,112.5,105,18.8]}
+{"kind":"shape","id":"sh/m503aloj","slide":17,"bbox":[720,146.3,195,225]}
+{"kind":"textbox","id":"sh/n6t43q54","slide":17,"text":"成果固化","textPreview":"成果固化","textChars":4,"textLines":1,"bbox":[738.8,168.8,157.5,22.5]}
+{"kind":"textbox","id":"sh/pkz6po7m","slide":17,"text":"完善分报告与技术文档\n推进专利、论文及总体系统集成","textPreview":"完善分报告与技术文档 | 推进专利、论文及总体系统集成","textChars":25,"textLines":2,"bbox":[738.8,225,157.5,82.5]}
+{"kind":"shape","id":"sh/ojqpgjq1","slide":17,"bbox":[48,474,864,36]}
+{"kind":"textbox","id":"sh/3ihonepg","slide":17,"text":"下一关键节点：形成可重复、可统计、可追溯的真实票视频关联验证结果。","textPreview":"下一关键节点：形成可重复、可统计、可追溯的真实票视频关联验证结果。","textChars":33,"textLines":1,"bbox":[61.5,483.8,837,18]}
+{"kind":"textbox","id":"sh/2x87e98v","slide":17,"text":"17","textPreview":"17","textChars":2,"textLines":1,"bbox":[850.5,512.3,60,13.5]}
+{"kind":"image","id":"im/epcrmh0r","slide":17,"name":"Picture 2","bbox":[729.48,1.97,230.52,73.67]}
+{"kind":"notes","id":"nt/8ajjhx","slide":17,"text":"计划聚焦验证、优化、闭环和成果固化。\n\n[Sources]\n\n[/Sources]"}
+{"kind":"slide","id":"sl/ba9wsv","slide":18,"title":"阶段结论：核心技术链路已形成，下一步进入真实场景验证","textShapes":2}
+{"kind":"textbox","id":"sh/3id47udw","slide":18,"text":"阶段结论：核心技术链路已形成，下一步进入真实场景验证","textPreview":"阶段结论：核心技术链路已形成，下一步进入真实场景验证","textChars":26,"textLines":1,"bbox":[135,176.3,690,41.3]}
+{"kind":"textbox","id":"sh/ih43ypcb","slide":18,"text":"请各位专家批评指正","textPreview":"请各位专家批评指正","textChars":9,"textLines":1,"bbox":[247.5,270,465,31.5]}
+{"kind":"image","id":"im/94f6pofm","slide":18,"name":"Picture 2","bbox":[729.48,1.97,230.52,73.67]}
+{"kind":"notes","id":"nt/ba9wsv","slide":18,"text":"收束汇报并请专家指导。\n\n[Sources]\n\n[/Sources]"}

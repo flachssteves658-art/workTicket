@@ -1,0 +1,216 @@
+/* Reset */
+/* Remove default margins and paddings; ensure consistent box sizing */
+:root {
+  --bg-0: #0b0f19;
+  --bg-1: #0f172a;
+  --surface-0: rgba(17, 24, 39, 0.92);
+  --surface-1: rgba(15, 23, 42, 0.92);
+  --border-0: rgba(148, 163, 184, 0.18);
+  --border-1: rgba(148, 163, 184, 0.26);
+  --text-0: rgba(226, 232, 240, 0.96);
+  --text-1: rgba(148, 163, 184, 0.92);
+  --text-2: rgba(148, 163, 184, 0.72);
+  --accent-0: #fbbf24;
+  --danger-0: #ef4444;
+  --shadow-0: 0 14px 40px rgba(0, 0, 0, 0.35);
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
+  color-scheme: dark;
+  background:
+    radial-gradient(1200px 700px at 15% 0%, rgba(251, 191, 36, 0.09) 0%, rgba(251, 191, 36, 0) 55%),
+    radial-gradient(1100px 700px at 80% 20%, rgba(56, 189, 248, 0.08) 0%, rgba(56, 189, 248, 0) 60%),
+    linear-gradient(180deg, var(--bg-1) 0%, var(--bg-0) 100%);
+  color: var(--text-0);
+  min-height: 100vh;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+a:focus-visible,
+button:focus-visible,
+input[type="text"]:focus-visible,
+input[type="password"]:focus-visible,
+input[type="number"]:focus-visible,
+input[type="email"]:focus-visible,
+input[type="date"]:focus-visible,
+select:focus-visible,
+textarea:focus-visible {
+  outline: 2px solid rgba(251, 191, 36, 0.85);
+  outline-offset: 3px;
+}
+
+input[type="text"],
+input[type="password"],
+input[type="number"],
+input[type="email"],
+input[type="date"],
+select,
+textarea {
+  transition: border-color 0.15s ease, box-shadow 0.15s ease, background-color 0.15s ease;
+}
+
+input[type="text"]:focus,
+input[type="password"]:focus,
+input[type="number"]:focus,
+input[type="email"]:focus,
+input[type="date"]:focus,
+select:focus,
+textarea:focus {
+  outline: none;
+  border-color: rgba(251, 191, 36, 0.55);
+  box-shadow: 0 0 0 3px rgba(251, 191, 36, 0.14);
+}
+
+/* Header */
+/* Sticky header with a background colour, shadow, and high z-index */
+header {
+  background: rgba(15, 23, 42, 0.74);
+  color: var(--text-0);
+  padding: 1rem 0; /* Vertical padding */
+  position: sticky; /* Fix header to the top when scrolling */
+  top: 0; /* Position at the top of the page */
+  z-index: 1000; /* Ensure the header stays above other content */
+  border-bottom: 1px solid var(--border-0);
+  box-shadow: 0px 12px 30px rgba(0, 0, 0, 0.28); /* Subtle shadow for depth */
+  backdrop-filter: blur(10px);
+}
+
+/* Navigation Bar */
+/* Flex container for aligning logo and navigation links */
+.navbar {
+  display: flex; /* Flexbox layout */
+  align-items: center; /* Centre content vertically */
+  justify-content: space-between; /* Space between logo and links */
+  max-width: 1200px; /* Centre and limit width */
+  margin: 0 auto; /* Centre horizontally */
+  padding: 0 1rem; /* Add horizontal padding */
+}
+
+/* Logo */
+/* Styling for the website logo or brand name */
+.logo {
+  font-size: 1.5rem; /* Larger text size for prominence */
+  font-weight: bold; /* Make the text bold */
+  letter-spacing: 0.02em;
+}
+
+/* Navigation Links */
+/* List of navigation links */
+.nav-links {
+  list-style: none; /* Remove default list styling */
+  display: flex; /* Horizontal layout for links */
+  gap: 1.5rem; /* Space between links */
+  transition: max-height 0.3s ease-out; /* Smooth transition for dropdown */
+}
+
+.nav-links li a {
+  text-decoration: none; /* Remove underline from links */
+  color: var(--text-1);
+  font-weight: 500; /* Medium text weight */
+  transition: color 0.2s ease, background-color 0.2s ease, border-color 0.2s ease; /* Smooth colour change on hover */
+  padding: 0.5rem 0.7rem;
+  border-radius: 10px;
+  border: 1px solid rgba(148, 163, 184, 0.12);
+  background: rgba(148, 163, 184, 0.08);
+}
+
+.nav-links li a:focus-visible {
+  outline: 2px solid rgba(251, 191, 36, 0.85);
+  outline-offset: 3px;
+}
+
+.nav-links li a:hover {
+  color: var(--text-0);
+  border-color: rgba(251, 191, 36, 0.28);
+  background: rgba(148, 163, 184, 0.12);
+}
+
+/* Logout Button */
+/* Style for the logout button */
+#logout-btn {
+  cursor: pointer; /* Pointer cursor to indicate interactivity */
+  font-weight: bold; /* Bold text for emphasis */
+  background: rgba(148, 163, 184, 0.08);
+  border: 1px solid rgba(148, 163, 184, 0.18);
+  color: var(--text-0);
+  padding: 0.5rem 0.8rem;
+  border-radius: 10px;
+  transition: color 0.2s ease, background-color 0.2s ease, border-color 0.2s ease;
+}
+
+#logout-btn:focus-visible {
+  outline: 2px solid rgba(251, 191, 36, 0.85);
+  outline-offset: 3px;
+}
+
+#logout-btn:hover {
+  border-color: rgba(239, 68, 68, 0.45);
+  background: rgba(239, 68, 68, 0.14);
+}
+
+/* Menu Toggle Button (Hidden on Desktop) */
+/* Button for toggling navigation menu on smaller screens */
+.menu-toggle {
+  display: none; /* Hidden by default */
+  font-size: 1.5rem; /* Larger text size */
+  background: none; /* Transparent background */
+  border: none; /* Remove border */
+  color: var(--text-0); /* White text */
+  cursor: pointer; /* Pointer cursor for interactivity */
+}
+
+.menu-toggle:focus-visible {
+  outline: 2px solid rgba(251, 191, 36, 0.85);
+  outline-offset: 3px;
+}
+
+/* Responsive Design */
+/* Styles for smaller screens (maximum width: 768px) */
+@media (max-width: 768px) {
+  .menu-toggle {
+    display: block; /* Show the menu toggle button */
+  }
+
+  /* Navigation links for mobile view */
+  .nav-links {
+    display: flex; /* Flexbox layout */
+    flex-direction: column; /* Stack links vertically */
+    align-items: flex-start; /* Align links to the left */
+    background: rgba(15, 23, 42, 0.92);
+    position: absolute; /* Position below the header */
+    top: 100%; /* Place just below the header */
+    left: 0; /* Align to the left of the viewport */
+    width: 100%; /* Full width of the viewport */
+    max-height: 0; /* Initially collapsed */
+    overflow: hidden; /* Hide overflowing content */
+    border-top: 1px solid var(--border-0); /* Border to separate menu */
+    box-shadow: var(--shadow-0);
+  }
+
+  .nav-links.expanded {
+    max-height: 300px; /* Expand height when menu is toggled */
+  }
+
+  .nav-links li {
+    padding: 0.5rem 1rem; /* Add padding for clickable areas */
+    width: 100%; /* Full width for each item */
+  }
+
+  .nav-links li a {
+    display: block; /* Ensure links are block-level elements */
+    width: 100%; /* Full width for each link */
+  }
+}

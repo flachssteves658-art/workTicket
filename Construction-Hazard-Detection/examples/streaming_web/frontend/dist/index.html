@@ -1,0 +1,424 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Construction Hazard Detection</title>
+
+
+    <link rel="icon" href="/assets/favicon-63HoscUf.ico" type="image/x-icon">
+
+    <script src="/runtime-config.js"></script>
+  <script type="module" crossorigin src="/assets/main-D4yw55dL.js"></script>
+  <link rel="modulepreload" crossorigin href="/assets/app_endpoints-CXxHeyB1.js">
+  <link rel="modulepreload" crossorigin href="/assets/violations-B6gZZ3s3.js">
+  <link rel="modulepreload" crossorigin href="/assets/sites-B8UBtOWg.js">
+  <link rel="modulepreload" crossorigin href="/assets/config-B1-w_Nzj.js">
+  <link rel="stylesheet" crossorigin href="/assets/styles-CdGeEnwM.css">
+</head>
+<body>
+    <div id="app-shell" class="app-shell hidden" aria-hidden="true">
+        <header class="topbar">
+            <div class="brand">
+                <div class="brand-title">智能安监</div>
+                <div class="brand-subtitle">基于多模态大模型的风险识别与管控</div>
+            </div>
+            <nav class="nav" aria-label="Main">
+                <a class="nav-link" href="#/monitor" data-route="monitor">实时监看</a>
+                <a class="nav-link" href="#/violations" data-route="violations">违规查询</a>
+                <a class="nav-link" href="#/sites" data-route="sites">工地与配置</a>
+                <a class="nav-link" href="#/search" data-route="search">视频检索助手</a>
+                <a class="nav-link" href="#/ticket" data-route="ticket">工作票解析</a>
+            </nav>
+            <div class="topbar-actions">
+                <button id="logout-button" type="button" class="button secondary">退出登录</button>
+            </div>
+        </header>
+
+        <main class="content">
+            <section id="view-monitor" class="view" data-view="monitor">
+                <div class="monitor-layout">
+                    <div class="panel">
+                        <div class="panel-header">
+                            <div class="panel-title">标签</div>
+                            <div class="panel-subtitle">选择一个标签查看实时画面</div>
+                            <div class="monitor-tools">
+                                <button id="simulate-toggle" type="button" class="button secondary">启动模拟流</button>
+                                <div class="monitor-tools-row">
+                                    <label class="monitor-tools-label">
+                                        路数
+                                        <input id="simulate-count" type="number" min="1" max="12" value="4">
+                                    </label>
+                                    <label class="monitor-tools-label">
+                                        间隔(ms)
+                                        <input id="simulate-interval" type="number" min="200" max="5000" value="800">
+                                    </label>
+                                </div>
+                                <div id="simulate-status" class="monitor-tools-status"></div>
+                            </div>
+                        </div>
+                        <div id="camera-grid" class="camera-grid"></div>
+                    </div>
+                    <div class="panel">
+                        <div class="panel-header">
+                            <div class="panel-title">实时预览</div>
+                            <div class="panel-subtitle">支持在预览中进入单路画面</div>
+                        </div>
+                        <iframe id="monitor-frame" class="monitor-frame" title="monitor-preview" referrerpolicy="no-referrer"></iframe>
+                    </div>
+                </div>
+            </section>
+
+            <section id="view-violations" class="view hidden" data-view="violations" aria-hidden="true">
+                <div class="panel">
+                    <div class="panel-header">
+                        <div class="panel-title">违规记录查询</div>
+                        <div class="panel-subtitle">按工地、关键字与时间区间筛选</div>
+                    </div>
+                    <div class="page-container">
+                        <div class="violations-toolbar">
+                            <section class="filters">
+                                <div class="filter-field">
+                                    <label for="site-select">工地</label>
+                                    <select id="site-select">
+                                        <option value="">全部站点</option>
+                                    </select>
+                                </div>
+                                <div class="filter-field">
+                                    <label for="keyword-input">关键字</label>
+                                    <input id="keyword-input" type="text" placeholder="stream_name 或讯息">
+                                </div>
+                                <div class="filter-field">
+                                    <label for="start-time">开始时间</label>
+                                    <input id="start-time" type="datetime-local">
+                                </div>
+                                <div class="filter-field">
+                                    <label for="end-time">结束时间</label>
+                                    <input id="end-time" type="datetime-local">
+                                </div>
+                                <div class="filter-actions">
+                                    <button id="preset-1h" type="button" class="chip">近 1 小时</button>
+                                    <button id="preset-24h" type="button" class="chip">近 24 小时</button>
+                                    <button id="preset-7d" type="button" class="chip">近 7 天</button>
+                                    <button id="reset-button" type="button" class="button secondary">重置</button>
+                                    <button id="search-button" type="button" class="button primary">查询</button>
+                                </div>
+                            </section>
+                            <div id="violations-summary" class="violations-summary" aria-live="polite"></div>
+                        </div>
+                        <section id="violation-list" class="violation-list"></section>
+                    </div>
+                </div>
+            </section>
+
+            <section id="view-sites" class="view hidden" data-view="sites" aria-hidden="true">
+                <div class="panel">
+                    <div class="panel-header">
+                        <div class="panel-title">工地与配置管理</div>
+                        <div class="panel-subtitle">新增工地并管理各工地的 stream 配置与告警通知</div>
+                    </div>
+                    <div class="page-container">
+                        <div class="sites-config-layout">
+                            <section class="sites-col">
+                                <section class="site-form">
+                                    <input id="site-name" type="text" placeholder="新工地名称">
+                                    <button id="create-site-button" type="button" class="button primary">新增工地</button>
+                                    <div id="site-form-error" class="error-text"></div>
+                                </section>
+                                <section id="site-list" class="site-list"></section>
+                            </section>
+
+                            <section class="config-col">
+                                <div class="config-embedded">
+                                    <div class="config-embedded-header">
+                                        <div class="config-embedded-title">配置</div>
+                                        <div class="config-embedded-actions">
+                                            <button id="edit-btn" type="button" class="button secondary">编辑</button>
+                                            <button id="add-config-btn" type="button" class="button primary hidden">新增配置</button>
+                                        </div>
+                                    </div>
+                                    <div class="config-embedded-subheader">
+                                        <div class="config-embedded-site">
+                                            当前工地：<span id="config-selected-site">全部</span>
+                                        </div>
+                                        <button id="config-clear-site" type="button" class="button secondary hidden">显示全部</button>
+                                    </div>
+                                    <div id="config-container" class="config-container"></div>
+                                    <div class="config-embedded-footer hidden" id="form-controls">
+                                        <button id="save-btn" type="button" class="button primary">保存</button>
+                                        <button id="cancel-btn" type="button" class="button secondary">取消</button>
+                                    </div>
+                                </div>
+
+                            <template id="config-item-template">
+                                <div class="config-item">
+                                    <div class="config-header">
+                                        <button type="button" class="toggle-config-btn plain" aria-label="展开配置" aria-expanded="false"></button>
+                                        <div class="site-stream">
+                                            <label>
+                                                工地
+                                                <input type="text" name="site" value="" />
+                                            </label>
+                                            <span>-</span>
+                                            <label>
+                                                串流名称
+                                                <input type="text" name="stream_name" value="" />
+                                            </label>
+                                        </div>
+                                        <button type="button" class="delete-config-btn button secondary" style="display:none;">删除</button>
+                                    </div>
+
+                                    <div class="config-details">
+                                        <label>
+                                            视频 URL
+                                            <input type="text" name="video_url" value="" />
+                                        </label>
+
+                                        <label class="model-key-label">
+                                            模型
+                                            <select name="model_key">
+                                                <option value="yolo11n">yolo11n</option>
+                                                <option value="yolo11s">yolo11s</option>
+                                                <option value="yolo11m">yolo11m</option>
+                                                <option value="yolo11l">yolo11l</option>
+                                                <option value="yolo11x">yolo11x</option>
+                                            </select>
+                                        </label>
+
+                                        <label class="expire-date-container">
+                                            过期时间
+                                            <input type="date" name="expire_date" />
+                                            <input type="text" value="无过期时间" disabled style="display:none;">
+                                        </label>
+
+                                        <label>
+                                            <input type="checkbox" name="detect_with_server" />
+                                            使用检测服务器
+                                        </label>
+                                        <label>
+                                            <input type="checkbox" name="store_in_redis" />
+                                            存入 Redis
+                                        </label>
+
+                                        <div class="work-hours">
+                                            <label class="work-hours-label">
+                                                开始时间
+                                                <select name="work_start_hour">
+                                                    <option value="0">0</option>
+                                                    <option value="1">1</option>
+                                                    <option value="2">2</option>
+                                                    <option value="3">3</option>
+                                                    <option value="4">4</option>
+                                                    <option value="5">5</option>
+                                                    <option value="6">6</option>
+                                                    <option value="7">7</option>
+                                                    <option value="8">8</option>
+                                                    <option value="9">9</option>
+                                                    <option value="10">10</option>
+                                                    <option value="11">11</option>
+                                                    <option value="12">12</option>
+                                                    <option value="13">13</option>
+                                                    <option value="14">14</option>
+                                                    <option value="15">15</option>
+                                                    <option value="16">16</option>
+                                                    <option value="17">17</option>
+                                                    <option value="18">18</option>
+                                                    <option value="19">19</option>
+                                                    <option value="20">20</option>
+                                                    <option value="21">21</option>
+                                                    <option value="22">22</option>
+                                                    <option value="23">23</option>
+                                                </select>
+                                            </label>
+
+                                            <label class="work-hours-label">
+                                                结束时间
+                                                <select name="work_end_hour">
+                                                    <option value="1">1</option>
+                                                    <option value="2">2</option>
+                                                    <option value="3">3</option>
+                                                    <option value="4">4</option>
+                                                    <option value="5">5</option>
+                                                    <option value="6">6</option>
+                                                    <option value="7">7</option>
+                                                    <option value="8">8</option>
+                                                    <option value="9">9</option>
+                                                    <option value="10">10</option>
+                                                    <option value="11">11</option>
+                                                    <option value="12">12</option>
+                                                    <option value="13">13</option>
+                                                    <option value="14">14</option>
+                                                    <option value="15">15</option>
+                                                    <option value="16">16</option>
+                                                    <option value="17">17</option>
+                                                    <option value="18">18</option>
+                                                    <option value="19">19</option>
+                                                    <option value="20">20</option>
+                                                    <option value="21">21</option>
+                                                    <option value="22">22</option>
+                                                    <option value="23">23</option>
+                                                    <option value="24">24</option>
+                                                </select>
+                                            </label>
+                                        </div>
+
+                                        <fieldset>
+                                            <legend>检测项目</legend>
+                                            <label>
+                                                <input type="checkbox" name="detect_no_safety_vest_or_helmet" />
+                                                无背心/安全帽
+                                            </label>
+                                            <label>
+                                                <input type="checkbox" name="detect_near_machinery_or_vehicle" />
+                                                靠近机具/车辆
+                                            </label>
+                                            <label>
+                                                <input type="checkbox" name="detect_in_restricted_area" />
+                                                闯入管制区
+                                            </label>
+                                            <label>
+                                                <input type="checkbox" name="detect_in_utility_pole_restricted_area" />
+                                                闯入电杆区
+                                            </label>
+                                            <label>
+                                                <input type="checkbox" name="detect_machinery_close_to_pole" />
+                                                机具靠近电杆
+                                            </label>
+                                        </fieldset>
+
+                                        <fieldset>
+                                            <legend>通知</legend>
+                                            <div class="notifications-container"></div>
+                                            <button type="button" class="add-notification button secondary" style="display:none;">新增通知</button>
+                                        </fieldset>
+                                        <fieldset>
+                                            <legend>LLM 复核</legend>
+                                            <label>
+                                                <input type="checkbox" name="llm_refine_enabled" />
+                                                启用复核 (llm_refine_enabled)
+                                            </label>
+                                            <label>
+                                                提供商
+                                                <select name="llm_provider">
+                                                    <option value="aliyun">aliyun</option>
+                                                    <option value="ollama">ollama</option>
+                                                </select>
+                                            </label>
+                                            <label>
+                                                Base URL
+                                                <input type="text" name="llm_base_url" value="" />
+                                            </label>
+                                            <label>
+                                                模型
+                                                <input type="text" name="llm_model" value="" />
+                                            </label>
+                                            <label>
+                                                低置信度阈值
+                                                <input type="number" name="llm_low_conf_threshold" step="0.01" min="0" max="1" />
+                                            </label>
+                                        </fieldset>
+                                    </div>
+                                </div>
+                            </template>
+
+                            <template id="notification-item-template">
+                                <div class="notification-item">
+                                    <button type="button" class="delete-notification button secondary" style="display:none;">×</button>
+                                    <div class="notification-content">
+                                        <label>
+                                            Token <input type="text" name="line_token" value="" />
+                                        </label>
+                                        <label>
+                                            语言
+                                            <select name="language">
+                                                <option value="zh-TW">zh-TW</option>
+                                                <option value="zh-CN">zh-CN</option>
+                                                <option value="en">en</option>
+                                                <option value="fr">fr</option>
+                                                <option value="id">id</option>
+                                                <option value="vt">vt</option>
+                                                <option value="th">th</option>
+                                            </select>
+                                        </label>
+                                    </div>
+                                </div>
+                            </template>
+                            </section>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section id="view-config" class="view hidden" data-view="config" aria-hidden="true">
+                <div class="panel">
+                    <div class="panel-header">
+                        <div class="panel-title">配置</div>
+                        <div class="panel-subtitle">编辑 stream 配置、告警项与通知</div>
+                    </div>
+                    <iframe id="config-frame" class="config-frame" title="config" referrerpolicy="no-referrer"></iframe>
+                </div>
+            </section>
+
+            <section id="view-search" class="view hidden" data-view="search" aria-hidden="true">
+                <div class="panel search-panel">
+                    <div class="panel-header">
+                        <div class="panel-title">自然语言视频检索助手</div>
+                        <div class="panel-subtitle">用自然语言描述想看的场景，系统自动转换为条件并检索历史违规事件</div>
+                    </div>
+                    <div class="chat-shell">
+                        <div id="search-messages" class="chat-messages" aria-live="polite"></div>
+                        <div class="chat-inputbar">
+                            <select id="search-site" class="chat-site-select">
+                                <option value="">全部站点</option>
+                            </select>
+                            <textarea
+                                id="search-query"
+                                class="chat-textarea"
+                                rows="2"
+                                placeholder="例如：查询 XX 变电站昨天下午吊车作业的视频"
+                            ></textarea>
+                            <button id="search-run-button" type="button" class="button primary chat-send-button">
+                                发送
+                            </button>
+                        </div>
+                        <div class="chat-hint">Ctrl+Enter 发送</div>
+                    </div>
+                </div>
+            </section>
+
+            <section id="view-ticket" class="view hidden" data-view="ticket" aria-hidden="true">
+                <div class="panel">
+                    <div class="panel-header">
+                        <div class="panel-title">工作票解析</div>
+                        <div class="panel-subtitle">上传工作票图片，执行 OCR / 实体抽取 / 关系抽取与图谱写入</div>
+                    </div>
+                    <div class="page-container">
+                        <div class="ticket-toolbar">
+                            <a id="ticket-open-link" class="button secondary" href="#" target="_blank" rel="noreferrer">新窗口打开</a>
+                        </div>
+                        <iframe id="ticket-frame" class="config-frame" title="work-ticket-ui" referrerpolicy="no-referrer"></iframe>
+                    </div>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <section id="login-section" class="login-overlay">
+        <div class="login-card" role="dialog" aria-modal="true" aria-labelledby="login-title">
+            <div class="login-title" id="login-title">登录</div>
+            <form id="login-form" class="login-form">
+                <div class="field">
+                    <label for="username">用户名</label>
+                    <input id="username" name="username" type="text" autocomplete="username" required>
+                </div>
+                <div class="field">
+                    <label for="password">密码</label>
+                    <input id="password" name="password" type="password" autocomplete="current-password" required>
+                </div>
+                <button type="submit" class="button primary full">登录</button>
+            </form>
+            <div id="login-message" class="hint-text" aria-live="polite"></div>
+        </div>
+    </section>
+</body>
+</html>

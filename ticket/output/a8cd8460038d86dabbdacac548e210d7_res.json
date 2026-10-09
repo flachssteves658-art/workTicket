@@ -1,0 +1,125 @@
+{
+    "input_path": "f:\\方向1\\paddle_models\\img\\a8cd8460038d86dabbdacac548e210d7.jpeg",
+    "page_index": null,
+    "page_count": null,
+    "width": 800,
+    "height": 1067,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": false,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "F10 F11 F12 ScrLk PrtSc SysRq Pause Break Insert",
+            "block_bbox": [
+                248,
+                24,
+                727,
+                62
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "figure_title",
+            "block_content": "变电所倒闸操作票",
+            "block_bbox": [
+                325,
+                146,
+                490,
+                177
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "table",
+            "block_content": "<table><tr><td>发令人</td><td>受令人</td><td>陈通水</td><td colspan=\"2\">编号：20250429001</td></tr><tr><td colspan=\"3\">操作开始时间：2025年4月29日13时30分</td><td colspan=\"2\">发令时间：2025年4月29日13时29分</td></tr><tr><td>(V) 监护下操作</td><td>( ) 单人操作</td><td colspan=\"3\">( ) 检修人员操作</td></tr><tr><td colspan=\"5\">操作任务：</td></tr><tr><td>顺序</td><td colspan=\"2\">操作项目</td><td>✓</td><td>时间</td></tr><tr><td>1.</td><td colspan=\"2\">向调度室汇报，准备停地面10k变电所</td><td>✓</td><td>13:30</td></tr><tr><td></td><td colspan=\"2\">G10(正圆进线)高压柜.调度室同意.</td><td>✓</td><td>13:30</td></tr><tr><td>2.</td><td colspan=\"2\">转动分闸旋钮，确认分闸显示灯亮.</td><td>✓</td><td>13:31</td></tr><tr><td>3.</td><td colspan=\"2\">将断路器小车拉出确认拉到位.</td><td>✓</td><td>13:32</td></tr><tr><td>4.</td><td colspan=\"2\">合上接地刀闸.</td><td>✓</td><td>13:34</td></tr><tr><td>5.</td><td colspan=\"2\">悬挂“禁止合闸，布工作”警示牌.</td><td>✓</td><td>13:35</td></tr><tr><td>6.</td><td colspan=\"2\">向调度室汇报停电已完成.</td><td>✓</td><td>13:41</td></tr><tr><td></td><td colspan=\"2\"></td><td></td><td></td></tr><tr><td></td><td colspan=\"2\"></td><td></td><td></td></tr><tr><td></td><td colspan=\"2\"></td><td></td><td></td></tr><tr><td></td><td colspan=\"2\"></td><td></td><td></td></tr><tr><td colspan=\"5\">备注：</td></tr></table>",
+            "block_bbox": [
+                58,
+                193,
+                764,
+                1065
+            ],
+            "block_id": 2,
+            "block_order": null,
+            "group_id": 2
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.5736966729164124,
+                "coordinate": [
+                    248.7146759033203,
+                    24.47199821472168,
+                    727.1600952148438,
+                    62.090179443359375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5435168743133545,
+                "coordinate": [
+                    101.4835205078125,
+                    184.59536743164062,
+                    303.4766540527344,
+                    222.406982421875
+                ]
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.5713769793510437,
+                "coordinate": [
+                    325.73724365234375,
+                    146.11581420898438,
+                    490.26556396484375,
+                    177.13449096679688
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.42640241980552673,
+                "coordinate": [
+                    502.83111572265625,
+                    207.28895568847656,
+                    681.8400268554688,
+                    233.5818328857422
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9270964860916138,
+                "coordinate": [
+                    58.491943359375,
+                    193.8048095703125,
+                    764.0595092773438,
+                    1065.587890625
+                ]
+            }
+        ]
+    }
+}

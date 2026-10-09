@@ -1,0 +1,43 @@
+/* Footer Styles */
+/* Footer container with a dark background and white text */
+footer {
+  background: rgba(15, 23, 42, 0.74);
+  color: rgba(226, 232, 240, 0.92);
+  text-align: center; /* Centre align the text */
+  padding: 1rem 0; /* Vertical padding */
+  margin: 0; /* Remove any default margins */
+  width: 100%; /* Ensure the footer spans the full width of the page */
+  border-top: 1px solid rgba(148, 163, 184, 0.18);
+  box-shadow: 0px -12px 30px rgba(0, 0, 0, 0.22); /* Add a shadow above the footer */
+  position: relative; /* Default relative positioning */
+  bottom: 0; /* Ensure it remains at the bottom when required */
+  backdrop-filter: blur(10px);
+}
+
+/* Hyperlink Styles */
+/* Style for links within the footer */
+footer a {
+  color: rgba(226, 232, 240, 0.92); /* White text for footer links */
+  text-decoration: none; /* Remove underline by default */
+}
+
+footer a:hover {
+  text-decoration: underline; /* Add underline on hover for emphasis */
+  text-decoration-color: rgba(251, 191, 36, 0.75);
+}
+
+/* Body and Layout */
+/* Ensure the body and footer separation */
+body {
+  margin: 0; /* Remove default margin */
+  padding: 0; /* Remove default padding */
+  min-height: 100vh; /* Set a minimum height to fill the viewport */
+  display: flex; /* Enable flexbox layout for vertical alignment */
+  flex-direction: column; /* Arrange elements in a vertical stack */
+}
+
+/* Main Content */
+/* Main content area fills available space between header and footer */
+main {
+  flex: 1; /* Expand to fill remaining vertical space */
+}

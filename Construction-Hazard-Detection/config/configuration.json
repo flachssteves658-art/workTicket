@@ -1,0 +1,15 @@
+[{
+  "video_url": "test.mp4",
+  "site": "MySite",
+  "stream_name": "camera1",
+  "model_key": "yolo11n",
+  "detect_with_server": false,
+  "detection_items": {
+    "detect_no_safety_vest_or_helmet": true,
+    "detect_near_machinery_or_vehicle": true,
+    "detect_in_restricted_area": true
+  },
+  "work_start_hour": 0,
+  "work_end_hour": 24,
+  "store_in_redis": false
+}]

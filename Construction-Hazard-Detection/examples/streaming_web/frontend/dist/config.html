@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>编辑配置</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Specifies the favicon for the webpage -->
+    <link rel="icon" href="/assets/favicon-63HoscUf.ico" type="image/x-icon">
+    <!-- Preconnect to Google Fonts to optimise loading -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <!-- Import the Roboto font from Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+    <!-- Include Font Awesome for icon support -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" />
+    <!-- Link to custom CSS for styling -->
+    <script src="/runtime-config.js"></script>
+    <!-- Link to JavaScript file with module support, loaded asynchronously -->
+  <script type="module" crossorigin src="/assets/app_endpoints-CXxHeyB1.js"></script>
+  <script type="module" crossorigin src="/assets/config-B1-w_Nzj.js"></script>
+  <link rel="stylesheet" crossorigin href="/assets/config-RyzWEZ4R.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Main header for the page -->
+        <h1>配置</h1>
+
+        <!-- Container to dynamically load and display configurations -->
+        <div id="config-container"></div>
+
+        <!-- Button group for editing and adding configurations -->
+        <div class="buttons">
+            <!-- Edit button with Font Awesome icon -->
+            <button id="edit-btn" type="button">
+                <i class="fas fa-edit"></i> 编辑
+            </button>
+            <!-- Add Configuration button, initially hidden -->
+            <button id="add-config-btn" type="button" class="hidden">
+                <i class="fas fa-plus"></i> 新增配置
+            </button>
+        </div>
+
+        <!-- Form controls for saving or cancelling changes, initially hidden -->
+        <div class="hidden" id="form-controls">
+            <!-- Save button with Font Awesome icon -->
+            <button id="save-btn" type="button">
+                <i class="fas fa-save"></i> 保存
+            </button>
+            <!-- Cancel button with Font Awesome icon -->
+            <button id="cancel-btn" type="button">
+                <i class="fas fa-times"></i> 取消
+            </button>
+        </div>
+    </div>
+
+    <!-- Template for each configuration item -->
+    <template id="config-item-template">
+        <div class="config-item">
+            <div class="config-header">
+                <button type="button" class="toggle-config-btn">
+                    <i class="fas fa-chevron-down"></i>
+                </button>
+                <div class="site-stream">
+                    <label>
+                        工地:
+                        <input type="text" name="site" value="" />
+                    </label>
+                    <span>-</span>
+                    <label>
+                        串流名称:
+                        <input type="text" name="stream_name" value="" />
+                    </label>
+                </div>
+                <button type="button" class="delete-config-btn" style="display:none;">
+                    <i class="fas fa-trash-alt"></i>
+                </button>
+            </div>
+
+            <div class="config-details">
+                <label>
+                    视频流地址:
+                    <input type="text" name="video_url" value="" />
+                </label>
+
+            <label class="model-key-label">
+                模型:
+                <select name="model_key">
+                    <option value="yolo11n">yolo11n</option>
+                    <option value="yolo11s">yolo11s</option>
+                    <option value="yolo11m">yolo11m</option>
+                    <option value="yolo11l">yolo11l</option>
+                    <option value="yolo11x">yolo11x</option>
+                </select>
+            </label>
+
+            <label class="expire-date-container">
+                过期时间:
+                <input type="date" name="expire_date" />
+                <input type="text" value="无过期时间" disabled style="display:none;">
+            </label>
+
+            <!-- Detect with Server & Store in Redis -->
+            <label>
+                <input type="checkbox" name="detect_with_server" />
+                由 Server 检测 (detect_with_server)
+            </label>
+            <label>
+                <input type="checkbox" name="store_in_redis" />
+                储存到 Redis (store_in_redis)
+            </label>
+
+            <!-- Work Hours -->
+            <div class="work-hours">
+                <label class="work-hours-label">
+                    开始时间:
+                    <select name="work_start_hour">
+                        <!-- 0 ~ 23 -->
+                        <option value="0">0</option>
+                        <option value="1">1</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                        <option value="4">4</option>
+                        <option value="5">5</option>
+                        <option value="6">6</option>
+                        <option value="7">7</option>
+                        <option value="8">8</option>
+                        <option value="9">9</option>
+                        <option value="10">10</option>
+                        <option value="11">11</option>
+                        <option value="12">12</option>
+                        <option value="13">13</option>
+                        <option value="14">14</option>
+                        <option value="15">15</option>
+                        <option value="16">16</option>
+                        <option value="17">17</option>
+                        <option value="18">18</option>
+                        <option value="19">19</option>
+                        <option value="20">20</option>
+                        <option value="21">21</option>
+                        <option value="22">22</option>
+                        <option value="23">23</option>
+                    </select>
+                </label>
+
+                <label class="work-hours-label">
+                    结束时间:
+                    <select name="work_end_hour">
+                        <!-- 1 ~ 24 -->
+                        <option value="1">1</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                        <option value="4">4</option>
+                        <option value="5">5</option>
+                        <option value="6">6</option>
+                        <option value="7">7</option>
+                        <option value="8">8</option>
+                        <option value="9">9</option>
+                        <option value="10">10</option>
+                        <option value="11">11</option>
+                        <option value="12">12</option>
+                        <option value="13">13</option>
+                        <option value="14">14</option>
+                        <option value="15">15</option>
+                        <option value="16">16</option>
+                        <option value="17">17</option>
+                        <option value="18">18</option>
+                        <option value="19">19</option>
+                        <option value="20">20</option>
+                        <option value="21">21</option>
+                        <option value="22">22</option>
+                        <option value="23">23</option>
+                        <option value="24">24</option>
+                    </select>
+                </label>
+            </div>
+
+            <fieldset>
+                <legend>检测项目</legend>
+                <label>
+                    <input type="checkbox" name="detect_no_safety_vest_or_helmet" />
+                    无背心/安全帽
+                </label>
+                <label>
+                    <input type="checkbox" name="detect_near_machinery_or_vehicle" />
+                    靠近机具/车辆
+                </label>
+                <label>
+                    <input type="checkbox" name="detect_in_restricted_area" />
+                    闯入管制区
+                </label>
+                <label>
+                    <input type="checkbox" name="detect_in_utility_pole_restricted_area" />
+                    闯入电杆区
+                </label>
+                <label>
+                    <input type="checkbox" name="detect_machinery_close_to_pole" />
+                    机具靠近电杆
+                </label>
+            </fieldset>
+
+            <fieldset>
+                <legend>通知</legend>
+                <div class="notifications-container"></div>
+                <button type="button" class="add-notification" style="display:none;">
+                    <i class="fas fa-plus"></i> 新增通知
+                </button>
+            </fieldset>
+            <fieldset>
+                <legend>LLM 复核</legend>
+                <label>
+                    <input type="checkbox" name="llm_refine_enabled" />
+                    启用复核 (llm_refine_enabled)
+                </label>
+                <label>
+                    提供商:
+                    <select name="llm_provider">
+                        <option value="aliyun">aliyun</option>
+                        <option value="ollama">ollama</option>
+                    </select>
+                </label>
+                <label>
+                    Base URL:
+                    <input type="text" name="llm_base_url" value="" />
+                </label>
+                <label>
+                    模型:
+                    <input type="text" name="llm_model" value="" />
+                </label>
+                <label>
+                    低置信度阈值:
+                    <input type="number" name="llm_low_conf_threshold" step="0.01" min="0" max="1" />
+                </label>
+            </fieldset>
+            </div>
+        </div>
+    </template>
+
+    <!-- Template for notification item -->
+    <template id="notification-item-template">
+        <div class="notification-item">
+            <button type="button" class="delete-notification" style="display:none;"><i class="fas fa-times"></i></button>
+            <div class="notification-content">
+                <label>
+                    Token: <input type="text" name="line_token" value="" />
+                </label>
+                <label>
+                    Language:
+                    <select name="language">
+                        <option value="zh-TW">zh-TW</option>
+                        <option value="zh-CN">zh-CN</option>
+                        <option value="en">en</option>
+                        <option value="fr">fr</option>
+                        <option value="id">id</option>
+                        <option value="vt">vt</option>
+                        <option value="th">th</option>
+                    </select>
+                </label>
+            </div>
+        </div>
+    </template>
+</body>
+</html>

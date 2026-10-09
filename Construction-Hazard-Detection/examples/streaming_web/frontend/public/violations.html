@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>违规记录查询</title>
+    <link rel="stylesheet" href="/css/styles.css">
+    <script src="/runtime-config.js"></script>
+    <script src="/js/violations.js" type="module" defer></script>
+</head>
+<body>
+    <main class="content">
+        <div class="panel">
+            <div class="panel-header">
+                <div class="panel-title">违规记录查询</div>
+                <div class="panel-subtitle">按工地、关键字与时间区间筛选</div>
+            </div>
+            <div class="page-container">
+                <div class="violations-toolbar">
+                    <section class="filters">
+                        <div class="filter-field">
+                            <label for="site-select">工地</label>
+                            <select id="site-select">
+                                <option value="">全部站点</option>
+                            </select>
+                        </div>
+                        <div class="filter-field">
+                            <label for="keyword-input">关键字</label>
+                            <input id="keyword-input" type="text" placeholder="stream_name 或信息">
+                        </div>
+                        <div class="filter-field">
+                            <label for="start-time">开始时间</label>
+                            <input id="start-time" type="datetime-local">
+                        </div>
+                        <div class="filter-field">
+                            <label for="end-time">结束时间</label>
+                            <input id="end-time" type="datetime-local">
+                        </div>
+                        <div class="filter-actions">
+                            <button id="preset-1h" type="button" class="chip">近 1 小时</button>
+                            <button id="preset-24h" type="button" class="chip">近 24 小时</button>
+                            <button id="preset-7d" type="button" class="chip">近 7 天</button>
+                            <button id="reset-button" type="button" class="button secondary">重置</button>
+                            <button id="search-button" type="button" class="button primary">查询</button>
+                        </div>
+                    </section>
+                    <div id="violations-summary" class="violations-summary" aria-live="polite"></div>
+                </div>
+                <section id="violation-list" class="violation-list"></section>
+            </div>
+        </div>
+    </main>
+</body>
+</html>

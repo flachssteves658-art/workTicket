@@ -1,0 +1,170 @@
+{"kind":"deck","id":"pr/czv4yu","name":"Deck"}
+{"kind":"layout","layoutId":"/ppt/slideMasters/slideMaster1.xml","name":"","type":"master","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式 | 第二级 | 第三级 | 第四级 | 第五级"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout1.xml","name":"1_标题幻灯片","placeholders":[{"name":"body","type":"body"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout2.xml","name":"2_标题幻灯片","placeholders":[{"name":"body","type":"body"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout3.xml","name":"自定义版式","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout4.xml","name":"标题幻灯片","type":"title","placeholders":[{"name":"title","type":"title","textPreview":"单击此处添加标题"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"},{"name":"subtitle","type":"subtitle","textPreview":"单击此处添加副标题"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout5.xml","name":"标题和内容","type":"obj","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"2","textPreview":"单击此处编辑母版文本样式 | 第二级 | 第三级 | 第四级 | 第五级"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout6.xml","name":"节标题","type":"secHead","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout7.xml","name":"两栏内容","type":"twoObj","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"2","textPreview":"单击此处编辑母版文本样式 | 第二级 | 第三级 | 第四级 | 第五级"},{"name":"3","textPreview":"单击此处编辑母版文本样式 | 第二级 | 第三级 | 第四级 | 第五级"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout8.xml","name":"比较","type":"twoTxTwoObj","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式"},{"name":"3","textPreview":"单击此处编辑母版文本样式 | 第二级 | 第三级 | 第四级 | 第五级"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式"},{"name":"5","textPreview":"单击此处编辑母版文本样式 | 第二级 | 第三级 | 第四级 | 第五级"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout9.xml","name":"仅标题","type":"titleOnly","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout10.xml","name":"空白","type":"blank","placeholders":[{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout11.xml","name":"图片与标题","type":"picTx","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑标题"},{"name":"picture","type":"picture"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout12.xml","name":"竖排标题与文本","type":"vertTitleAndTx","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式 | 第二级 | 第三级 | 第四级 | 第五级"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout13.xml","name":"内容","placeholders":[{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"},{"name":"6","textPreview":"单击此处编辑母版文本样式 | 第二级 | 第三级 | 第四级 | 第五级"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout14.xml","name":"1_自定义版式","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"slide","id":"sl/y90nupkv","slide":1,"title":"华东分部生技部、武汉南瑞","textShapes":2}
+{"kind":"textbox","id":"sh/k3yl0zql","slide":1,"name":"文本占位符 2","text":"\n华东分部生技部、武汉南瑞\n2026年8月","textPreview":"| 华东分部生技部、武汉南瑞 | 2026年8月","textChars":21,"textLines":3,"bbox":[0,308.88,957.02,228.85]}
+{"kind":"textbox","id":"sh/wn6dc7eh","slide":1,"name":"TextBox 6","text":"2026年国网华东分部基于多模态数据分析的电网安全智能管控关键技术研究\n\n项目阶段性进展汇报","textPreview":"2026年国网华东分部基于多模态数据分析的电网安全智能管控关键技术研究 |  | 项目阶段性进展汇报","textChars":46,"textLines":3,"bbox":[1.49,131.16,957.02,216.4]}
+{"kind":"image","id":"im/ipofexcz","slide":1,"name":"图片 1","bbox":[0.69,103.68,956.97,264.6]}
+{"kind":"image","id":"im/5cze9svq","slide":1,"name":"Picture 2","bbox":[729.48,1.97,230.52,73.67]}
+{"kind":"notes","id":"nt/y90nupkv","slide":1,"text":"[Sources]\n- 电网安全智能管控项目阶段性进展汇报.pptx（工程形态、实验预检、后续课题储备与8—9月计划）\n- 项目阶段性进展汇报_2026年8月.pptx（统一视觉、总体主线、技术路线与项目证据）"}
+{"kind":"slide","id":"sl/hwbqtkby","slide":2,"title":"CONTENTS","textShapes":20}
+{"kind":"shape","id":"sh/q5wjelsz","slide":2,"name":"矩形 8","bbox":[28.93,73.44,228.32,455.05]}
+{"kind":"textbox","id":"sh/wjy9sry9","slide":2,"name":"文本框 13","text":"CONTENTS","textPreview":"CONTENTS","textChars":8,"textLines":1,"bbox":[28.93,224.69,229.21,48.31]}
+{"kind":"textbox","id":"sh/xk7qlczu","slide":2,"name":"文本框 14","text":"目 录","textPreview":"目 录","textChars":3,"textLines":1,"bbox":[58.53,266.98,98.73,48.31]}
+{"kind":"shape","id":"sh/cnupgny5","slide":2,"name":"矩形 17","bbox":[76.19,328.59,35.27,3.6]}
+{"kind":"textbox","id":"sh/v2lc36dw","slide":2,"name":"文本框 47","text":"CONTENTS","textPreview":"CONTENTS","textChars":8,"textLines":1,"bbox":[28.93,224.81,229.21,48.31]}
+{"kind":"shape","id":"sh/t8byxkn2","slide":2,"name":"矩形 19","bbox":[918.03,103.16,7.63,195.17]}
+{"kind":"shape","id":"sh/wbidwb29","slide":2,"name":"矩形 35","bbox":[918.03,293.86,7.63,195.17]}
+{"kind":"textbox","id":"sh/ove9o7yd","slide":2,"name":"矩形 32","text":"一","textPreview":"一","textChars":1,"textLines":1,"bbox":[350.43,176.81,50.39,62.1]}
+{"kind":"textbox","id":"sh/9wnqhczy","slide":2,"name":"矩形 13","text":"必要性分析","textPreview":"必要性分析","textChars":5,"textLines":1,"bbox":[433.59,176.28,383.76,62.82]}
+{"kind":"textbox","id":"sh/mtwrmxg7","slide":2,"name":"矩形 32","text":"三","textPreview":"三","textChars":1,"textLines":1,"bbox":[350.43,355.83,50.39,62.82]}
+{"kind":"textbox","id":"sh/nu58f2hs","slide":2,"name":"矩形 13","text":"拟解决问题","textPreview":"拟解决问题","textChars":5,"textLines":1,"bbox":[433.59,355.63,383.76,62.82]}
+{"kind":"textbox","id":"sh/a10jqpsj","slide":2,"name":"矩形 32","text":"二","textPreview":"二","textChars":1,"textLines":1,"bbox":[350.43,266.09,50.44,57.84]}
+{"kind":"textbox","id":"sh/x4r21kru","slide":2,"name":"矩形 13","text":"研究现状","textPreview":"研究现状","textChars":4,"textLines":1,"bbox":[432.15,265.96,383.76,62.82]}
+{"kind":"textbox","id":"sh/fadgzu58","slide":2,"name":"矩形 13","text":"拟解决问题","textPreview":"拟解决问题","textChars":5,"textLines":1,"bbox":[433.65,355.7,383.76,62.82]}
+{"kind":"textbox","id":"sh/p0vy54na","slide":2,"name":"矩形 13","text":"研究现状","textPreview":"研究现状","textChars":4,"textLines":1,"bbox":[433.59,265.89,383.76,62.82]}
+{"kind":"textbox","id":"sh/ozy1ofad","slide":2,"name":"矩形 13","text":"必要性分析","textPreview":"必要性分析","textChars":5,"textLines":1,"bbox":[433.27,179.91,383.76,62.82]}
+{"kind":"textbox","id":"sh/b29kza94","slide":2,"name":"矩形 13","text":"计划与验证","textPreview":"计划与验证","textChars":5,"textLines":1,"bbox":[435.15,355.76,383.76,62.82]}
+{"kind":"textbox","id":"sh/onydsbmd","slide":2,"name":"矩形 13","text":"技术与成果","textPreview":"技术与成果","textChars":5,"textLines":1,"bbox":[435.09,265.96,383.76,62.82]}
+{"kind":"textbox","id":"sh/a9gvulkj","slide":2,"name":"矩形 32","text":"三","textPreview":"三","textChars":1,"textLines":1,"bbox":[350.43,355.76,50.39,62.82]}
+{"kind":"textbox","id":"sh/je9crql0","slide":2,"name":"矩形 32","text":"三","textPreview":"三","textChars":1,"textLines":1,"bbox":[348.48,355.04,50.39,62.82]}
+{"kind":"textbox","id":"sh/svedkvup","slide":2,"name":"矩形 32","text":"二","textPreview":"二","textChars":1,"textLines":1,"bbox":[351.87,268.39,50.44,57.84]}
+{"kind":"textbox","id":"sh/fypcfqdg","slide":2,"name":"矩形 32","text":"一","textPreview":"一","textChars":1,"textLines":1,"bbox":[351.93,179.91,50.39,62.1]}
+{"kind":"textbox","id":"sh/exgvmlcv","slide":2,"name":"矩形 32","text":"三","textPreview":"三","textChars":1,"textLines":1,"bbox":[352.43,357.54,50.39,62.82]}
+{"kind":"textbox","id":"sh/gbmxszmt","slide":2,"name":"矩形 13","text":"阶段进展","textPreview":"阶段进展","textChars":4,"textLines":1,"bbox":[433.65,179.13,383.76,62.82]}
+{"kind":"image","id":"im/lgzu9gby","slide":2,"name":"Picture 2","bbox":[729.48,1.97,230.52,73.67]}
+{"kind":"notes","id":"nt/hwbqtkby","slide":2,"text":"[Sources]\n- 电网安全智能管控项目阶段性进展汇报.pptx（工程形态、实验预检、后续课题储备与8—9月计划）\n- 项目阶段性进展汇报_2026年8月.pptx（统一视觉、总体主线、技术路线与项目证据）"}
+{"kind":"slide","id":"sl/ofy9wn61","slide":3,"title":"一、阶段进展","textShapes":3}
+{"kind":"textbox","id":"sh/cza94vmx","slide":3,"name":"矩形 1","text":"一、阶段进展","textPreview":"一、阶段进展","textChars":6,"textLines":1,"bbox":[33.97,5.46,213.26,87.24]}
+{"kind":"textbox","id":"sh/n2l4fq98","slide":3,"name":"Text Box 4","text":"阶段结论","textPreview":"阶段结论","textChars":4,"textLines":1,"bbox":[303.91,7.14,370.43,41.64]}
+{"kind":"textbox","id":"sh/d0jax03i","slide":3,"name":"矩形 2","text":"课题1已进入核心技术集成与实验验证阶段，整体与2026年11月中期检查计划保持一致。\n1. 主链路｜已贯通工作票OCR解析、结构化抽取、证据落盘、设备关联、图谱存储和演示服务。\n2. 当前输出｜可保留OCR文本、表格、区块坐标、版面得分及JSON、Markdown、预处理图等中间文件。\n3. 实现边界｜页码字段当前仍为空；字段级置信度及“字段→原文→页码/坐标”直接映射尚待补齐。\n4. 抽取状态｜现有样例采用规则兜底；BERT-MRC需在检查点到位后接入，Qwen用于校验和关系抽取。\n5. 验证准备｜已建立100份PDF、100张PNG、配套台账与标准答案，具备批量实验条件。\n6. 下一节点｜完成100票统一跑测、错误分类和“票—设备—摄像头—视频”单票闭环演示。","textPreview":"课题1已进入核心技术集成与实验验证阶段，整体与2026年11月中期检查计划保持一致。 | 1. 主链路｜已贯通工作票OCR解析、结构化抽取、证据落盘、设备关联、图谱存储和演示服务。 | 2. 当前输出｜可保留OCR文本、表格、区块坐标、版面得分及JSON、Markdown、...","textChars":336,"textLines":7,"bbox":[33.93,96.13,888.73,407.93]}
+{"kind":"image","id":"im/5cn6p0v2","slide":3,"name":"Picture 2","bbox":[729.48,1.97,230.52,73.67]}
+{"kind":"notes","id":"nt/ofy9wn61","slide":3,"text":"[Sources]\n- 项目阶段性进展汇报_2026年8月.pptx（阶段计划与实验准备）\n- PROJECT_GUIDE.md（pipeline_output与中间文件说明）\n- pipeline_output/test1.json（OCR文本、区块坐标、版面得分及page_index现状）\n- pipeline_output/test1_ner.json（rule_fallback与BERT-MRC检查点状态）"}
+{"kind":"slide","id":"sl/jyx0ra1s","slide":4,"title":"一、阶段进展","textShapes":6}
+{"kind":"textbox","id":"sh/1cj2d8b6","slide":4,"name":"矩形 1","text":"一、阶段进展","textPreview":"一、阶段进展","textChars":6,"textLines":1,"bbox":[33.97,5.46,213.26,87.24]}
+{"kind":"textbox","id":"sh/kbm987y5","slide":4,"name":"Text Box 4","text":"问题与目标","textPreview":"问题与目标","textChars":5,"textLines":1,"bbox":[303.91,7.14,370.43,41.64]}
+{"kind":"textbox","id":"sh/0ba143al","slide":4,"name":"矩形 2","text":"当前主要矛盾不是“有没有数据”，而是工作票、设备台账、监控视频和风险事件尚未形成统一语义与时空关联。项目以课题1为当前突破口，先打通“票面解析—设备定位—监控关联”，再向风险识别和智能预警扩展。","textPreview":"当前主要矛盾不是“有没有数据”，而是工作票、设备台账、监控视频和风险事件尚未形成统一语义与时空关联。项目以课题1为当前突破口，先打通“票面解析—设备定位—监控关联”，再向风险识别和智能预警扩展。","textChars":97,"textLines":1,"bbox":[35.64,84.96,888.72,149.07]}
+{"kind":"textbox","id":"sh/sna103ap","slide":4,"name":"文本框 6","text":"票面信息非结构化","textPreview":"票面信息非结构化","textChars":8,"textLines":1,"bbox":[56.67,477.27,229.53,32.2]}
+{"kind":"textbox","id":"sh/5cva1cfq","slide":4,"name":"文本框 10","text":"现场识别有时延","textPreview":"现场识别有时延","textChars":7,"textLines":1,"bbox":[404.4,477.27,147.33,54.4]}
+{"kind":"textbox","id":"sh/a5kr2xg3","slide":4,"name":"文本框 15","text":"多源数据相互割裂","textPreview":"多源数据相互割裂","textChars":8,"textLines":1,"bbox":[721.93,474.13,100.93,54.4]}
+{"kind":"image","id":"im/sbm5cbix","slide":4,"name":"Picture 2","bbox":[729.48,1.97,230.52,73.67]}
+{"kind":"image","id":"im/b6xofahg","slide":4,"name":"图片 4","bbox":[321.97,264.01,273.58,198.66]}
+{"kind":"image","id":"im/q5onm50v","slide":4,"name":"图片 8","bbox":[28.91,260.53,257.26,202.16]}
+{"kind":"image","id":"im/m1s7e9k3","slide":4,"name":"图片 3","bbox":[631.2,264,280.6,202.87]}
+{"kind":"notes","id":"nt/jyx0ra1s","slide":4,"text":"[Sources]\n- 项目阶段性进展汇报_2026年8月.pptx（统一视觉、总体主线、技术路线与项目证据）"}
+{"kind":"slide","id":"sl/i107q5of","slide":5,"title":"二、技术与成果","textShapes":2}
+{"kind":"shape","id":"sh/cf2tcr61","slide":5,"name":"Rectangle 140","bbox":[0,0,960,0]}
+{"kind":"textbox","id":"sh/yhkbe1o7","slide":5,"name":"矩形 4","text":"二、技术与成果","textPreview":"二、技术与成果","textChars":7,"textLines":1,"bbox":[33.97,5.46,213.26,48.47]}
+{"kind":"textbox","id":"sh/n6dcr65o","slide":5,"name":"矩形 7","text":"总体技术路线","textPreview":"总体技术路线","textChars":6,"textLines":1,"bbox":[291,49.6,339.28,38.78]}
+{"kind":"image","id":"im/bqxsjm9g","slide":5,"name":"Picture 2","bbox":[729.48,1.97,230.52,73.67]}
+{"kind":"image","id":"im/rqdw7qls","slide":5,"name":"图片 1","bbox":[26.4,96.07,905.6,421.6]}
+{"kind":"notes","id":"nt/i107q5of","slide":5,"text":"[Sources]\n- 项目阶段性进展汇报_2026年8月.pptx（统一视觉、总体主线、技术路线与项目证据）"}
+{"kind":"slide","id":"sl/x8f69ofe","slide":6,"title":"当前技术栈","textShapes":3}
+{"kind":"textbox","id":"sh/zi98nu94","slide":6,"name":"Text Box 4","text":"当前技术栈","textPreview":"当前技术栈","textChars":5,"textLines":1,"bbox":[56.58,65.9,846.71,48.33]}
+{"kind":"shape","id":"sh/ml07i9sv","slide":6,"name":"Rectangle 163","bbox":[0,0,960,0]}
+{"kind":"textbox","id":"sh/oryp8fah","slide":6,"name":"矩形 7","text":"二、技术与成果","textPreview":"二、技术与成果","textChars":7,"textLines":1,"bbox":[33.97,5.46,213.26,48.47]}
+{"kind":"textbox","id":"sh/87ipkzal","slide":6,"name":"文本框 3","text":"文档理解｜OpenCV预处理；PPStructureV3 / PaddleOCR-VL解析文字、表格、坐标和版面得分。\n语义抽取｜规则兜底为主；BERT-MRC待检查点，Qwen承担结果校验和关系抽取。\n证据留存｜保存JSON、Markdown、预处理图和OCR区块；页码、字段置信度待补齐。\n关联存储｜设备标准化与编码匹配；Neo4j关联票、设备、地点和摄像头。\n服务应用｜FastAPI + Gradio + SSE，输出阶段耗时、JSON和Cypher。\n工程价值｜形成可演示、可观察、可追溯原型，支撑批量评测与平台集成。","textPreview":"文档理解｜OpenCV预处理；PPStructureV3 / PaddleOCR-VL解析文字、表格、坐标和版面得分。 | 语义抽取｜规则兜底为主；BERT-MRC待检查点，Qwen承担结果校验和关系抽取。 | 证据留存｜保存JSON、Markdown、预处理图和OCR区块...","textChars":264,"textLines":6,"bbox":[33.93,118.8,878.73,385.47]}
+{"kind":"image","id":"im/0vel47m1","slide":6,"name":"Picture 2","bbox":[729.48,1.97,230.52,73.67]}
+{"kind":"notes","id":"nt/x8f69ofe","slide":6,"text":"[Sources]\n- PROJECT_GUIDE.md\n- paddle_models/preprocess_and_ocr.py\n- paddle_models/image_preprocess.py\n- pipeline_output/test1.json\n- pipeline_output/test1_ner.json\n- service/unified_pipeline.py\n- service/neo4j_client.py\n- service/api_server.py"}
+{"kind":"slide","id":"sl/gnmp4jqx","slide":7,"title":"课题1：工作票结构化抽取主链路已打通","textShapes":6}
+{"kind":"textbox","id":"sh/r2dkrq5g","slide":7,"name":"Text Box 4","text":"课题1：工作票结构化抽取主链路已打通","textPreview":"课题1：工作票结构化抽取主链路已打通","textChars":18,"textLines":1,"bbox":[43.67,65.16,914.75,101.67]}
+{"kind":"textbox","id":"sh/kzmdova1","slide":7,"name":"矩形 5","text":"工作票图像/PDF → PPStructureV3版面与OCR → Markdown/JSON证据 → LLM按固定Schema抽取 → 安全规则一致性校验。输出同时保留字段值、原文证据、页码/坐标、置信状态和中间文件，便于复核与回溯。","textPreview":"工作票图像/PDF → PPStructureV3版面与OCR → Markdown/JSON证据 → LLM按固定Schema抽取 → 安全规则一致性校验。输出同时保留字段值、原文证据、页码/坐标、置信状态和中间文件，便于复核与回溯。","textChars":118,"textLines":1,"bbox":[50.11,114.63,861.83,199.53]}
+{"kind":"shape","id":"sh/dcbud0ra","slide":7,"name":"Rectangle 140","bbox":[0,0,960,0]}
+{"kind":"textbox","id":"sh/l0vuh0rm","slide":7,"name":"矩形 6","text":"二、技术与成果","textPreview":"二、技术与成果","textChars":7,"textLines":1,"bbox":[33.97,5.46,213.26,48.47]}
+{"kind":"textbox","id":"sh/zedcfa9g","slide":7,"name":"矩形 4","text":"版面与文字识别","textPreview":"版面与文字识别","textChars":7,"textLines":1,"bbox":[367.2,503.87,253.93,32.2]}
+{"kind":"textbox","id":"sh/eh0ba1sr","slide":7,"name":"矩形 7","text":"原始工作票样本","textPreview":"原始工作票样本","textChars":7,"textLines":1,"bbox":[94.47,504.53,227.93,32.2]}
+{"kind":"textbox","id":"sh/fi9c369c","slide":7,"name":"矩形 8","text":"证据约束抽取框架","textPreview":"证据约束抽取框架","textChars":8,"textLines":1,"bbox":[599.71,503.87,339.28,32.2]}
+{"kind":"image","id":"im/3ydory5k","slide":7,"name":"Picture 2","bbox":[729.48,1.97,230.52,73.67]}
+{"kind":"image","id":"im/ix4nytoz","slide":7,"name":"图片 3","bbox":[79.33,316.2,259,180.53]}
+{"kind":"image","id":"im/l4rmh4n6","slide":7,"name":"图片 17","bbox":[651.13,316.2,246.4,180.53]}
+{"kind":"image","id":"im/k3i5oz61","slide":7,"name":"图片 9","bbox":[424.73,314.13,142,182.6]}
+{"kind":"notes","id":"nt/gnmp4jqx","slide":7,"text":"[Sources]\n- 电网安全智能管控项目阶段性进展汇报.pptx（工程形态、实验预检、后续课题储备与8—9月计划）\n- 项目阶段性进展汇报_2026年8月.pptx（统一视觉、总体主线、技术路线与项目证据）\n- paddle_models/preprocess_and_ocr.py\n- pipeline_output/test1_ner.json"}
+{"kind":"slide","id":"sl/fu1gfa1s","slide":8,"title":"设备—地点—摄像头关联已形成初步实现","textShapes":6}
+{"kind":"textbox","id":"sh/kredcr6t","slide":8,"name":"Text Box 4","text":"设备—地点—摄像头关联已形成初步实现","textPreview":"设备—地点—摄像头关联已形成初步实现","textChars":18,"textLines":1,"bbox":[43.67,65.16,914.75,48.33]}
+{"kind":"textbox","id":"sh/tkby9kzm","slide":8,"name":"矩形 5","text":"已建立Ticket、Entity、Device、Location、Camera等图谱对象及LOCATED_AT、COVERS、PART_OF等关系；通过设备名称标准化和编码匹配，将工作票中的设备/地点与监控资源建立映射。当前处于主流程集成与系统验证阶段，下一步重点验证关联精度与视频查询闭环。","textPreview":"已建立Ticket、Entity、Device、Location、Camera等图谱对象及LOCATED_AT、COVERS、PART_OF等关系；通过设备名称标准化和编码匹配，将工作票中的设备/地点与监控资源建立映射。当前处于主流程集成与系统验证阶段，下一步重点验证关联精...","textChars":146,"textLines":1,"bbox":[50.11,103.68,861.83,244.67]}
+{"kind":"shape","id":"sh/g72x4zyd","slide":8,"name":"Rectangle 140","bbox":[0,0,960,0]}
+{"kind":"textbox","id":"sh/sjix0zy1","slide":8,"name":"矩形 6","text":"二、技术与成果","textPreview":"二、技术与成果","textChars":7,"textLines":1,"bbox":[33.97,5.46,213.26,48.47]}
+{"kind":"textbox","id":"sh/0jydkreh","slide":8,"name":"矩形 13","text":"设备/地点语义标准化","textPreview":"设备/地点语义标准化","textChars":10,"textLines":1,"bbox":[23,504.41,339.28,32.2]}
+{"kind":"textbox","id":"sh/1k7edwv2","slide":8,"name":"矩形 14","text":"票据—监控资源映射","textPreview":"票据—监控资源映射","textChars":9,"textLines":1,"bbox":[336.33,504.4,297.87,32.2]}
+{"kind":"textbox","id":"sh/zipwbmdc","slide":8,"name":"矩形 16","text":"关联与检索闭环","textPreview":"关联与检索闭环","textChars":7,"textLines":1,"bbox":[616.04,501.07,339.28,32.2]}
+{"kind":"image","id":"im/wnq9gnm1","slide":8,"name":"Picture 2","bbox":[729.48,1.97,230.52,73.67]}
+{"kind":"image","id":"im/xoza9s3m","slide":8,"name":"picture 112","bbox":[61.07,321.87,250.13,179.2]}
+{"kind":"image","id":"im/uhsbqhkf","slide":8,"name":"图片 7","bbox":[366.6,322.13,232.27,179]}
+{"kind":"image","id":"im/fi1sjmlk","slide":8,"name":"图片 8","bbox":[653.87,321.87,234.8,179.13]}
+{"kind":"notes","id":"nt/fu1gfa1s","slide":8,"text":"[Sources]\n- 项目阶段性进展汇报_2026年8月.pptx（统一视觉、总体主线、技术路线与项目证据）\n- service/neo4j_client.py\n- service/seed_infrastructure.py\n- service/ingest_mock_data.py"}
+{"kind":"slide","id":"sl/udsvah03","slide":9,"title":"当前系统已具备可演示、可观测、可追溯的工程形态","textShapes":6}
+{"kind":"textbox","id":"sh/wba1cjqp","slide":9,"name":"Text Box 4","text":"当前系统已具备可演示、可观测、可追溯的工程形态","textPreview":"当前系统已具备可演示、可观测、可追溯的工程形态","textChars":23,"textLines":1,"bbox":[43.67,65.16,914.75,101.67]}
+{"kind":"textbox","id":"sh/9gzml0nq","slide":9,"name":"矩形 5","text":"后端采用FastAPI封装结构化识别与多模态直传接口；前端通过SSE展示上传、OCR、首字返回、模型生成和总耗时。任务自动留存识别文本、结构化结果、可视化文件、模型输出与耗时，形成完整运行证据链。","textPreview":"后端采用FastAPI封装结构化识别与多模态直传接口；前端通过SSE展示上传、OCR、首字返回、模型生成和总耗时。任务自动留存识别文本、结构化结果、可视化文件、模型输出与耗时，形成完整运行证据链。","textChars":98,"textLines":1,"bbox":[50.11,114.63,861.83,199.53]}
+{"kind":"shape","id":"sh/0b65obm9","slide":9,"name":"Rectangle 140","bbox":[0,0,960,0]}
+{"kind":"textbox","id":"sh/ofq5svm5","slide":9,"name":"矩形 6","text":"二、技术与成果","textPreview":"二、技术与成果","textChars":7,"textLines":1,"bbox":[33.97,5.46,213.26,48.47]}
+{"kind":"textbox","id":"sh/mdonql4z","slide":9,"name":"矩形 4","text":"五类运行指标","textPreview":"五类运行指标","textChars":6,"textLines":1,"bbox":[367.2,503.87,253.93,32.2]}
+{"kind":"textbox","id":"sh/bih4na5w","slide":9,"name":"矩形 7","text":"双模式识别入口","textPreview":"双模式识别入口","textChars":7,"textLines":1,"bbox":[94.47,504.53,227.93,32.2]}
+{"kind":"textbox","id":"sh/ah8nu54b","slide":9,"name":"矩形 8","text":"全过程结果留痕","textPreview":"全过程结果留痕","textChars":7,"textLines":1,"bbox":[599.71,503.87,339.28,32.2]}
+{"kind":"image","id":"im/wj6p4ve1","slide":9,"name":"Picture 2","bbox":[729.48,1.97,230.52,73.67]}
+{"kind":"image","id":"im/xkfqd0fm","slide":9,"name":"图片 3","bbox":[79.33,316.2,259,180.53]}
+{"kind":"image","id":"im/y5or65w7","slide":9,"name":"图片 17","bbox":[651.13,316.2,246.4,180.53]}
+{"kind":"image","id":"im/j6x8faxs","slide":9,"name":"图片 9","bbox":[424.73,314.13,142,182.6]}
+{"kind":"notes","id":"nt/udsvah03","slide":9,"text":"[Sources]\n- 电网安全智能管控项目阶段性进展汇报.pptx（工程形态、实验预检、后续课题储备与8—9月计划）\n- service/api_server.py\n- service/web_ui.py\n- service/ollama_client.py"}
+{"kind":"slide","id":"sl/m90b6t0r","slide":10,"title":"实验条件已具备，批量验证是下一关键节点","textShapes":6}
+{"kind":"textbox","id":"sh/kjytkvup","slide":10,"name":"Text Box 4","text":"实验条件已具备，批量验证是下一关键节点","textPreview":"实验条件已具备，批量验证是下一关键节点","textChars":19,"textLines":1,"bbox":[43.67,65.16,914.75,101.67]}
+{"kind":"textbox","id":"sh/l036l83y","slide":10,"name":"矩形 5","text":"已建立100份PDF、100张PNG及配套台账和标准答案，具备单票验证与批量实验条件。模拟样本主要字段综合识别准确率约90%；历史结果预检显示JSON可解析率为100%，固定Schema完全遵循率仍需提升。注：历史预检仅用于定位问题，不作为正式主实验结论。","textPreview":"已建立100份PDF、100张PNG及配套台账和标准答案，具备单票验证与批量实验条件。模拟样本主要字段综合识别准确率约90%；历史结果预检显示JSON可解析率为100%，固定Schema完全遵循率仍需提升。注：历史预检仅用于定位问题，不作为正式主实验结论。","textChars":128,"textLines":1,"bbox":[50.11,114.63,861.83,199.53]}
+{"kind":"shape","id":"sh/cbu58j2h","slide":10,"name":"Rectangle 140","bbox":[0,0,960,0]}
+{"kind":"textbox","id":"sh/kzu5c32t","slide":10,"name":"矩形 6","text":"三、实验与价值","textPreview":"三、实验与价值","textChars":7,"textLines":1,"bbox":[33.97,5.46,213.26,48.47]}
+{"kind":"textbox","id":"sh/ydcnatkn","slide":10,"name":"矩形 4","text":"真实场景示意","textPreview":"真实场景示意","textChars":6,"textLines":1,"bbox":[367.2,503.87,253.93,32.2]}
+{"kind":"textbox","id":"sh/725onyl4","slide":10,"name":"矩形 7","text":"版面区域定位","textPreview":"版面区域定位","textChars":6,"textLines":1,"bbox":[94.47,504.53,227.93,32.2]}
+{"kind":"textbox","id":"sh/m1cnetkj","slide":10,"name":"矩形 8","text":"历史结果预检","textPreview":"历史结果预检","textChars":6,"textLines":1,"bbox":[599.71,503.87,339.28,32.2]}
+{"kind":"image","id":"im/w76tsvq5","slide":10,"name":"Picture 2","bbox":[729.48,1.97,230.52,73.67]}
+{"kind":"image","id":"im/h8fu1g7q","slide":10,"name":"图片 3","bbox":[79.33,316.2,259,180.53]}
+{"kind":"image","id":"im/q9kbeh8v","slide":10,"name":"图片 17","bbox":[651.13,316.2,246.4,180.53]}
+{"kind":"image","id":"im/batcnm9g","slide":10,"name":"图片 9","bbox":[424.73,314.13,142,182.6]}
+{"kind":"notes","id":"nt/m90b6t0r","slide":10,"text":"[Sources]\n- 电网安全智能管控项目阶段性进展汇报.pptx（工程形态、实验预检、后续课题储备与8—9月计划）\n- 项目阶段性进展汇报_2026年8月.pptx（统一视觉、总体主线、技术路线与项目证据）"}
+{"kind":"slide","id":"sl/jetc3ut0","slide":11,"title":"课题2、课题3已完成共性能力储备，仍需真实场景数据","textShapes":6}
+{"kind":"textbox","id":"sh/k3uhcb6h","slide":11,"name":"Text Box 4","text":"课题2、课题3已完成共性能力储备，仍需真实场景数据","textPreview":"课题2、课题3已完成共性能力储备，仍需真实场景数据","textChars":25,"textLines":1,"bbox":[43.67,65.16,914.75,101.67]}
+{"kind":"textbox","id":"sh/98rytw72","slide":11,"name":"矩形 5","text":"已具备多模态图片直传、兼容模型调用、流式生成和结果留痕能力，可用于视觉复核与智能体报告。真实违章视频仍不足：先用AI生成样本开展预训练和算法验证，并争取少量真实视频用于微调与独立测试；小人模拟仅验证流程与区域规则。","textPreview":"已具备多模态图片直传、兼容模型调用、流式生成和结果留痕能力，可用于视觉复核与智能体报告。真实违章视频仍不足：先用AI生成样本开展预训练和算法验证，并争取少量真实视频用于微调与独立测试；小人模拟仅验证流程与区域规则。","textChars":107,"textLines":1,"bbox":[50.11,114.63,861.83,199.53]}
+{"kind":"shape","id":"sh/wbih4b6d","slide":11,"name":"Rectangle 140","bbox":[0,0,960,0]}
+{"kind":"textbox","id":"sh/o7ih0r6h","slide":11,"name":"矩形 6","text":"三、实验与价值","textPreview":"三、实验与价值","textChars":7,"textLines":1,"bbox":[33.97,5.46,213.26,48.47]}
+{"kind":"textbox","id":"sh/250zy18b","slide":11,"name":"矩形 4","text":"Agent与检索技术储备","textPreview":"Agent与检索技术储备","textChars":12,"textLines":1,"bbox":[367.2,503.87,253.93,32.2]}
+{"kind":"textbox","id":"sh/72t03qp0","slide":11,"name":"矩形 7","text":"视觉接口储备","textPreview":"视觉接口储备","textChars":6,"textLines":1,"bbox":[94.47,504.53,227.93,32.2]}
+{"kind":"textbox","id":"sh/61kzalof","slide":11,"name":"矩形 8","text":"合成数据＋真实验证","textPreview":"合成数据＋真实验证","textChars":9,"textLines":1,"bbox":[599.71,503.87,339.28,32.2]}
+{"kind":"image","id":"im/sj29szm9","slide":11,"name":"Picture 2","bbox":[729.48,1.97,230.52,73.67]}
+{"kind":"image","id":"im/tkva143e","slide":11,"name":"图片 3","bbox":[79.33,316.2,259,180.53]}
+{"kind":"image","id":"im/ml0re54j","slide":11,"name":"图片 17","bbox":[651.13,316.2,246.4,180.53]}
+{"kind":"image","id":"im/nm98nq54","slide":11,"name":"图片 9","bbox":[424.73,314.13,142,182.6]}
+{"kind":"notes","id":"nt/jetc3ut0","slide":11,"text":"[Sources]\n- 电网安全智能管控项目阶段性进展汇报.pptx（工程形态、实验预检、后续课题储备与8—9月计划）\n- 项目阶段性进展汇报_2026年8月.pptx（统一视觉、总体主线、技术路线与项目证据）"}
+{"kind":"slide","id":"sl/8f2psfyx","slide":12,"title":"当前能力已对应解决三类关键问题","textShapes":3}
+{"kind":"textbox","id":"sh/0f2lgnmp","slide":12,"name":"Text Box 4","text":"当前能力已对应解决三类关键问题","textPreview":"当前能力已对应解决三类关键问题","textChars":15,"textLines":1,"bbox":[56.58,65.9,846.71,48.33]}
+{"kind":"shape","id":"sh/dcbm583y","slide":12,"name":"Rectangle 163","bbox":[0,0,960,0]}
+{"kind":"textbox","id":"sh/b6d4f2lc","slide":12,"name":"矩形 7","text":"三、实验与价值","textPreview":"三、实验与价值","textChars":7,"textLines":1,"bbox":[33.97,5.46,213.26,48.47]}
+{"kind":"textbox","id":"sh/ra943il8","slide":12,"name":"文本框 3","text":"票面结构化｜OCR版面解析 + 固定Schema；输出JSON与原文证据，减少人工录入和复核。\n过程可追溯｜SSE进度 + 分段计时 + 全程落盘；输出耗时与中间结果，支持问题复现。\n信息可关联｜标准化 + 编码匹配 + Neo4j/API；形成票—设备—地点—摄像头查询关系。\n阶段价值｜已形成可演示、可测试原型；正式结论以100票评测和真实场景验证为准。","textPreview":"票面结构化｜OCR版面解析 + 固定Schema；输出JSON与原文证据，减少人工录入和复核。 | 过程可追溯｜SSE进度 + 分段计时 + 全程落盘；输出耗时与中间结果，支持问题复现。 | 信息可关联｜标准化 + 编码匹配 + Neo4j/API；形成票—设备—地点—摄像...","textChars":179,"textLines":4,"bbox":[33.93,118.8,878.73,385.47]}
+{"kind":"image","id":"im/zy1svaho","slide":12,"name":"Picture 2","bbox":[729.48,1.97,230.52,73.67]}
+{"kind":"notes","id":"nt/8f2psfyx","slide":12,"text":"[Sources]\n- PROJECT_GUIDE.md\n- service/unified_pipeline.py\n- service/neo4j_client.py\n- service/api_server.py\n- pipeline_output/test1.json"}
+{"kind":"slide","id":"sl/hgzapcr6","slide":13,"title":"四、下一步计划","textShapes":1}
+{"kind":"shape","id":"sh/21gnuts7","slide":13,"name":"Rectangle 163","bbox":[0,0,960,0]}
+{"kind":"textbox","id":"sh/gzy5s3a1","slide":13,"name":"矩形 7","text":"四、下一步计划","textPreview":"四、下一步计划","textChars":7,"textLines":1,"bbox":[33.97,5.46,213.26,48.47]}
+{"kind":"table","id":"tb/m983m983","slide":13,"name":"表格 3","rows":5,"cols":4,"preview":"时间 | 工作主线 | 重点任务 | 交付 / 验收","bbox":[49.07,88.54,861.73,388.9]}
+{"kind":"image","id":"im/47250fqh","slide":13,"name":"Picture 2","bbox":[729.48,1.97,230.52,73.67]}
+{"kind":"notes","id":"nt/hgzapcr6","slide":13,"text":"[Sources]\n- 电网安全智能管控项目阶段性进展汇报.pptx（工程形态、实验预检、后续课题储备与8—9月计划）\n- 项目阶段性进展汇报_2026年8月.pptx（统一视觉、总体主线、技术路线与项目证据）"}
+{"kind":"slide","id":"sl/6lsnupw7","slide":14,"title":"下一阶段聚焦四项验证与三项协同","textShapes":3}
+{"kind":"textbox","id":"sh/wbydknq1","slide":14,"name":"Text Box 4","text":"下一阶段聚焦四项验证与三项协同","textPreview":"下一阶段聚焦四项验证与三项协同","textChars":15,"textLines":1,"bbox":[56.58,65.9,846.71,48.33]}
+{"kind":"shape","id":"sh/5grehs7i","slide":14,"name":"Rectangle 163","bbox":[0,0,960,0]}
+{"kind":"textbox","id":"sh/zi5c3y98","slide":14,"name":"矩形 7","text":"四、下一步计划","textPreview":"四、下一步计划","textChars":7,"textLines":1,"bbox":[33.97,5.46,213.26,48.47]}
+{"kind":"textbox","id":"sh/jepwf2pc","slide":14,"name":"文本框 3","text":"验证1·批量实验｜100票跑测，交付字段/整票指标与错误清单，结果须可复现。\n验证2·复杂版式｜覆盖跨栏/跨页/低清/术语，固化处理规则与边界样本集。\n验证3·关联闭环｜贯通票→设备→摄像头→视频，单票结果可查询、可回放。\n验证4·应用成果｜完成平台兼容清单与论文材料，接口问题全部闭环。\n三项协同｜数据接口与联调节点；视频脱敏与标注范围；样本、指标及阈值。","textPreview":"验证1·批量实验｜100票跑测，交付字段/整票指标与错误清单，结果须可复现。 | 验证2·复杂版式｜覆盖跨栏/跨页/低清/术语，固化处理规则与边界样本集。 | 验证3·关联闭环｜贯通票→设备→摄像头→视频，单票结果可查询、可回放。 | 验证4·应用成果｜完成平台兼容清单与论...","textChars":179,"textLines":5,"bbox":[33.93,118.8,878.73,385.47]}
+{"kind":"image","id":"im/rapkb2x4","slide":14,"name":"Picture 2","bbox":[729.48,1.97,230.52,73.67]}
+{"kind":"notes","id":"nt/6lsnupw7","slide":14,"text":"[Sources]\n- 电网安全智能管控项目阶段性进展汇报.pptx（后续实验与协同条件）\n- 项目阶段性进展汇报_2026年8月.pptx（8—9月计划与科研成果安排）"}
+{"kind":"slide","id":"sl/vaxsvy10","slide":15,"title":"阶段结论：课题1总体按计划推进","textShapes":1}
+{"kind":"textbox","id":"sh/547mhg3m","slide":15,"name":"矩形 1","text":"阶段结论：课题1总体按计划推进\n下一步：100票批量验证 + 票视频关联闭环\n\n需协调：现场数据、真实视频样本、统一评价口径\n请各位专家批评指正","textPreview":"阶段结论：课题1总体按计划推进 | 下一步：100票批量验证 + 票视频关联闭环 |  | 需协调：现场数据、真实视频样本、统一评价口径 | 请各位专家批评指正","textChars":72,"textLines":5,"bbox":[64.21,164.16,846.71,303.2]}
+{"kind":"image","id":"im/5wnu1c7i","slide":15,"name":"Picture 2","bbox":[729.48,1.97,230.52,73.67]}
+{"kind":"notes","id":"nt/vaxsvy10","slide":15,"text":"[Sources]\n- 电网安全智能管控项目阶段性进展汇报.pptx（工程形态、实验预检、后续课题储备与8—9月计划）\n- 项目阶段性进展汇报_2026年8月.pptx（统一视觉、总体主线、技术路线与项目证据）"}

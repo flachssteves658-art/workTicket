@@ -1,0 +1,232 @@
+{"kind":"deck","id":"pr/qxlnbt","name":"Deck"}
+{"kind":"layout","layoutId":"/ppt/slideMasters/slideMaster1.xml","name":"","type":"master","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式 | 第二级 | 第三级 | 第四级 | 第五级"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout1.xml","name":"1_标题幻灯片","placeholders":[{"name":"body","type":"body"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout2.xml","name":"2_标题幻灯片","placeholders":[{"name":"body","type":"body"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout3.xml","name":"自定义版式","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout4.xml","name":"标题幻灯片","type":"title","placeholders":[{"name":"title","type":"title","textPreview":"单击此处添加标题"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"},{"name":"subtitle","type":"subtitle","textPreview":"单击此处添加副标题"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout5.xml","name":"标题和内容","type":"obj","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"2","textPreview":"单击此处编辑母版文本样式 | 第二级 | 第三级 | 第四级 | 第五级"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout6.xml","name":"节标题","type":"secHead","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout7.xml","name":"两栏内容","type":"twoObj","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"2","textPreview":"单击此处编辑母版文本样式 | 第二级 | 第三级 | 第四级 | 第五级"},{"name":"3","textPreview":"单击此处编辑母版文本样式 | 第二级 | 第三级 | 第四级 | 第五级"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout8.xml","name":"比较","type":"twoTxTwoObj","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式"},{"name":"3","textPreview":"单击此处编辑母版文本样式 | 第二级 | 第三级 | 第四级 | 第五级"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式"},{"name":"5","textPreview":"单击此处编辑母版文本样式 | 第二级 | 第三级 | 第四级 | 第五级"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout9.xml","name":"仅标题","type":"titleOnly","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout10.xml","name":"空白","type":"blank","placeholders":[{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout11.xml","name":"图片与标题","type":"picTx","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑标题"},{"name":"picture","type":"picture"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout12.xml","name":"竖排标题与文本","type":"vertTitleAndTx","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式 | 第二级 | 第三级 | 第四级 | 第五级"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout13.xml","name":"内容","placeholders":[{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"},{"name":"6","textPreview":"单击此处编辑母版文本样式 | 第二级 | 第三级 | 第四级 | 第五级"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout14.xml","name":"1_自定义版式","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"slide","id":"sl/rx83sk","slide":1,"title":"华东分部生技部、武汉南瑞","textShapes":2}
+{"kind":"textbox","id":"sh/ba10bulo","slide":1,"name":"文本占位符 2","text":"华东分部生技部、武汉南瑞\n2026年8月","textPreview":"华东分部生技部、武汉南瑞 | 2026年8月","textChars":20,"textLines":2,"bbox":[0,308.88,957.02,228.85]}
+{"kind":"textbox","id":"sh/lcj6xof2","slide":1,"name":"TextBox 6","text":"2026年国网华东分部基于多模态数据分析的电网安全智能管控关键技术研究\n\n项目阶段性进展汇报","textPreview":"2026年国网华东分部基于多模态数据分析的电网安全智能管控关键技术研究 |  | 项目阶段性进展汇报","textChars":46,"textLines":3,"bbox":[1.49,131.16,957.02,216.4]}
+{"kind":"image","id":"im/fa1ova1g","slide":1,"name":"图片 1","bbox":[0.69,103.68,956.97,264.6]}
+{"kind":"image","id":"im/gbap4f21","slide":1,"name":"Picture 2","bbox":[729.48,1.97,230.52,73.67]}
+{"kind":"notes","id":"nt/rx83sk","slide":1,"text":"[Sources]\n- 用户提供：电网安全智能管控项目阶段性进展汇报_整合版.pptx，模板及阶段成果材料。"}
+{"kind":"slide","id":"sl/yoqfl1","slide":2,"title":"CONTENTS","textShapes":20}
+{"kind":"shape","id":"sh/2xwf6x0z","slide":2,"name":"矩形 8","bbox":[28.93,73.44,228.32,455.05]}
+{"kind":"textbox","id":"sh/4b6ps3qh","slide":2,"name":"文本框 13","text":"CONTENTS","textPreview":"CONTENTS","textChars":8,"textLines":1,"bbox":[28.93,224.69,229.21,48.31]}
+{"kind":"textbox","id":"sh/pcfq18r2","slide":2,"name":"文本框 14","text":"目 录","textPreview":"目 录","textChars":3,"textLines":1,"bbox":[58.53,266.98,98.73,48.31]}
+{"kind":"shape","id":"sh/o7a947ql","slide":2,"name":"矩形 17","bbox":[76.19,328.59,35.27,3.6]}
+{"kind":"textbox","id":"sh/bi5szmx4","slide":2,"name":"文本框 47","text":"CONTENTS","textPreview":"CONTENTS","textChars":8,"textLines":1,"bbox":[28.93,224.81,229.21,48.31]}
+{"kind":"shape","id":"sh/xofqxsza","slide":2,"name":"矩形 19","bbox":[918.03,103.16,7.63,195.17]}
+{"kind":"shape","id":"sh/4nyd8fud","slide":2,"name":"矩形 35","bbox":[918.03,293.86,7.63,195.17]}
+{"kind":"textbox","id":"sh/cfqpwnqt","slide":2,"name":"矩形 32","text":"一","textPreview":"一","textChars":1,"textLines":1,"bbox":[350.43,176.81,50.39,62.1]}
+{"kind":"textbox","id":"sh/dgzq58ry","slide":2,"name":"矩形 13","text":"问题与难点","textPreview":"问题与难点","textChars":5,"textLines":1,"bbox":[433.59,176.28,383.76,62.82]}
+{"kind":"textbox","id":"sh/qdo7ud8n","slide":2,"name":"矩形 32","text":"三","textPreview":"三","textChars":1,"textLines":1,"bbox":[350.43,355.83,50.39,62.82]}
+{"kind":"textbox","id":"sh/rex83i98","slide":2,"name":"矩形 13","text":"联动与预警闭环","textPreview":"联动与预警闭环","textChars":7,"textLines":1,"bbox":[433.59,355.63,383.76,62.82]}
+{"kind":"textbox","id":"sh/a1gfax0b","slide":2,"name":"矩形 32","text":"二","textPreview":"二","textChars":1,"textLines":1,"bbox":[350.43,266.09,50.44,57.84]}
+{"kind":"textbox","id":"sh/x47ylczm","slide":2,"name":"矩形 13","text":"核心技术方案","textPreview":"核心技术方案","textChars":6,"textLines":1,"bbox":[432.15,265.96,383.76,62.82]}
+{"kind":"textbox","id":"sh/nyd8rih8","slide":2,"name":"矩形 13","text":"联动与预警闭环","textPreview":"联动与预警闭环","textChars":7,"textLines":1,"bbox":[433.65,355.7,383.76,62.82]}
+{"kind":"textbox","id":"sh/lwvqp8zi","slide":2,"name":"矩形 13","text":"核心技术方案","textPreview":"核心技术方案","textChars":6,"textLines":1,"bbox":[433.59,265.89,383.76,62.82]}
+{"kind":"textbox","id":"sh/k7ihgryd","slide":2,"name":"矩形 13","text":"问题与难点","textPreview":"问题与难点","textChars":5,"textLines":1,"bbox":[433.27,179.91,383.76,62.82]}
+{"kind":"textbox","id":"sh/b2pgj2hw","slide":2,"name":"矩形 13","text":"联动与预警闭环","textPreview":"联动与预警闭环","textChars":7,"textLines":1,"bbox":[435.15,355.76,383.76,62.82]}
+{"kind":"textbox","id":"sh/crixcfu9","slide":2,"name":"矩形 13","text":"核心技术方案","textPreview":"核心技术方案","textChars":6,"textLines":1,"bbox":[435.09,265.96,383.76,62.82]}
+{"kind":"textbox","id":"sh/21gv65c7","slide":2,"name":"矩形 32","text":"三","textPreview":"三","textChars":1,"textLines":1,"bbox":[350.43,355.76,50.39,62.82]}
+{"kind":"textbox","id":"sh/fypwvadw","slide":2,"name":"矩形 32","text":"三","textPreview":"三","textChars":1,"textLines":1,"bbox":[348.48,355.04,50.39,62.82]}
+{"kind":"textbox","id":"sh/8bit0byx","slide":2,"name":"矩形 32","text":"二","textPreview":"二","textChars":1,"textLines":1,"bbox":[351.87,268.39,50.44,57.84]}
+{"kind":"textbox","id":"sh/zmps3mxg","slide":2,"name":"矩形 32","text":"一","textPreview":"一","textChars":1,"textLines":1,"bbox":[351.93,179.91,50.39,62.1]}
+{"kind":"textbox","id":"sh/ylgru1gv","slide":2,"name":"矩形 32","text":"三","textPreview":"三","textChars":1,"textLines":1,"bbox":[352.43,357.54,50.39,62.82]}
+{"kind":"textbox","id":"sh/8zmpknit","slide":2,"name":"矩形 13","text":"问题与难点","textPreview":"问题与难点","textChars":5,"textLines":1,"bbox":[433.65,179.13,383.76,62.82]}
+{"kind":"image","id":"im/98nyto76","slide":2,"name":"Picture 2","bbox":[729.48,1.97,230.52,73.67]}
+{"kind":"notes","id":"nt/yoqfl1","slide":2,"text":"[Sources]\n- 用户提供：电网安全智能管控项目阶段性进展汇报_整合版.pptx，模板及阶段成果材料。"}
+{"kind":"slide","id":"sl/uuvqx7","slide":3,"title":"现有管控方式存在五个关键断点","textShapes":3}
+{"kind":"textbox","id":"sh/2p87yt8f","slide":3,"name":"Text Box 4","text":"现有管控方式存在五个关键断点","textPreview":"现有管控方式存在五个关键断点","textChars":14,"textLines":1,"bbox":[56.58,65.9,846.71,52.8]}
+{"kind":"shape","id":"sh/fmhonypo","slide":3,"name":"Rectangle 163","bbox":[0,0,960,0]}
+{"kind":"textbox","id":"sh/lk3q1s7y","slide":3,"name":"矩形 7","text":"一、问题与难点","textPreview":"一、问题与难点","textChars":7,"textLines":1,"bbox":[33.97,5.46,213.26,48.47]}
+{"kind":"textbox","id":"sh/1oz6po7u","slide":3,"name":"文本框 3","text":"1. 数据分散｜工作票、设备台账与视频平台尚未统一关联。\n2. 视频量大｜人工无法全时段、全摄像头覆盖，短时违章容易漏看。\n3. 票面复杂｜扫描质量、表格、印章和专业术语影响关键字段提取。\n4. 视觉易误报｜遮挡、逆光、小目标和多人交叉使单帧判断不稳定。\n5. 结果难闭环｜缺少工作票、证据、责任人与处置状态的完整关联。","textPreview":"1. 数据分散｜工作票、设备台账与视频平台尚未统一关联。 | 2. 视频量大｜人工无法全时段、全摄像头覆盖，短时违章容易漏看。 | 3. 票面复杂｜扫描质量、表格、印章和专业术语影响关键字段提取。 | 4. 视觉易误报｜遮挡、逆光、小目标和多人交叉使单帧判断不稳定。 | 5...","textChars":160,"textLines":5,"bbox":[33.93,118.8,878.73,203.73]}
+{"kind":"image","id":"im/1cra9gfq","slide":3,"name":"Picture 2","bbox":[729.48,1.97,230.52,73.67]}
+{"kind":"notes","id":"nt/uuvqx7","slide":3,"text":"[Sources]\n- 用户提供：电网安全智能管控项目阶段性进展汇报_整合版.pptx，模板及阶段成果材料。\n- 用户提供：【开题审查】2026年国网华东分部基于多模态数据分析的电网安全智能管控关键技术研究.pptx，研究任务、技术路线和智能体方案。"}
+{"kind":"slide","id":"sl/8070zg","slide":4,"title":"以工作票为主线，串起感知、识别与处置","textShapes":3}
+{"kind":"textbox","id":"sh/gbuhcbu1","slide":4,"name":"Text Box 4","text":"以工作票为主线，串起感知、识别与处置","textPreview":"以工作票为主线，串起感知、识别与处置","textChars":18,"textLines":1,"bbox":[56.58,65.9,846.71,52.8]}
+{"kind":"shape","id":"sh/pg3ipgvy","slide":4,"name":"Rectangle 163","bbox":[0,0,960,0]}
+{"kind":"textbox","id":"sh/jihgbmdo","slide":4,"name":"矩形 7","text":"一、问题与难点","textPreview":"一、问题与难点","textChars":7,"textLines":1,"bbox":[33.97,5.46,213.26,48.47]}
+{"kind":"textbox","id":"sh/3el0n6ds","slide":4,"name":"文本框 3","text":"工作票接入 → OCR与版面解析 → 字段结构化 → 地点/设备标准化 → 关联摄像头与预置位 → 按实际作业时间取视频 → 违章识别 → 多模态研判 → 分级预警 → 处置与学习。\n\n核心转变：由“人去找视频、看视频”，转为“工作票自动找到相关视频，系统只推送高风险片段与证据”。","textPreview":"工作票接入 → OCR与版面解析 → 字段结构化 → 地点/设备标准化 → 关联摄像头与预置位 → 按实际作业时间取视频 → 违章识别 → 多模态研判 → 分级预警 → 处置与学习。 |  | 核心转变：由“人去找视频、看视频”，转为“工作票自动找到相关视频，系统只推送高风...","textChars":141,"textLines":3,"bbox":[33.93,118.8,878.73,203.73]}
+{"kind":"image","id":"im/bm9sri58","slide":4,"name":"Picture 2","bbox":[729.48,1.97,230.52,73.67]}
+{"kind":"notes","id":"nt/8070zg","slide":4,"text":"[Sources]\n- 用户提供：电网安全智能管控项目阶段性进展汇报_整合版.pptx，模板及阶段成果材料。\n- 用户提供：【开题审查】2026年国网华东分部基于多模态数据分析的电网安全智能管控关键技术研究.pptx，研究任务、技术路线和智能体方案。"}
+{"kind":"slide","id":"sl/amn2fy","slide":5,"title":"违章视频通过六步形成可核查事件","textShapes":6}
+{"kind":"textbox","id":"sh/7qpgruts","slide":5,"name":"Text Box 4","text":"违章视频通过六步形成可核查事件","textPreview":"违章视频通过六步形成可核查事件","textChars":15,"textLines":1,"bbox":[43.67,65.16,914.75,101.67]}
+{"kind":"textbox","id":"sh/cjy9k3yl","slide":5,"name":"矩形 5","text":"1. 视频接入｜接入实时流，或按摄像头编号与时间调取历史录像。\n2. 视频预处理｜抽帧、切片、低照度增强，并设置重点作业区域。\n3. 检测与跟踪｜识别人员、防护用品、手机、烟火等目标，保持跨帧身份。\n4. 行为判定｜融合动作、区域关系与持续时间，过滤单帧偶然误判。\n5. 多模态复核｜与工作票允许的时间、地点、人员和措施进行比对。\n6. 证据生成｜输出关键帧、前后视频、置信度、依据及关联工作票。","textPreview":"1. 视频接入｜接入实时流，或按摄像头编号与时间调取历史录像。 | 2. 视频预处理｜抽帧、切片、低照度增强，并设置重点作业区域。 | 3. 检测与跟踪｜识别人员、防护用品、手机、烟火等目标，保持跨帧身份。 | 4. 行为判定｜融合动作、区域关系与持续时间，过滤单帧偶然误判...","textChars":198,"textLines":6,"bbox":[50.11,114.63,861.83,199.53]}
+{"kind":"shape","id":"sh/pgnapozu","slide":5,"name":"Rectangle 140","bbox":[0,0,960,0]}
+{"kind":"textbox","id":"sh/dk7at8z6","slide":5,"name":"矩形 6","text":"二、核心技术方案","textPreview":"二、核心技术方案","textChars":8,"textLines":1,"bbox":[33.97,5.46,213.26,48.47]}
+{"kind":"textbox","id":"sh/ripsryh0","slide":5,"name":"矩形 4","text":"视觉检测与跟踪","textPreview":"视觉检测与跟踪","textChars":7,"textLines":1,"bbox":[367.2,503.87,253.93,32.2]}
+{"kind":"textbox","id":"sh/elgrmtgb","slide":5,"name":"矩形 7","text":"时空语义复核","textPreview":"时空语义复核","textChars":6,"textLines":1,"bbox":[94.47,504.53,227.93,32.2]}
+{"kind":"textbox","id":"sh/zmpsvyhw","slide":5,"name":"矩形 8","text":"告警证据与解释","textPreview":"告警证据与解释","textChars":7,"textLines":1,"bbox":[599.71,503.87,339.28,32.2]}
+{"kind":"image","id":"im/7m1s3apg","slide":5,"name":"Picture 2","bbox":[729.48,1.97,230.52,73.67]}
+{"kind":"image","id":"im/ml8bu58v","slide":5,"name":"图片 3","bbox":[79.33,316.2,259,180.53]}
+{"kind":"image","id":"im/lkza1k7a","slide":5,"name":"图片 17","bbox":[651.13,316.2,246.4,180.53]}
+{"kind":"image","id":"im/kzqtsfqp","slide":5,"name":"图片 9","bbox":[374.13,315.4,234.67,182.6]}
+{"kind":"notes","id":"nt/amn2fy","slide":5,"text":"[Sources]\n- 用户提供：电网安全智能管控项目阶段性进展汇报_整合版.pptx，模板及阶段成果材料。\n- 用户提供：【开题审查】2026年国网华东分部基于多模态数据分析的电网安全智能管控关键技术研究.pptx，研究任务、技术路线和智能体方案。"}
+{"kind":"slide","id":"sl/x3o0yv","slide":6,"title":"视频识别难点集中在画面、动作和样本","textShapes":3}
+{"kind":"textbox","id":"sh/f6dgbyd4","slide":6,"name":"Text Box 4","text":"视频识别难点集中在画面、动作和样本","textPreview":"视频识别难点集中在画面、动作和样本","textChars":17,"textLines":1,"bbox":[56.58,65.9,846.71,52.8]}
+{"kind":"shape","id":"sh/q14ze9cn","slide":6,"name":"Rectangle 163","bbox":[0,0,960,0]}
+{"kind":"textbox","id":"sh/4f2xcjuh","slide":6,"name":"矩形 7","text":"二、核心技术方案","textPreview":"二、核心技术方案","textChars":8,"textLines":1,"bbox":[33.97,5.46,213.26,48.47]}
+{"kind":"textbox","id":"sh/s3mh0jud","slide":6,"name":"文本框 3","text":"1. 小目标与遮挡｜采用高分辨率切片、小目标增强、目标跟踪与多帧投票。\n2. 光照与环境变化｜扩充真实难例，结合画面增强、分场景阈值和质量检测。\n3. 动作具有时序性｜融合人体关键点、目标关系、轨迹与持续时间。\n4. 重复报警｜通过人员轨迹ID、事件合并窗口和告警冷却时间去重。\n5. 样本少且不均衡｜建立脱敏、标注、复核、训练、回归测试与难例回流流程。","textPreview":"1. 小目标与遮挡｜采用高分辨率切片、小目标增强、目标跟踪与多帧投票。 | 2. 光照与环境变化｜扩充真实难例，结合画面增强、分场景阈值和质量检测。 | 3. 动作具有时序性｜融合人体关键点、目标关系、轨迹与持续时间。 | 4. 重复报警｜通过人员轨迹ID、事件合并窗口和告...","textChars":177,"textLines":5,"bbox":[33.93,118.8,878.73,203.73]}
+{"kind":"image","id":"im/o72pgjql","slide":6,"name":"Picture 2","bbox":[729.48,1.97,230.52,73.67]}
+{"kind":"notes","id":"nt/x3o0yv","slide":6,"text":"[Sources]\n- 用户提供：电网安全智能管控项目阶段性进展汇报_整合版.pptx，模板及阶段成果材料。\n- 用户提供：【开题审查】2026年国网华东分部基于多模态数据分析的电网安全智能管控关键技术研究.pptx，研究任务、技术路线和智能体方案。"}
+{"kind":"slide","id":"sl/f8ez1v","slide":7,"title":"当期聚焦六类可视化违章，逐步扩展复杂风险","textShapes":3}
+{"kind":"textbox","id":"sh/qdgbad07","slide":7,"name":"Text Box 4","text":"当期聚焦六类可视化违章，逐步扩展复杂风险","textPreview":"当期聚焦六类可视化违章，逐步扩展复杂风险","textChars":20,"textLines":1,"bbox":[56.58,65.9,846.71,52.8]}
+{"kind":"shape","id":"sh/3q5sfi1w","slide":7,"name":"Rectangle 163","bbox":[0,0,960,0]}
+{"kind":"textbox","id":"sh/98rutcj6","slide":7,"name":"矩形 7","text":"二、核心技术方案","textPreview":"二、核心技术方案","textChars":8,"textLines":1,"bbox":[33.97,5.46,213.26,48.47]}
+{"kind":"textbox","id":"sh/psnah8jm","slide":7,"name":"文本框 3","text":"当期核心能力（以项目实测标签为准）\n• 未佩戴或未规范佩戴安全帽；\n• 未穿规定工作服/反光防护服【待确认】；\n• 高处作业未规范使用安全带【待确认】；\n• 作业现场吸烟；\n• 作业过程中使用手机或接打电话；\n• 进入禁区、越过电子围栏或超出允许区域。\n\n后续扩展：人员倒地、明火烟雾、攀爬翻越、无监护作业、人数不匹配及危险距离不足。","textPreview":"当期核心能力（以项目实测标签为准） | • 未佩戴或未规范佩戴安全帽； | • 未穿规定工作服/反光防护服【待确认】； | • 高处作业未规范使用安全带【待确认】； | • 作业现场吸烟； | • 作业过程中使用手机或接打电话； | • 进入禁区、越过电子围栏或超出允许区域...","textChars":167,"textLines":9,"bbox":[33.93,118.8,878.73,318.43]}
+{"kind":"image","id":"im/1wr6lcru","slide":7,"name":"Picture 2","bbox":[729.48,1.97,230.52,73.67]}
+{"kind":"notes","id":"nt/f8ez1v","slide":7,"text":"[Sources]\n- 用户提供：电网安全智能管控项目阶段性进展汇报_整合版.pptx，模板及阶段成果材料。\n- 用户提供：【开题审查】2026年国网华东分部基于多模态数据分析的电网安全智能管控关键技术研究.pptx，研究任务、技术路线和智能体方案。"}
+{"kind":"slide","id":"sl/e9uy9u","slide":8,"title":"四层校验避免把“看见目标”直接等同于违章","textShapes":3}
+{"kind":"textbox","id":"sh/ylo3udkj","slide":8,"name":"Text Box 4","text":"四层校验避免把“看见目标”直接等同于违章","textPreview":"四层校验避免把“看见目标”直接等同于违章","textChars":20,"textLines":1,"bbox":[56.58,65.9,846.71,52.8]}
+{"kind":"shape","id":"sh/nqh47il0","slide":8,"name":"Rectangle 163","bbox":[0,0,960,0]}
+{"kind":"textbox","id":"sh/xwzmds32","slide":8,"name":"矩形 7","text":"二、核心技术方案","textPreview":"二、核心技术方案","textChars":8,"textLines":1,"bbox":[33.97,5.46,213.26,48.47]}
+{"kind":"textbox","id":"sh/9szm9s36","slide":8,"name":"文本框 3","text":"1. 视觉置信度｜检测分数、目标尺寸和画面质量达到门槛。\n2. 时序连续性｜连续多帧或持续一定时长，过滤瞬时遮挡和抖动。\n3. 空间关系｜人员、设备、危险区域、围栏与预置位建立空间关系。\n4. 业务语义｜结合工作票时间、地点、人员、作业内容和安全措施二次判断。\n\n高风险高置信度立即预警；中等置信度人工复核；低置信度留存用于模型优化。","textPreview":"1. 视觉置信度｜检测分数、目标尺寸和画面质量达到门槛。 | 2. 时序连续性｜连续多帧或持续一定时长，过滤瞬时遮挡和抖动。 | 3. 空间关系｜人员、设备、危险区域、围栏与预置位建立空间关系。 | 4. 业务语义｜结合工作票时间、地点、人员、作业内容和安全措施二次判断。 ...","textChars":167,"textLines":6,"bbox":[33.93,118.8,878.73,215.49]}
+{"kind":"image","id":"im/pknu1gne","slide":8,"name":"Picture 2","bbox":[729.48,1.97,230.52,73.67]}
+{"kind":"notes","id":"nt/e9uy9u","slide":8,"text":"[Sources]\n- 用户提供：电网安全智能管控项目阶段性进展汇报_整合版.pptx，模板及阶段成果材料。\n- 用户提供：【开题审查】2026年国网华东分部基于多模态数据分析的电网安全智能管控关键技术研究.pptx，研究任务、技术路线和智能体方案。"}
+{"kind":"slide","id":"sl/4vkprt","slide":9,"title":"工作票从图片转为可驱动业务的结构化数据","textShapes":6}
+{"kind":"textbox","id":"sh/v2ps36lo","slide":9,"name":"Text Box 4","text":"工作票从图片转为可驱动业务的结构化数据","textPreview":"工作票从图片转为可驱动业务的结构化数据","textChars":19,"textLines":1,"bbox":[43.67,65.16,914.75,101.67]}
+{"kind":"textbox","id":"sh/ozy58fel","slide":9,"name":"矩形 5","text":"扫描件/PDF → 图像方向与清晰度处理 → PPStructureV3 / PaddleOCR文字与表格识别 → 版面关系恢复 → 关键字段抽取 → 电力专业词典与设备台账校验 → JSON结构化输出。\n\n重点字段：工作票编号、负责人、班组成员、工作内容、站点/线路、工作地点、设备名称及编号、计划与实际时间、安全措施、危险点和许可状态。","textPreview":"扫描件/PDF → 图像方向与清晰度处理 → PPStructureV3 / PaddleOCR文字与表格识别 → 版面关系恢复 → 关键字段抽取 → 电力专业词典与设备台账校验 → JSON结构化输出。 |  | 重点字段：工作票编号、负责人、班组成员、工作内容、站点/线...","textChars":170,"textLines":3,"bbox":[50.11,114.63,861.83,199.53]}
+{"kind":"shape","id":"sh/xor65kfi","slide":9,"name":"Rectangle 140","bbox":[0,0,960,0]}
+{"kind":"textbox","id":"sh/p0761kf6","slide":9,"name":"矩形 6","text":"二、核心技术方案","textPreview":"二、核心技术方案","textChars":8,"textLines":1,"bbox":[33.97,5.46,213.26,48.47]}
+{"kind":"textbox","id":"sh/nypozax0","slide":9,"name":"矩形 4","text":"原始工作票样本","textPreview":"原始工作票样本","textChars":7,"textLines":1,"bbox":[291,504.4,253.93,32.2]}
+{"kind":"textbox","id":"sh/etwn25gj","slide":9,"name":"矩形 7","text":"OCR与表格识别结果","textPreview":"OCR与表格识别结果","textChars":10,"textLines":1,"bbox":[41.53,504.4,227.93,32.2]}
+{"kind":"textbox","id":"sh/y5c72xkv","slide":9,"name":"文本框 14","text":"结构化JSON / Markdown","textPreview":"结构化JSON / Markdown","textChars":18,"textLines":1,"bbox":[699.2,496.73,290.4,34]}
+{"kind":"image","id":"im/zexwf69s","slide":9,"name":"Picture 2","bbox":[729.48,1.97,230.52,73.67]}
+{"kind":"image","id":"im/ydof61sn","slide":9,"name":"图片 1","bbox":[71.73,240.73,184.07,256]}
+{"kind":"image","id":"im/9kzel0ra","slide":9,"name":"图片 9","bbox":[623.6,315.4,310.87,136.27]}
+{"kind":"image","id":"im/8jqxcvqp","slide":9,"name":"图片 15","bbox":[291,282.33,320.33,202.4]}
+{"kind":"notes","id":"nt/4vkprt","slide":9,"text":"[Sources]\n- 用户提供：电网安全智能管控项目阶段性进展汇报_整合版.pptx，模板及阶段成果材料。"}
+{"kind":"slide","id":"sl/c45dyl","slide":10,"title":"工作票识别兼顾中文适配、数据安全与工程可用","textShapes":3}
+{"kind":"textbox","id":"sh/1w725kfu","slide":10,"name":"Text Box 4","text":"工作票识别兼顾中文适配、数据安全与工程可用","textPreview":"工作票识别兼顾中文适配、数据安全与工程可用","textChars":21,"textLines":1,"bbox":[56.58,65.9,846.71,52.8]}
+{"kind":"shape","id":"sh/s7e18fyd","slide":10,"name":"Rectangle 163","bbox":[0,0,960,0]}
+{"kind":"textbox","id":"sh/i1cj2lgb","slide":10,"name":"矩形 7","text":"二、核心技术方案","textPreview":"二、核心技术方案","textChars":8,"textLines":1,"bbox":[33.97,5.46,213.26,48.47]}
+{"kind":"textbox","id":"sh/q5wj65g7","slide":10,"name":"文本框 3","text":"中文与复杂票面｜适配中文、数字、字母、表格及常见复杂背景。\n本地化部署｜可在内网完成识别，减少敏感生产数据外传风险。\n结构化输出｜不仅返回全文，还输出地点、设备、时间、人员和措施字段。\n可解释可追溯｜保留原文、位置、置信度和校验结果，便于复核。\n持续优化｜通过电力词典、设备台账、票种模板和专项样本提升效果。\n人机协同｜规则和台账负责纠错，低置信度关键字段转人工确认。","textPreview":"中文与复杂票面｜适配中文、数字、字母、表格及常见复杂背景。 | 本地化部署｜可在内网完成识别，减少敏感生产数据外传风险。 | 结构化输出｜不仅返回全文，还输出地点、设备、时间、人员和措施字段。 | 可解释可追溯｜保留原文、位置、置信度和校验结果，便于复核。 | 持续优化｜通...","textChars":184,"textLines":6,"bbox":[33.93,118.8,878.73,348.33]}
+{"kind":"image","id":"im/a5c3y1k3","slide":10,"name":"Picture 2","bbox":[729.48,1.97,230.52,73.67]}
+{"kind":"notes","id":"nt/c45dyl","slide":10,"text":"[Sources]\n- 用户提供：电网安全智能管控项目阶段性进展汇报_整合版.pptx，模板及阶段成果材料。"}
+{"kind":"slide","id":"sl/lxf10l","slide":11,"title":"时间与地点是工作票识别的关键控制点","textShapes":3}
+{"kind":"textbox","id":"sh/n6hsn6xg","slide":11,"name":"Text Box 4","text":"时间与地点是工作票识别的关键控制点","textPreview":"时间与地点是工作票识别的关键控制点","textChars":17,"textLines":1,"bbox":[56.58,65.9,846.71,52.8]}
+{"kind":"shape","id":"sh/e1obqhgz","slide":11,"name":"Rectangle 163","bbox":[0,0,960,0]}
+{"kind":"textbox","id":"sh/kzat4vy9","slide":11,"name":"矩形 7","text":"二、核心技术方案","textPreview":"二、核心技术方案","textChars":8,"textLines":1,"bbox":[33.97,5.46,213.26,48.47]}
+{"kind":"textbox","id":"sh/036tsry5","slide":11,"name":"文本框 3","text":"1. 票面质量不稳定｜自动方向、清晰度检测、旋转矫正与图像增强。\n2. 模板多、表格复杂｜版面/表格解析与模板配置结合，字段名和空间位置共同定位。\n3. 专业词易混淆｜通过站点、设备台账和上下文联合校验，多候选时转人工。\n4. 时间与地点必须可靠｜设置字段置信度、格式逻辑和设备存在性校验；不确定则阻断自动联动。\n5. 手写、签名和印章｜与核心印刷字段分区处理，手写内容使用专模或人工确认。","textPreview":"1. 票面质量不稳定｜自动方向、清晰度检测、旋转矫正与图像增强。 | 2. 模板多、表格复杂｜版面/表格解析与模板配置结合，字段名和空间位置共同定位。 | 3. 专业词易混淆｜通过站点、设备台账和上下文联合校验，多候选时转人工。 | 4. 时间与地点必须可靠｜设置字段置信度...","textChars":195,"textLines":5,"bbox":[33.93,118.8,878.73,236.47]}
+{"kind":"image","id":"im/wfahg32t","slide":11,"name":"Picture 2","bbox":[729.48,1.97,230.52,73.67]}
+{"kind":"notes","id":"nt/lxf10l","slide":11,"text":"[Sources]\n- 用户提供：电网安全智能管控项目阶段性进展汇报_整合版.pptx，模板及阶段成果材料。"}
+{"kind":"slide","id":"sl/5qwaba","slide":12,"title":"设备编码把工作票与摄像头准确连起来","textShapes":6}
+{"kind":"textbox","id":"sh/7i9c761c","slide":12,"name":"Text Box 4","text":"设备编码把工作票与摄像头准确连起来","textPreview":"设备编码把工作票与摄像头准确连起来","textChars":17,"textLines":1,"bbox":[43.67,65.16,914.75,52.8]}
+{"kind":"textbox","id":"sh/c7y9gr2p","slide":12,"name":"矩形 5","text":"第一步｜将站点、电压等级、间隔、设备名称和编号标准化为唯一设备编码。\n第二步｜建立设备台账、摄像头台账，以及设备/区域—摄像头—预置位关联表。\n第三步｜先按设备编码精确匹配，再按站点、间隔和地点模糊匹配；不能唯一确定时转人工。\n第四步｜联动前检查在线状态、画面质量、时钟和遮挡，优先选择最佳视角，必要时多路交叉验证。","textPreview":"第一步｜将站点、电压等级、间隔、设备名称和编号标准化为唯一设备编码。 | 第二步｜建立设备台账、摄像头台账，以及设备/区域—摄像头—预置位关联表。 | 第三步｜先按设备编码精确匹配，再按站点、间隔和地点模糊匹配；不能唯一确定时转人工。 | 第四步｜联动前检查在线状态、画面质...","textChars":158,"textLines":4,"bbox":[50.11,103.68,861.83,244.67]}
+{"kind":"shape","id":"sh/lw7atw3m","slide":12,"name":"Rectangle 140","bbox":[0,0,960,0]}
+{"kind":"textbox","id":"sh/xs7apc3a","slide":12,"name":"矩形 6","text":"三、联动与预警闭环","textPreview":"三、联动与预警闭环","textChars":9,"textLines":1,"bbox":[33.97,5.46,213.26,48.47]}
+{"kind":"textbox","id":"sh/bm5sf2ho","slide":12,"name":"矩形 13","text":"设备与地点标准化","textPreview":"设备与地点标准化","textChars":8,"textLines":1,"bbox":[23,504.41,339.28,32.2]}
+{"kind":"textbox","id":"sh/alwb6x0j","slide":12,"name":"矩形 14","text":"工作票—摄像头映射","textPreview":"工作票—摄像头映射","textChars":9,"textLines":1,"bbox":[336.33,504.4,297.87,32.2]}
+{"kind":"textbox","id":"sh/cnet87i9","slide":12,"name":"矩形 16","text":"关联、检索与复核","textPreview":"关联、检索与复核","textChars":8,"textLines":1,"bbox":[616.04,501.07,339.28,32.2]}
+{"kind":"image","id":"im/vqlkzmd0","slide":12,"name":"Picture 2","bbox":[729.48,1.97,230.52,73.67]}
+{"kind":"image","id":"im/upcjqhwv","slide":12,"name":"picture 112","bbox":[61.07,321.87,250.13,179.2]}
+{"kind":"image","id":"im/9o32xcva","slide":12,"name":"图片 7","bbox":[366.6,322.13,232.27,179]}
+{"kind":"image","id":"im/8nu1o7ep","slide":12,"name":"图片 8","bbox":[653.87,321.87,234.8,179.13]}
+{"kind":"notes","id":"nt/5qwaba","slide":12,"text":"[Sources]\n- 用户提供：电网安全智能管控项目阶段性进展汇报_整合版.pptx，模板及阶段成果材料。"}
+{"kind":"slide","id":"sl/3ihcdm","slide":13,"title":"以实际许可时间驱动视频任务，而不是只看计划时间","textShapes":3}
+{"kind":"textbox","id":"sh/21wfmlsf","slide":13,"name":"Text Box 4","text":"以实际许可时间驱动视频任务，而不是只看计划时间","textPreview":"以实际许可时间驱动视频任务，而不是只看计划时间","textChars":23,"textLines":1,"bbox":[56.58,65.9,846.71,52.8]}
+{"kind":"shape","id":"sh/r65gjatc","slide":13,"name":"Rectangle 163","bbox":[0,0,960,0]}
+{"kind":"textbox","id":"sh/tw3e9gby","slide":13,"name":"矩形 7","text":"三、联动与预警闭环","textPreview":"三、联动与预警闭环","textChars":9,"textLines":1,"bbox":[33.97,5.46,213.26,48.47]}
+{"kind":"textbox","id":"sh/ds7ylkb2","slide":13,"name":"文本框 3","text":"作业前｜解析工作票、检查摄像头在线与视角，计划开始前5—10分钟预热。\n作业中｜按实际许可开始时间接入实时流，按短片段流式分析，高风险事件即时预警。\n作业后｜按实际终结时间停止分析；实时链路中断时，按票面时间范围补调历史录像离线补检。\n\n处理策略：无人员/无运动片段快速过滤；同一人员、地点和违章类型自动合并；保存事件前后视频形成完整证据。","textPreview":"作业前｜解析工作票、检查摄像头在线与视角，计划开始前5—10分钟预热。 | 作业中｜按实际许可开始时间接入实时流，按短片段流式分析，高风险事件即时预警。 | 作业后｜按实际终结时间停止分析；实时链路中断时，按票面时间范围补调历史录像离线补检。 |  | 处理策略：无人员/无...","textChars":170,"textLines":5,"bbox":[33.93,118.8,878.73,408.53]}
+{"kind":"image","id":"im/dsvqpw3q","slide":13,"name":"Picture 2","bbox":[729.48,1.97,230.52,73.67]}
+{"kind":"notes","id":"nt/3ihcdm","slide":13,"text":"[Sources]\n- 用户提供：电网安全智能管控项目阶段性进展汇报_整合版.pptx，模板及阶段成果材料。"}
+{"kind":"slide","id":"sl/lta1s2","slide":14,"title":"联动落地依赖主数据、可视关系和统一时钟","textShapes":3}
+{"kind":"textbox","id":"sh/lgb29kne","slide":14,"name":"Text Box 4","text":"联动落地依赖主数据、可视关系和统一时钟","textPreview":"联动落地依赖主数据、可视关系和统一时钟","textChars":19,"textLines":1,"bbox":[56.58,65.9,846.71,52.8]}
+{"kind":"shape","id":"sh/8j21kzmp","slide":14,"name":"Rectangle 163","bbox":[0,0,960,0]}
+{"kind":"textbox","id":"sh/2lgj6lof","slide":14,"name":"矩形 7","text":"三、联动与预警闭环","textPreview":"三、联动与预警闭环","textChars":9,"textLines":1,"bbox":[33.97,5.46,213.26,48.47]}
+{"kind":"textbox","id":"sh/mhkjip4j","slide":14,"name":"文本框 3","text":"1. 名称不统一｜建立设备主数据和别名词典，以唯一编码作为关联主键。\n2. 安装在附近不等于能够看见｜维护摄像头覆盖设备、预置位、画质和优先级并现场校验。\n3. 计划与实际不一致｜以许可、间断、复工和终结事件驱动任务状态。\n4. 视频并发与算力压力｜按风险选择算法，先过滤再精识别，使用任务队列和GPU资源池。\n5. 跨系统接口不稳定｜用统一数据服务与适配层解耦，支持重试、补调、断点与全过程审计。","textPreview":"1. 名称不统一｜建立设备主数据和别名词典，以唯一编码作为关联主键。 | 2. 安装在附近不等于能够看见｜维护摄像头覆盖设备、预置位、画质和优先级并现场校验。 | 3. 计划与实际不一致｜以许可、间断、复工和终结事件驱动任务状态。 | 4. 视频并发与算力压力｜按风险选择算...","textChars":199,"textLines":5,"bbox":[33.93,118.8,878.73,208.82]}
+{"kind":"image","id":"im/e5wv61wz","slide":14,"name":"Picture 2","bbox":[729.48,1.97,230.52,73.67]}
+{"kind":"notes","id":"nt/lta1s2","slide":14,"text":"[Sources]\n- 用户提供：电网安全智能管控项目阶段性进展汇报_整合版.pptx，模板及阶段成果材料。"}
+{"kind":"slide","id":"sl/84sh4p","slide":15,"title":"每条预警都要回答五个管理问题","textShapes":6}
+{"kind":"textbox","id":"sh/zy9obe9w","slide":15,"name":"Text Box 4","text":"每条预警都要回答五个管理问题","textPreview":"每条预警都要回答五个管理问题","textChars":14,"textLines":1,"bbox":[43.67,65.16,914.75,101.67]}
+{"kind":"textbox","id":"sh/o7u1wrax","slide":15,"name":"矩形 5","text":"为什么报警｜记录违章类型、风险等级、置信度和触发规则。\n证据是什么｜保留标注关键帧、事件前后视频和原始视频索引。\n关联哪项工作｜绑定工作票、站点、间隔、设备、区域、摄像头和事件时间。\n谁应处理｜依据工作负责人、管理职责和预警等级确定通知对象。\n是否闭环｜记录通知、确认、处置、复核和归档结果；误报与漏报进入持续优化。","textPreview":"为什么报警｜记录违章类型、风险等级、置信度和触发规则。 | 证据是什么｜保留标注关键帧、事件前后视频和原始视频索引。 | 关联哪项工作｜绑定工作票、站点、间隔、设备、区域、摄像头和事件时间。 | 谁应处理｜依据工作负责人、管理职责和预警等级确定通知对象。 | 是否闭环｜记录...","textChars":158,"textLines":5,"bbox":[50.11,114.63,861.83,199.53]}
+{"kind":"shape","id":"sh/xwn29gre","slide":15,"name":"Rectangle 140","bbox":[0,0,960,0]}
+{"kind":"textbox","id":"sh/98325wri","slide":15,"name":"矩形 6","text":"三、联动与预警闭环","textPreview":"三、联动与预警闭环","textChars":9,"textLines":1,"bbox":[33.97,5.46,213.26,48.47]}
+{"kind":"textbox","id":"sh/n6lk3m9c","slide":15,"name":"矩形 4","text":"事件与工作票关联","textPreview":"事件与工作票关联","textChars":8,"textLines":1,"bbox":[367.2,503.87,253.93,32.2]}
+{"kind":"textbox","id":"sh/61g36lsv","slide":15,"name":"矩形 7","text":"运行过程可观测","textPreview":"运行过程可观测","textChars":7,"textLines":1,"bbox":[94.47,504.53,227.93,32.2]}
+{"kind":"textbox","id":"sh/72pkfq9g","slide":15,"name":"矩形 8","text":"证据、处置与结果留痕","textPreview":"证据、处置与结果留痕","textChars":10,"textLines":1,"bbox":[599.71,503.87,339.28,32.2]}
+{"kind":"image","id":"im/rylo76h4","slide":15,"name":"Picture 2","bbox":[729.48,1.97,230.52,73.67]}
+{"kind":"image","id":"im/qxsne10j","slide":15,"name":"图片 17","bbox":[651.13,316.2,246.4,180.53]}
+{"kind":"image","id":"im/xwn6l0ze","slide":15,"name":"图片 9","bbox":[372.93,314.13,234.13,182.6]}
+{"kind":"image","id":"im/wvepsvyt","slide":15,"name":"图片 1","bbox":[64.2,314.13,293.53,157.67]}
+{"kind":"notes","id":"nt/84sh4p","slide":15,"text":"[Sources]\n- 用户提供：电网安全智能管控项目阶段性进展汇报_整合版.pptx，模板及阶段成果材料。"}
+{"kind":"slide","id":"sl/adhiq3","slide":16,"title":"智能体是任务协调与辅助决策中枢，不是单独判违章","textShapes":6}
+{"kind":"textbox","id":"sh/i1gredsf","slide":16,"name":"Text Box 4","text":"智能体是任务协调与辅助决策中枢，不是单独判违章","textPreview":"智能体是任务协调与辅助决策中枢，不是单独判违章","textChars":23,"textLines":1,"bbox":[43.67,65.16,914.75,101.67]}
+{"kind":"textbox","id":"sh/vahs72l8","slide":16,"name":"矩形 5","text":"理解任务｜读取工作票，识别时间、地点、设备、人员、安全措施和危险点。\n自动规划｜确定摄像头、预置位、算法、阈值、时间窗口和巡检频率。\n调用工具｜查询设备台账与人员资质，调取实时/历史视频并调用识别模型。\n综合研判｜融合票面约束、视频结果、设备状态和规则库，计算风险等级并解释依据。\n推动闭环｜通知正确人员，跟踪确认与处置，超时升级并将结果写回事件台账。","textPreview":"理解任务｜读取工作票，识别时间、地点、设备、人员、安全措施和危险点。 | 自动规划｜确定摄像头、预置位、算法、阈值、时间窗口和巡检频率。 | 调用工具｜查询设备台账与人员资质，调取实时/历史视频并调用识别模型。 | 综合研判｜融合票面约束、视频结果、设备状态和规则库，计算风...","textChars":176,"textLines":5,"bbox":[50.11,114.63,861.83,199.53]}
+{"kind":"shape","id":"sh/ml8rux4r","slide":16,"name":"Rectangle 140","bbox":[0,0,960,0]}
+{"kind":"textbox","id":"sh/u98ryhkn","slide":16,"name":"矩形 6","text":"三、联动与预警闭环","textPreview":"三、联动与预警闭环","textChars":9,"textLines":1,"bbox":[33.97,5.46,213.26,48.47]}
+{"kind":"textbox","id":"sh/wbat072t","slide":16,"name":"矩形 4","text":"多模态感知工具","textPreview":"多模态感知工具","textChars":7,"textLines":1,"bbox":[367.2,503.87,253.93,32.2]}
+{"kind":"textbox","id":"sh/5gjadw3a","slide":16,"name":"矩形 7","text":"Agent与知识检索","textPreview":"Agent与知识检索","textChars":10,"textLines":1,"bbox":[94.47,504.53,227.93,32.2]}
+{"kind":"textbox","id":"sh/4fat4r2p","slide":16,"name":"矩形 8","text":"预警编排与处置闭环","textPreview":"预警编排与处置闭环","textChars":9,"textLines":1,"bbox":[599.71,503.87,339.28,32.2]}
+{"kind":"image","id":"im/qtgzel4j","slide":16,"name":"Picture 2","bbox":[729.48,1.97,230.52,73.67]}
+{"kind":"image","id":"im/rupg7qlo","slide":16,"name":"图片 3","bbox":[79.33,316.2,259,180.53]}
+{"kind":"image","id":"im/0zihkfml","slide":16,"name":"图片 17","bbox":[651.13,316.2,246.4,180.53]}
+{"kind":"image","id":"im/10ridk36","slide":16,"name":"图片 9","bbox":[374.13,315.4,234.67,182.6]}
+{"kind":"notes","id":"nt/adhiq3","slide":16,"text":"[Sources]\n- 用户提供：电网安全智能管控项目阶段性进展汇报_整合版.pptx，模板及阶段成果材料。\n- 用户提供：【开题审查】2026年国网华东分部基于多模态数据分析的电网安全智能管控关键技术研究.pptx，研究任务、技术路线和智能体方案。"}
+{"kind":"slide","id":"sl/7euyek","slide":17,"title":"智能体贯穿作业前、作业中和作业后","textShapes":6}
+{"kind":"textbox","id":"sh/a5wzyd8n","slide":17,"name":"Text Box 4","text":"智能体贯穿作业前、作业中和作业后","textPreview":"智能体贯穿作业前、作业中和作业后","textChars":16,"textLines":1,"bbox":[43.67,65.16,914.75,101.67]}
+{"kind":"textbox","id":"sh/72x8zmd0","slide":17,"name":"矩形 5","text":"作业前｜检查票面完整性、时间逻辑、设备匹配和人员资质；提取重点风险并生成监控计划。\n作业中｜按实际许可启动视频任务；接收候选事件；结合票、区域、人员和设备二次判断；去重、分级并生成解释。\n作业后｜检查未闭环事件与视频中断；生成安全摘要；将确认违章、误报和处置结果回流到样本库、规则库和知识库。","textPreview":"作业前｜检查票面完整性、时间逻辑、设备匹配和人员资质；提取重点风险并生成监控计划。 | 作业中｜按实际许可启动视频任务；接收候选事件；结合票、区域、人员和设备二次判断；去重、分级并生成解释。 | 作业后｜检查未闭环事件与视频中断；生成安全摘要；将确认违章、误报和处置结果回流...","textChars":146,"textLines":3,"bbox":[50.11,114.63,861.83,199.53]}
+{"kind":"shape","id":"sh/u5oru1cr","slide":17,"name":"Rectangle 140","bbox":[0,0,960,0]}
+{"kind":"textbox","id":"sh/m1o7qhcf","slide":17,"name":"矩形 6","text":"三、联动与预警闭环","textPreview":"三、联动与预警闭环","textChars":9,"textLines":1,"bbox":[33.97,5.46,213.26,48.47]}
+{"kind":"textbox","id":"sh/836psrul","slide":17,"name":"矩形 4","text":"作业前：风险预控","textPreview":"作业前：风险预控","textChars":8,"textLines":1,"bbox":[367.2,503.87,253.93,32.2]}
+{"kind":"textbox","id":"sh/t0jqd0ba","slide":17,"name":"矩形 7","text":"作业中：实时研判","textPreview":"作业中：实时研判","textChars":8,"textLines":1,"bbox":[94.47,504.53,227.93,32.2]}
+{"kind":"textbox","id":"sh/sza94vup","slide":17,"name":"矩形 8","text":"作业后：复盘学习","textPreview":"作业后：复盘学习","textChars":8,"textLines":1,"bbox":[599.71,503.87,339.28,32.2]}
+{"kind":"image","id":"im/6p0jmxwv","slide":17,"name":"Picture 2","bbox":[729.48,1.97,230.52,73.67]}
+{"kind":"image","id":"im/7q9kfixg","slide":17,"name":"图片 3","bbox":[79.33,316.2,259,180.53]}
+{"kind":"image","id":"im/k3i1knyp","slide":17,"name":"图片 17","bbox":[651.13,316.2,246.4,180.53]}
+{"kind":"image","id":"im/l4r2dsfa","slide":17,"name":"图片 9","bbox":[374.13,315.4,234.67,182.6]}
+{"kind":"notes","id":"nt/7euyek","slide":17,"text":"[Sources]\n- 用户提供：电网安全智能管控项目阶段性进展汇报_整合版.pptx，模板及阶段成果材料。\n- 用户提供：【开题审查】2026年国网华东分部基于多模态数据分析的电网安全智能管控关键技术研究.pptx，研究任务、技术路线和智能体方案。"}
+{"kind":"slide","id":"sl/yq3qh7","slide":18,"title":"预警由模型、规则、知识和人工共同约束","textShapes":3}
+{"kind":"textbox","id":"sh/xcvyhcva","slide":18,"name":"Text Box 4","text":"预警由模型、规则、知识和人工共同约束","textPreview":"预警由模型、规则、知识和人工共同约束","textChars":18,"textLines":1,"bbox":[56.58,65.9,846.71,52.8]}
+{"kind":"shape","id":"sh/8nmhk7ud","slide":18,"name":"Rectangle 163","bbox":[0,0,960,0]}
+{"kind":"textbox","id":"sh/yhkzexwb","slide":18,"name":"矩形 7","text":"三、联动与预警闭环","textPreview":"三、联动与预警闭环","textChars":9,"textLines":1,"bbox":[33.97,5.46,213.26,48.47]}
+{"kind":"textbox","id":"sh/ml4zixwn","slide":18,"name":"文本框 3","text":"组合机制｜专用视觉模型 + 确定性业务规则 + 权威知识库 + 人工把关。\n风险评分｜综合违章严重程度、视觉置信度、作业对象风险、持续时间和多源一致性。\n解释示例｜“10:23，CAM-03连续8秒检测到未戴安全帽，关联工作票WP-2026-XXX，置信度0.92，依据现场安全要求判定为橙色预警，请负责人3分钟内确认。”\n\n边界：大模型负责信息归纳、解释与流程编排；关键生产判断必须受权威数据、确定性规则和专用模型约束。","textPreview":"组合机制｜专用视觉模型 + 确定性业务规则 + 权威知识库 + 人工把关。 | 风险评分｜综合违章严重程度、视觉置信度、作业对象风险、持续时间和多源一致性。 | 解释示例｜“10:23，CAM-03连续8秒检测到未戴安全帽，关联工作票WP-2026-XXX，置信度0.92，...","textChars":211,"textLines":5,"bbox":[33.93,118.8,878.73,236.47]}
+{"kind":"image","id":"im/m1k3md4v","slide":18,"name":"Picture 2","bbox":[729.48,1.97,230.52,73.67]}
+{"kind":"notes","id":"nt/yq3qh7","slide":18,"text":"[Sources]\n- 用户提供：电网安全智能管控项目阶段性进展汇报_整合版.pptx，模板及阶段成果材料。\n- 用户提供：【开题审查】2026年国网华东分部基于多模态数据分析的电网安全智能管控关键技术研究.pptx，研究任务、技术路线和智能体方案。"}
+{"kind":"slide","id":"sl/fgkn80","slide":19,"title":"分级预警让高风险立即响应、疑似事件先复核","textShapes":3}
+{"kind":"textbox","id":"sh/eh4jq9gv","slide":19,"name":"Text Box 4","text":"分级预警让高风险立即响应、疑似事件先复核","textPreview":"分级预警让高风险立即响应、疑似事件先复核","textChars":20,"textLines":1,"bbox":[56.58,65.9,846.71,52.8]}
+{"kind":"shape","id":"sh/nmxk3ehc","slide":19,"name":"Rectangle 163","bbox":[0,0,960,0]}
+{"kind":"textbox","id":"sh/5svitkze","slide":19,"name":"矩形 7","text":"三、联动与预警闭环","textPreview":"三、联动与预警闭环","textChars":9,"textLines":1,"bbox":[33.97,5.46,213.26,48.47]}
+{"kind":"textbox","id":"sh/pof25ozi","slide":19,"name":"文本框 3","text":"红色｜误入带电间隔、高风险越界、高处未系安全带、人员倒地、明火烟雾。现场提醒并同步负责人、管理人员和指挥中心，超时自动升级。\n橙色｜未戴安全帽、现场吸烟、持续使用手机等。推送关键帧和短视频，要求负责人限时确认整改。\n黄色｜置信度中等、部分遮挡、疑似不规范或摄像头质量下降。进入监控中心复核队列，不直接作出违章结论。\n\n抑制预警疲劳：多帧确认、事件合并、告警冷却、风险变化才重复提醒、人工反馈校准阈值。","textPreview":"红色｜误入带电间隔、高风险越界、高处未系安全带、人员倒地、明火烟雾。现场提醒并同步负责人、管理人员和指挥中心，超时自动升级。 | 橙色｜未戴安全帽、现场吸烟、持续使用手机等。推送关键帧和短视频，要求负责人限时确认整改。 | 黄色｜置信度中等、部分遮挡、疑似不规范或摄像头质量...","textChars":200,"textLines":5,"bbox":[33.93,118.8,878.73,291.77]}
+{"kind":"image","id":"im/pwbixgnu","slide":19,"name":"Picture 2","bbox":[729.48,1.97,230.52,73.67]}
+{"kind":"notes","id":"nt/fgkn80","slide":19,"text":"[Sources]\n- 用户提供：电网安全智能管控项目阶段性进展汇报_整合版.pptx，模板及阶段成果材料。\n- 用户提供：【开题审查】2026年国网华东分部基于多模态数据分析的电网安全智能管控关键技术研究.pptx，研究任务、技术路线和智能体方案。"}
+{"kind":"slide","id":"sl/29ar0b","slide":20,"title":"五层能力底座保障智能体可控、可用、可审计","textShapes":3}
+{"kind":"textbox","id":"sh/0repwz29","slide":20,"name":"Text Box 4","text":"五层能力底座保障智能体可控、可用、可审计","textPreview":"五层能力底座保障智能体可控、可用、可审计","textChars":20,"textLines":1,"bbox":[56.58,65.9,846.71,52.8]}
+{"kind":"shape","id":"sh/d436l43y","slide":20,"name":"Rectangle 163","bbox":[0,0,960,0]}
+{"kind":"textbox","id":"sh/3y1ofulw","slide":20,"name":"矩形 7","text":"三、联动与预警闭环","textPreview":"三、联动与预警闭环","textChars":9,"textLines":1,"bbox":[33.97,5.46,213.26,48.47]}
+{"kind":"textbox","id":"sh/r2lojuls","slide":20,"name":"文本框 3","text":"工具层｜工作票、设备台账、人员资质、摄像头、视频、算法、通知与归档接口。\n知识层｜安全规程、违章库、制度、设备风险、历史案例与处置预案。\n规则层｜字段校验、设备匹配、违章判定、风险分级、通知与超时升级规则。\n状态层｜持续保存工作票任务、事件、通知、反馈和未完成事项。\n治理层｜最小权限、人工审批、数据脱敏、操作审计、工具调用防护与故障降级。\n\n降级原则：OCR不确定转人工；摄像头不可用提示换机位或补调；模型异常保留视频并创建补检任务。","textPreview":"工具层｜工作票、设备台账、人员资质、摄像头、视频、算法、通知与归档接口。 | 知识层｜安全规程、违章库、制度、设备风险、历史案例与处置预案。 | 规则层｜字段校验、设备匹配、违章判定、风险分级、通知与超时升级规则。 | 状态层｜持续保存工作票任务、事件、通知、反馈和未完成事...","textChars":218,"textLines":7,"bbox":[33.93,118.8,878.73,277.45]}
+{"kind":"image","id":"im/v2tcnil8","slide":20,"name":"Picture 2","bbox":[729.48,1.97,230.52,73.67]}
+{"kind":"notes","id":"nt/29ar0b","slide":20,"text":"[Sources]\n- 用户提供：电网安全智能管控项目阶段性进展汇报_整合版.pptx，模板及阶段成果材料。\n- 用户提供：【开题审查】2026年国网华东分部基于多模态数据分析的电网安全智能管控关键技术研究.pptx，研究任务、技术路线和智能体方案。"}
+{"kind":"slide","id":"sl/2nrnyk","slide":21,"title":"阶段成果必须用实测数据和统一口径呈现","textShapes":5}
+{"kind":"textbox","id":"sh/8ry90n25","slide":21,"name":"Text Box 4","text":"阶段成果必须用实测数据和统一口径呈现","textPreview":"阶段成果必须用实测数据和统一口径呈现","textChars":18,"textLines":1,"bbox":[43.67,65.16,914.75,101.67]}
+{"kind":"textbox","id":"sh/l0j6t83q","slide":21,"name":"矩形 5","text":"建议正式汇报前补齐：\n• 已接入工作票类型、字段数量与关键字段准确率；\n• 设备—摄像头关联条目、覆盖站点和接入摄像头数量；\n• 已验证违章类别及准确率、召回率、误报率；\n• 单票平均解析耗时、事件到预警的平均时延；\n• 已形成证据闭环事件数量。\n\n所有指标须注明测试集、样本量与统计口径；未验证能力统一放入下一阶段计划。","textPreview":"建议正式汇报前补齐： | • 已接入工作票类型、字段数量与关键字段准确率； | • 设备—摄像头关联条目、覆盖站点和接入摄像头数量； | • 已验证违章类别及准确率、召回率、误报率； | • 单票平均解析耗时、事件到预警的平均时延； | • 已形成证据闭环事件数量。 |  ...","textChars":161,"textLines":8,"bbox":[50.11,114.63,861.83,216.96]}
+{"kind":"shape","id":"sh/cvq5wj2t","slide":21,"name":"Rectangle 140","bbox":[0,0,960,0]}
+{"kind":"textbox","id":"sh/0zqp0325","slide":21,"name":"矩形 6","text":"四、成果与计划","textPreview":"四、成果与计划","textChars":7,"textLines":1,"bbox":[33.97,5.46,213.26,48.47]}
+{"kind":"textbox","id":"sh/f2xoful0","slide":21,"name":"矩形 7","text":"工作票识别实测","textPreview":"工作票识别实测","textChars":7,"textLines":1,"bbox":[94.47,504.53,227.93,32.2]}
+{"kind":"textbox","id":"sh/u1onm94v","slide":21,"name":"矩形 8","text":"联动与闭环实测","textPreview":"联动与闭环实测","textChars":7,"textLines":1,"bbox":[599.71,503.87,339.28,32.2]}
+{"kind":"image","id":"im/szy9gn6h","slide":21,"name":"Picture 2","bbox":[729.48,1.97,230.52,73.67]}
+{"kind":"image","id":"im/d07a9sn2","slide":21,"name":"图片 3","bbox":[79.33,316.2,259,180.53]}
+{"kind":"notes","id":"nt/2nrnyk","slide":21,"text":"[Sources]\n- 用户提供：电网安全智能管控项目阶段性进展汇报_整合版.pptx，模板及阶段成果材料。"}
+{"kind":"slide","id":"sl/l8ua4o","slide":22,"title":"下一阶段按五步完成验证、闭环与推广","textShapes":3}
+{"kind":"textbox","id":"sh/90nmhwbm","slide":22,"name":"Text Box 4","text":"下一阶段按五步完成验证、闭环与推广","textPreview":"下一阶段按五步完成验证、闭环与推广","textChars":17,"textLines":1,"bbox":[56.58,65.9,846.71,52.8]}
+{"kind":"shape","id":"sh/kvul4ru5","slide":22,"name":"Rectangle 163","bbox":[0,0,960,0]}
+{"kind":"textbox","id":"sh/ipg3elc3","slide":22,"name":"矩形 7","text":"四、成果与计划","textPreview":"四、成果与计划","textChars":7,"textLines":1,"bbox":[33.97,5.46,213.26,48.47]}
+{"kind":"textbox","id":"sh/ytc32hcz","slide":22,"name":"文本框 3","text":"1. 能力核实与数据治理｜确认字段、标签、设备主数据、摄像头覆盖关系和实测口径。\n2. 打通最小业务闭环｜选择典型站点，实现票解析—联动—识别—复核—归档。\n3. 提升识别质量｜补充小目标、遮挡、夜间样本，建立难例回流、灰度发布和回归测试。\n4. 上线智能体辅助预警｜先做任务编排、预警解释和处置跟踪，关键操作保持规则约束与人工确认。\n5. 规模化推广｜形成接口、映射、算法、预警和运营评价标准，向更多站点复制。","textPreview":"1. 能力核实与数据治理｜确认字段、标签、设备主数据、摄像头覆盖关系和实测口径。 | 2. 打通最小业务闭环｜选择典型站点，实现票解析—联动—识别—复核—归档。 | 3. 提升识别质量｜补充小目标、遮挡、夜间样本，建立难例回流、灰度发布和回归测试。 | 4. 上线智能体辅助...","textChars":206,"textLines":5,"bbox":[33.93,118.8,878.73,385.47]}
+{"kind":"image","id":"im/ul8n69or","slide":22,"name":"Picture 2","bbox":[729.48,1.97,230.52,73.67]}
+{"kind":"notes","id":"nt/l8ua4o","slide":22,"text":"[Sources]\n- 用户提供：电网安全智能管控项目阶段性进展汇报_整合版.pptx，模板及阶段成果材料。\n- 用户提供：【开题审查】2026年国网华东分部基于多模态数据分析的电网安全智能管控关键技术研究.pptx，研究任务、技术路线和智能体方案。"}
+{"kind":"slide","id":"sl/l0qgmh","slide":23,"title":"形成“票、设备、人、视频、风险、处置”六要素贯通的智能管控体系","textShapes":1}
+{"kind":"textbox","id":"sh/eh8japc7","slide":23,"name":"矩形 1","text":"形成“票、设备、人、视频、风险、处置”六要素贯通的智能管控体系\n\n推动电网作业安全管理从事后抽查走向全过程主动防控","textPreview":"形成“票、设备、人、视频、风险、处置”六要素贯通的智能管控体系 |  | 推动电网作业安全管理从事后抽查走向全过程主动防控","textChars":57,"textLines":3,"bbox":[64.21,164.16,846.71,319.2]}
+{"kind":"image","id":"im/yl0rip8v","slide":23,"name":"Picture 2","bbox":[729.48,1.97,230.52,73.67]}
+{"kind":"notes","id":"nt/l0qgmh","slide":23,"text":"[Sources]\n- 用户提供：电网安全智能管控项目阶段性进展汇报_整合版.pptx，模板及阶段成果材料。\n- 用户提供：【开题审查】2026年国网华东分部基于多模态数据分析的电网安全智能管控关键技术研究.pptx，研究任务、技术路线和智能体方案。"}

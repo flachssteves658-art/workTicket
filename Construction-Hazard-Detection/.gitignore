@@ -1,0 +1,46 @@
+.DS_Store
+*.txt
+*.jpg
+*.png
+*.jpeg
+*.pt
+*.log
+*.onnx
+*.out
+*.yaml
+*.json
+*.ipynb
+*.csv
+*.zip
+*.yaml
+.env
+.camera.env
+!assets/images/images(6).png
+!assets/images/sinya-1706871806.png
+!assets/sweep.yaml
+!assets/flowcharts/site_safety_monitor_en.png
+!assets/flowcharts/site_safety_monitor_zh.png
+# examples
+!examples/YOLOv8-Fine-Tune/dataset/**
+!examples/Stream-Web/
+# Ignore all local model artifacts
+models/
+test.py
+__pycache__
+**/logs
+!assets/images/**
+configuration.json
+app copy.py
+examples/streaming_web/frontend/node_modules/**
+examples/streaming_web/frontend/dist/**
+!examples/streaming_web/frontend/package.json
+
+.history
+.history/**
+.history/**/*
+
+# Local runtime data and credentials
+*.mp4
+.trae/
+*全密码统一为*.md
+启动指南.md
